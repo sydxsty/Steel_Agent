@@ -1,0 +1,866 @@
+[
+  {
+    "content": "中华人民共和国国家标准\n\nGB/T 712—2022   \n代替 GB/T 712—2011\n\n船舶及海洋工程用结构钢\n\nStructural steel for ship and ocean engineering\n\n国家市场监督管理总局国家标准化管理委员会\n\n发布",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 0,
+      "content_sha256": "08e855de4021d7d3d78ea15c0584c8f606ea57f69663a743b3d86135ab0c3486",
+      "doc_id": "0ce28224b7963a7392a243f45d79ddf69af50fbe0f247344c5c288e2c49be2f1"
+    }
+  },
+  {
+    "content": "前言\n\n本文件按照GB/T1.1—2020《标准化工作导则 第1部分：标准化文件的结构和起草规则》的规定起草。\n\n本文件代替GB/T712—2011《船舶及海洋工程用结构钢》，与GB/T712—2011相比，除结构调整和编辑性改动外，主要技术变化如下：\n\na) 更改了海洋工程结构用钢适用厚度范围（见第1章，2011年版的第1章）；  \nb）增加了超高强度790、890、960共3个钢级10个牌号（见第4章）；  \nc) 增加了钢板平均厚度要求(见6.1)；  \nd) 更改了超高强度级钢材的化学成分要求（见表4，2011年版的表4）；  \ne) 增加了超高强度级钢材的碳当量要求（见表5）；  \nf）增加了超高强度级厚度方向性能钢和 690、790、890、960 钢级非厚度方向性能钢进行真空脱气处理要求（见7.2)；  \ng) 增加了连铸坯和钢锭轧制压缩比的要求（见7.2）；  \nh) 更改了超高强度级钢材的力学性能要求（见表7，2011年版的表6)；  \ni) 增加了超高强度级钢材的晶粒度要求（见7.5）；  \nj) 增加了钢板平均厚度的测量方法(见8.2)；  \nk) 更改了超高强度级钢材取样位置的要求(见 8.3，2011年版的7.4)；  \n1) 更改了超高强度级钢材组批的要求（见9.2，2011年版的7.3)；  \nm) 更改了超高强度级钢材冲击检验批量的要求（见附录B，2011年版的附录A）；  \nn）更改了控制轧制（CR）（见附录B，2011年版的附录A）。  \n请注意本文件的某些内容可能涉及专利。本文件的发布机构不承担识别专利的责任。\n\n本文件由中国钢铁工业协会提出。\n\n本文件由全国钢标准化技术委员会（SAC/TC 183)归口。\n\n本文件起草单位：鞍钢股份有限公司、冶金工业信息标准研究院、新余钢铁股份有限公司、湖南华菱湘潭钢铁有限公司、江阴兴澄特种钢铁有限公司、河北普阳钢铁有限公司、南京钢铁股份有限公司、本钢板材股份有限公司、中科西王特钢有限公司、广西柳州钢铁集团有限公司、山东钢铁股份有限公司莱芜分公司、青岛钢研纳克检测防护技术有限公司、首钢集团有限公司、中国船级社、广东韶钢松山股份有限公司。\n\n本文件主要起草人：王华、管吉春、朴志民、张维旭、孙梦寒、熊文名、杨建华、孟羽、王智聪、靳星、黄建国、张健、韦昇、王中学、丁国清、狄国标、赵捷、丘文生、严玲、陈华、张鹏、田子健、刘志芳、周文浩、刘观猷、陈建超、尹志钧、任长坡、信世奇、袁勤攀、张佩、杨海洋、秦丽晔、高旭辉。\n\n本文件于1965年首次发布，1979年第一次修订，1988年第二次修订，2000 年第三次修订，2011年第四次修订，本次为第五次修订。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 1,
+      "content_sha256": "5dfd6a1774cdd9a71e63653291931a86b862caac6c8408111ce2989694f110be",
+      "doc_id": "5d5de8fdf0480f2bd98574f3a02dff73c0ac64734147d6ef6e57c0d0a0109996"
+    }
+  },
+  {
+    "content": "船舶及海洋工程用结构钢\n\n范围\n\n本文件规定了船舶及海洋工程用结构钢的分类及牌号、订货内容、尺寸、外形、重量、技术要求、试验方法、检验规则、包装、标志及质量证明书。\n\n本文件适用于制造远洋、沿海和内河航区航行船舶、渔船等船体结构用厚度不大于150mm 及海洋工程结构用厚度不大于250mm 的钢板，厚度不大于25.4mm的钢带及剪切板，厚度不大于50 mm的型钢或直径不大于50 mm棒材（以下简称钢材）。\n\n2 规范性引用文件\n\n下列文件中的内容通过文中的规范性引用而构成本文件必不可少的条款。其中，注日期的引用文件，仅该日期对应的版本适用于本文件；不注日期的引用文件，其最新版本（包括所有的修改单）适用于本文件。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 2,
+      "content_sha256": "ff14162a59585eb82990b6f73face23e169817e3d20611ad2edea0fa6993b247",
+      "doc_id": "13526c091ee3f7d8ba71199bee018c55acbe440ecbdb9dce46388ceec061a71c"
+    }
+  },
+  {
+    "content": "GB/T222 钢的成品化学成分允许偏差  \nGB/T 223.5 钢铁酸溶硅和全硅含量的测定 还原型硅钼酸盐分光光度法  \nGB/T223.9 钢铁及合金铝含量的测定铬天青S分光光度法  \nGB/T 223.12 钢铁及合金化学分析方法碳酸钠分离-二苯碳酰二#光度法测定铬量  \nGB/T 223.14 钢铁及合金化学分析方法 钽试剂萃取光度法测定钒含量  \nGB/T 223.19 钢铁及合金化学分析方法新亚铜灵-三氯甲烷萃取光度法测定铜量  \nGB/T 223.23 钢铁及合金镍含量的测定丁二铜肟分光光度法  \nGB/T223.25 钢铁及合金化学分析方法丁二铜污重量法测定镍量  \nGB/T 223.26 钢铁及合金钼含量的测定硫氰酸盐分光光度法  \nGB/T 223.37 钢铁及合金氮含量的测定蒸馏分离靛酚蓝分光光度法  \nGB/T 223.40 钢铁及合金铌含量的测定 氯磺酚S分光光度法  \nGB/T 223.62 钢铁及合金化学分析方法 乙酸丁酯萃取光度法测定磷量  \nGB/T 223.63 钢铁及合金化学分析方法高碘酸钠（钾）光度法测定锰量  \nGB/T 223.67 钢铁及合金硫含量的测定次甲基蓝分光光度法  \nGB/T 223.69 钢铁及合金碳含量的测定管式炉内燃烧后气体容量法  \nGB/T 223.78 钢铁及合金化学分析方法姜黄素直接光度法测定硼含量  \nGB/T 223.84 钢铁及合金钛含量的测定二安替比林甲烷分光光度法  \nGB/T 228.1 金属材料拉伸试验第1部分：室温试验方法  \nGB/T 229 金属材料夏比摆锤冲击试验方法  \nGB/T 247 钢板和钢带包装、标志及质量证明书的一般规定  \nGB/T709 热轧钢板和钢带的尺寸、外形、重量及允许偏差  \nGB/T1591 低合金高强度结构钢  \nGB/T2101 型钢验收、包装、标志及质量证明书的一般规定  \nGB/T2970 厚钢板超声检测方法  \nGB/T 2975 钢及钢产品 力学性能试验取样位置及试样制备  \nGB/T4336 碳素钢和中低合金钢 多元素含量的测定 火花放电原子发射光谱法（常规法）  \nGB/T 5313 厚度方向性能钢板  \nGB/T6394 金属平均晶粒度测定方法  \nGB/T8170 数值修约规则与极限数值的表示和判定  \nGB/T11261 钢铁氧含量的测定脉冲加热惰气熔融-红外线吸收法  \nGB/T17505 钢及钢产品交货一般技术要求  \nGB/T20066 钢和铁化学成分测定用试样的取样和制样方法  \nGB/T 20123 钢铁总碳硫含量的测定高频感应炉燃烧后红外吸收法（常规方法）  \nGB/T 20124 钢铁氮含量的测定惰性气体熔融热导法（常规方法）",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 3,
+      "content_sha256": "b6628a90df482654d55d4380c2731db3a6ea7a57aaea9e6e5b989c58c318020b",
+      "doc_id": "1147b8135320a955be6e520e0d1339850491c9b82f42f019be260892dc17a7df"
+    }
+  },
+  {
+    "content": "GB/T11261 钢铁氧含量的测定脉冲加热惰气熔融-红外线吸收法  \nGB/T17505 钢及钢产品交货一般技术要求  \nGB/T20066 钢和铁化学成分测定用试样的取样和制样方法  \nGB/T 20123 钢铁总碳硫含量的测定高频感应炉燃烧后红外吸收法（常规方法）  \nGB/T 20124 钢铁氮含量的测定惰性气体熔融热导法（常规方法）  \nGB/T20125 低合金钢 多元素含量的测定 电感耦合等离子体原子发射光谱法",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 4,
+      "content_sha256": "78a3bf11b79ea074d901ae4508b9f84f489925a7c0757bbeea9aaa559bcd5b82",
+      "doc_id": "415f68ac635a43a1793893b711cb527a52d5cf17f8f08c8af8975dfebca2c8e3"
+    }
+  },
+  {
+    "content": "3 术语和定义\n\nGB/T 1591 界定的术语和定义适用于本文件。\n\n分类及牌号\n\n4.1 钢材的分类及牌号应符合表1的规定。各船级社规范中规定各钢级、牌号对照参见附录A。  \n4.2 当钢材有厚度方向性能要求时，应在表1的牌号后加上要求厚度方向性能级别的符号（Z25、Z35）。\n\n表1钢材的分类及牌号",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 5,
+      "content_sha256": "db8a3ffa2e43e73b232553995a1944789b8de7faae4e8bd3a28dbb30ef70ad16",
+      "doc_id": "8ff9e00108872febab466c7b946a671cb4031b4465ae95bf3a60381dcc6b55b4"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>分类</td><td>牌号</td></tr><tr><td>般强度</td><td>A、B、D、E</td></tr><tr><td>高强度级</td><td>AH32、DH32 EH32、FH32 AH36、DH36 EH36、FH36 AH40、DH40、EH40、FH40</td></tr><tr><td>超高强度级</td><td>AH420、DH420、EH420、FH420 AH460、DH460、EH460、FH460 AH500、DH500、EH500 FH500 AH550,DH550. EH550、FH550 AH620、DH620 EH620 、FH620 AH690、DH690 EH690 、FH690 AH790、DH790、EH790、FH790 AH890、DH890、EH890 AH960、DH960、 EH960</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 6,
+      "content_sha256": "d0a5bab64212745c886860ae0660a5420b7c62b4e9729749e451629e7c811f8e",
+      "doc_id": "513bbcf661663da0b00a34d7e73acc648a36e02a1884e105400a81a517c8f6f7"
+    }
+  },
+  {
+    "content": "5 订货内容\n\nSAC\n\n5.1 按本文件订货的合同或订单应包括下列内容：\n\na) 本文件编号；  \nb) 牌号；规格；  \nd) 重量；尺寸及尺寸、外形精度；交货状态；  \ng) 标志；  \nh) 特殊要求。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 7,
+      "content_sha256": "d395f90c6d48cd476074c0579d081db465c7470d7733be6364d2c287fe1298e5",
+      "doc_id": "c4d87f277788374b59701ef7d2ae0c164961853985081eda4e5cbc96c6f381a5"
+    }
+  },
+  {
+    "content": "5.2 订货合同对 5.1e)～g)项内容未明确时，可由供方自行确定。\n\n6 尺寸、外形、重量\n\n6.1 钢板和钢带的尺寸、外形、重量及允许偏差应符合GB/T709 的规定，厚度下偏差为—0.30mm，钢板的平均厚度应不小于公称厚度。  \n6.2 型钢及棒材的尺寸、外形、重量及允许偏差应符合相应标准的规定。\n\n7 技术要求\n\n7.1 牌号和化学成分\n\n7.1.1 一般强度级、高强度级钢材的牌号和化学成分（熔炼分析）应符合表2的规定。以TMCP状态交货的高强度级钢材，其碳当量应符合表3的规定。  \n7.1.2 超高强度级钢材的牌号和化学成分（熔炼分析)应符合表4的规定。超高强度级钢材的碳当量（Ceq)应符合表5的规定。  \n7.1.3 当需方要求保证厚度方向性能钢板时，硫含量应符合GB/T5313 的规定。  \n7.1.4 钢材的成品化学成分允许偏差应符合GB/T222 的规定。碳当量Ceq计算公式：Ceq=C+Mn/6+（Cr+Mo+V)/5+(Ni+Cu)/15。  \n根据需要，对于460及以上钢级，供方可采用CET来代替Ceq，且按公式CET=C+（Mn+Mo)/10+（Cr+Cu)/20十Ni/40进行计算，其值应符合表5的规定。  \n根据需要，对于含碳量不大于 0.12%且交货状态为TM 或QT 的钢，供方可用Pcm 代替Ceq 或CET，且按公式Pcm=C+Si/30+Mn/20+Cu/20+Ni/60+Cr/20+Mo/15+V/10+5B进行计算，其值应符合表5的规定。对于厚度大于100 mm的钢板Ceq和CET的上限值可由供需双方协商进行调整。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 8,
+      "content_sha256": "169551d856e3c17be9954c7cf496f13fa744be2f5058fc8aebb71161888f387d",
+      "doc_id": "b769439ebab6879f42b0e1ce6e7288d89f36f196e2a592ad7f496bad6c38dccb"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"2\">牌号</td><td colspan=\"10\">化学成分=b,c（质量分数）/%</td><td colspan=\"4\"></td></tr><tr><td>DH32</td><td>≤0.18</td></tr><tr><td>DH36 DH40</td><td>0.90~ ≤0.025</td><td>≤0.025 ≤0.35</td><td>≤0.40 0.02~ 0.05</td></tr><tr><td>EH32</td><td>≤0.50 1.60g</td></tr><tr><td>EH36</td><td></td></tr><tr><td>EH40</td><td></td></tr><tr><td>FH32</td><td>≤0.16</td><td rowspan=\"2\"></td><td rowspan=\"2\">≤0.020</td><td rowspan=\"2\">≤0.020</td><td rowspan=\"2\"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>FH36</td><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td rowspan=\"2\">≤0.80</td><td rowspan=\"4\"></td><td rowspan=\"2\"></td><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td rowspan=\"4\">≤0.009h</td></tr><tr><td>FH40</td><td></td></tr><tr><td></td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 9,
+      "content_sha256": "40aa887467dba51239df28c65d223507aa56debf3589e0930ce0acf9d58895a5",
+      "doc_id": "5ebb62d0d2ba30a18df02d5606fb42b3037a8de3cbb94b92cc8685bfbc5ada5d"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td rowspan=\"2\">牌号</td><td colspan=\"3\">碳当量abCeq（质量分数)/%</td></tr><tr><td>钢材厚度(t)≤50 mm</td><td>50mm∧t100mm</td><td>100 mm∧t≤150mm</td></tr><tr><td>AH32、DH32、EH32、FH32</td><td>≤0.36</td><td>≤0.38</td><td>≤0.40</td></tr><tr><td>AH36、DH36、EH36、FH36</td><td>≤0.38</td><td>≤0.40</td><td>≤0.42</td></tr><tr><td>AH40、DH40 EH40、FH40</td><td>≤0.40</td><td>≤0.42</td><td>≤0.45</td></tr><tr><td colspan=\"4\">碳当量计算公式：Ceq=C+Mn/6+（Cr+Mo+V)/5+（Ni+Cu)/15。</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 10,
+      "content_sha256": "d7f72f61213a13a28dd7f16a4d1e111a4d78cbdae19b8f1cb9399a6e8a4c3985",
+      "doc_id": "cea6cb2c05daf18195049d2e99acee75ee5878050e102b7fd278378df78f43f4"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">牌号</td><td rowspan=\"3\">交货状态</td><td colspan=\"4\">碳当量Ceqd/%</td><td rowspan=\"3\">碳当量 (CETb,d) / %</td><td rowspan=\"3\">焊接裂纹敏 感性指数 (Pcmc)/%</td></tr><tr><td colspan=\"3\">板材厚度(t)/mm</td><td>型材厚度 (t)/mm</td></tr><tr><td>三50</td><td>>50 ~100</td><td>>100 ~250</td><td>≤50</td></tr><tr><td rowspan=\"3\">AH420 DH420、 EH420、FH420</td><td>N、NR</td><td>三0.46</td><td>三0.48</td><td>三0.52</td><td>≤0.47</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td></tr><tr><td>TM</td><td>≤0.43</td><td>三0.45</td><td>≤0.47</td><td>三0.44</td></tr><tr><td>QT</td><td>三0.45</td><td>三0.47</td><td>≤0.49</td><td></td></tr><tr><td rowspan=\"3\">AH460、DH460、EH460、FH460</td><td>N、NR</td><td>三0.50</td><td>≤0.52</td><td>三0.54</td><td>≤0.51</td><td>≤0.25</td><td></td></tr><tr><td>TM</td><td>三0.45</td><td>三0.47</td><td>三0.48</td><td>≤0.46</td><td>三0.30</td><td>≤0.23</td></tr><tr><td>QT</td><td>三0.47</td><td>三0.48</td><td>三0.50</td><td></td><td>≤0.32</td><td>≤0.24</td></tr><tr><td rowspan=\"2\">AH500、DH500、EH500、FH500</td><td>TM</td><td>≤0.46</td><td>三0.48</td><td>三0.50</td><td></td><td>≤0.32</td><td>≤0.24</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 11,
+      "content_sha256": "13b746785ff2ab41c0cf7ec6aa81006cafcf1dde954e34abd9dba5902d362a48",
+      "doc_id": "c19d902456fe6e22cdfbe674479e728f8a9bfc27252e7e5f9d5181e05d860910"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">牌号</td><td rowspan=\"3\">交货状态</td><td colspan=\"4\">碳当量Ceqd/%</td><td rowspan=\"3\">碳当量 (CETb,d) / %</td><td rowspan=\"3\">焊接裂纹敏 感性指数 (Pcmc)/%</td></tr><tr><td>QT</td><td>≤0.48</td><td>≤0.50</td><td>≤0.54</td><td></td><td>≤0.34</td><td>0.25</td></tr><tr><td rowspan=\"2\">AH550 DH550、EH550、FH550</td><td>TM</td><td>≤0.48</td><td>/0.50</td><td>三0.54</td><td></td><td>≤0.34</td><td>≤0.25</td></tr><tr><td>QT</td><td>≤0.56</td><td>≤0.60</td><td>≤0.64</td><td></td><td>≤0.36</td><td>≤0.28</td></tr><tr><td rowspan=\"2\">AH620、DH620 EH620、FH620</td><td>TM</td><td>≤0.50</td><td>≤0.52</td><td></td><td></td><td>≤0.34</td><td>≤0.26</td></tr><tr><td>QT</td><td>≤0.56</td><td>≤0.60</td><td>≤0.64</td><td></td><td>≤0.38</td><td>≤0.30</td></tr><tr><td rowspan=\"2\">AH690、DH690、EH690、FH690</td><td>TM</td><td>≤0.56</td><td></td><td></td><td></td><td>≤0.36</td><td>≤0.30</td></tr><tr><td>QT</td><td>≤0.64</td><td>0.66</td><td>0.70</td><td></td><td>≤0.40</td><td>≤0.33</td></tr><tr><td rowspan=\"2\">AH790 DH790、EH790、FH790</td><td>TM</td><td>《0.58</td><td></td><td></td><td></td><td>≤0.38</td><td>≤0.28</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 12,
+      "content_sha256": "6249d9aefbf6f9d25ed64ca2610563c11f89ddb8f6b734f6c82d1aa6847d64dd",
+      "doc_id": "e0bcbf638314bdc15b8e41f3a478017d1baa34c4a0aa922cc6dd0ddd8b070a0d"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">牌号</td><td rowspan=\"3\">交货状态</td><td colspan=\"4\">碳当量Ceqd/%</td><td rowspan=\"3\">碳当量 (CETb,d) / %</td><td rowspan=\"3\">焊接裂纹敏 感性指数 (Pcmc)/%</td></tr><tr><td>QT</td><td>≤0.66</td><td>≤0.70</td><td></td><td></td><td>≤0.40</td><td></td></tr><tr><td rowspan=\"2\">AH890、DH890、EH890</td><td>TM</td><td>三0.60</td><td></td><td></td><td></td><td>≤0.38</td><td>≤0.28</td></tr><tr><td>QT</td><td>三0.68</td><td>≤0.75</td><td></td><td></td><td>三0.40</td><td></td></tr><tr><td>AH960、DH960、EH960</td><td>QT</td><td>八0.75</td><td></td><td></td><td></td><td>三0.40</td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 13,
+      "content_sha256": "9c236443c89c0b35c7feffccee575033e0fedd411a96e327354b789a7411cd36",
+      "doc_id": "03a3223db42f94347907336e084fd5f19fb296691bffe4ecc605898d00853ce0"
+    }
+  },
+  {
+    "content": "7.2 制造方法\n\n7.2.1 钢由转炉或电弧炉冶炼，需要时，应进行炉外精炼。对于420MPa及以上钢级厚度方向性能钢和690MPa及以上钢级非厚度方向性能钢均应进行真空脱气处理。7.2.2 除非另有规定，420MPa及以上钢级，连铸坯和钢锭的轧制压缩比应不小于3。\n\n7.3 交货状态\n\n钢材的交货状态应符合附录B的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 14,
+      "content_sha256": "657d482c4ee277d3b55f9daf9f479321b6a90e54fa1de539a7cb127a128f9e51",
+      "doc_id": "249a62f4a79676fbc6c46358c678b2737d03b40ea86fc4f0e5038fd92b558919"
+    }
+  },
+  {
+    "content": "7.4 力学性能\n\n7.4.1 钢材的力学性能应符合表6和表7的规定。 时观。列了胆同出反级序反力问压能巩时字反力问时儿立强度应不低于规定最小抗拉强度的80％。\n\n7.4.2对厚度为6mm～<12mm（或直径12 mm\\~∧16 mm）的钢材取冲击试验试样时，可分别取5mm×10mm×55mm和7.5mmX10mm×55 mm 的小尺寸试样，此时冲击吸收能量分别为不小于规定值的2/3和5/6。优先采用较大尺寸的试样。  \n7.4.3钢材的冲击试验结果按一组3个试样的算术平均值进行计算，允许其中有1个试验值低于规定值，但不应低于规定值的70％。  \n7.4.4厚度方向性能钢厚度方向断面收缩率应符合表8的规定。3个试样的算术平均值应不低于表8规定的平均值，仅允许其中一个试样的单值低于表8规定的平均值，但不应低于表8中相应钢级的最小单值。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 12,
+      "page_start": 12,
+      "page_end": 12,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 15,
+      "content_sha256": "20c558467bfdac402e0fa7287a3ba002c586f2f770ef19e35f1010d0dba0d36a",
+      "doc_id": "ba0358d722b1bce197919c91b82c72d14f81a06a28d7b257e2fd4c697286c749"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">牌号</td><td colspan=\"3\">拉伸试验a</td><td colspan=\"7\">夏比（V型缺口）冲击试验</td></tr><tr><td rowspan=\"3\">上屈服强度 (ReH ) /MPa</td><td rowspan=\"3\">抗拉强度 (Rm )/ MPa</td><td rowspan=\"3\">断后伸长率 (A)/%</td><td rowspan=\"3\">试验温 度/℃</td><td colspan=\"5\">以下厚度（mm)冲击吸收能量（KV2）/J</td></tr><tr><td colspan=\"2\">≤50</td><td>>50~70</td><td>70</td><td colspan=\"2\">>70~150</td></tr><tr><td>纵向 横向</td><td>纵向</td><td>横向</td><td></td><td>纵向</td><td>横向</td></tr><tr><td>A</td><td rowspan=\"4\">≥235</td><td rowspan=\"6\">400~520</td><td rowspan=\"6\"></td><td>20</td><td rowspan=\"3\"></td><td colspan=\"5\">不小于 34d 24d</td></tr><tr><td></td><td>0</td><td rowspan=\"3\">27</td><td rowspan=\"3\">34</td><td rowspan=\"2\"></td><td rowspan=\"2\">41d 27d</td></tr><tr><td>B</td><td>02040</td></tr><tr><td>D</td><td>20</td><td rowspan=\"2\">20</td><td rowspan=\"2\">24</td><td rowspan=\"2\">41 27</td></tr><tr><td>E</td><td>40</td></tr><tr><td>AH32</td><td rowspan=\"4\">≥315</td><td rowspan=\"4\">450~570</td><td rowspan=\"4\">≥22</td><td>0 20</td><td rowspan=\"4\">31</td><td rowspan=\"4\">22 38</td><td rowspan=\"4\">26</td><td rowspan=\"4\">46</td><td rowspan=\"4\">31</td></tr><tr><td>DH32</td><td></td></tr><tr><td>EH32</td><td>40</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 12,
+      "page_start": 12,
+      "page_end": 12,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 16,
+      "content_sha256": "59960954c27d1abde55e70b224ace331ca9d470cdaaf3c85b856c02dd2284944",
+      "doc_id": "e0eb4853d1a60646c9c9d6c728888d115bea2bece41fd7cc1314f2bf03b9ea82"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">牌号</td><td colspan=\"3\">拉伸试验a</td><td colspan=\"7\">夏比（V型缺口）冲击试验</td></tr><tr><td>FH32</td><td>60 0</td></tr><tr><td>AH36</td><td rowspan=\"4\">≥355</td><td rowspan=\"4\">490~630</td><td rowspan=\"4\">≥21</td><td>20</td><td rowspan=\"4\">34</td><td rowspan=\"4\">24</td><td rowspan=\"4\">41</td><td rowspan=\"4\">27</td><td rowspan=\"4\">50 34</td></tr><tr><td>DH36</td><td></td></tr><tr><td>EH36 FH36</td><td>40</td></tr><tr><td></td><td>60</td></tr><tr><td>AH40</td><td rowspan=\"4\">≥390</td><td rowspan=\"4\">510~660</td><td rowspan=\"4\">≥20</td><td>J</td><td rowspan=\"4\">41</td><td rowspan=\"4\">27</td><td rowspan=\"4\">46</td><td rowspan=\"4\">31 55</td><td rowspan=\"4\">37</td></tr><tr><td>DH40</td><td>20</td></tr><tr><td>EH40 FH40</td><td>40</td></tr><tr><td></td><td>60</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 12,
+      "page_start": 12,
+      "page_end": 12,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 17,
+      "content_sha256": "4bd985a2364e504d74963e2802a03de96a35303025a71df5ba2d1c0574e0c5aa",
+      "doc_id": "85fafd544192f083634a9a7c46aa3ccc7bf37157a3a999ca18aeae254ac56c8e"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"4\">钢级</td><td rowspan=\"4\">交货 状态</td><td colspan=\"4\">拉伸试验a,b,c</td><td colspan=\"6\">夏比（V 型缺口）冲击试验</td></tr><tr><td colspan=\"3\">上屈服强度（ReH）/</td><td colspan=\"2\">抗拉强度(Rm)/</td><td colspan=\"2\">断后伸长率</td><td rowspan=\"2\"></td><td colspan=\"2\">冲击吸收能量</td></tr><tr><td>MPa</td><td>厚度</td><td>mm</td><td>MPa</td><td></td><td>(A)/%</td><td>试验 温度/ C</td><td colspan=\"2\">(KV 2)/J</td></tr><tr><td>3~50</td><td>3~50</td><td>>50 100</td><td>>100 250</td><td>3~100</td><td>>100 ~250</td><td>横向</td><td>纵向</td><td></td><td>纵向</td><td>横向</td></tr><tr><td>AH420 DH420</td><td rowspan=\"2\">N、NR、 TM、QT</td><td rowspan=\"2\">≥420</td><td rowspan=\"2\">≥390</td><td rowspan=\"2\">≥365</td><td rowspan=\"2\">520~ 680</td><td rowspan=\"2\">470~ 650</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td>20</td><td rowspan=\"2\">≥42</td><td rowspan=\"2\">≥28</td></tr><tr><td>EH420</td><td>≥21 19</td></tr><tr><td>FH420</td><td rowspan=\"3\">N,NR、 TM、QT</td><td rowspan=\"3\">≥460</td><td rowspan=\"3\">≥430</td><td rowspan=\"3\">≥390</td><td rowspan=\"3\">540~</td><td rowspan=\"3\">500~ ≥17</td><td rowspan=\"3\"></td><td>≥19</td><td rowspan=\"3\">40 60</td><td rowspan=\"3\">≥31</td></tr><tr><td>AH460</td><td>≥18</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 13,
+      "page_start": 13,
+      "page_end": 13,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 18,
+      "content_sha256": "08fe656661542154c89e8b22cbf45a70bf6e4733664508b295478e3c313aee40",
+      "doc_id": "31246ed4c0545bfb147a4d71a3b93ed6cf33d5f28b09a29dea2043d16362aa34"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"4\">钢级</td><td rowspan=\"4\">交货 状态</td><td colspan=\"4\">拉伸试验a,b,c</td><td colspan=\"6\">夏比（V 型缺口）冲击试验</td></tr><tr><td>DH460</td><td>≥17</td></tr><tr><td>EH460</td><td rowspan=\"3\"></td><td rowspan=\"3\">≥500</td><td rowspan=\"3\">≥480</td><td rowspan=\"3\">≥440</td><td rowspan=\"3\">720 590~</td><td rowspan=\"3\">710 540~</td><td rowspan=\"3\"></td><td>≥19</td><td>40</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td></tr><tr><td></td><td>60</td></tr><tr><td>AH500</td><td></td></tr><tr><td>DH500</td><td rowspan=\"5\">TM,QT</td><td rowspan=\"5\">≥550</td><td rowspan=\"5\">≥530</td><td rowspan=\"5\">≥490</td><td rowspan=\"5\">770 640~ 820</td><td rowspan=\"5\">720 590~ 770</td><td rowspan=\"5\">≥16</td><td rowspan=\"5\"></td><td>-40</td><td rowspan=\"5\">20 W50</td><td rowspan=\"5\">≥33 ≥37</td></tr><tr><td>EH500</td><td>17 =19</td></tr><tr><td>FH500</td><td></td><td>-60</td></tr><tr><td>AH550</td><td></td><td></td></tr><tr><td>DH550</td><td>≥18</td><td>20 ≥55</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 13,
+      "page_start": 13,
+      "page_end": 13,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 19,
+      "content_sha256": "985535e4a6b41ac69cb57b2635a960c192b9cabcd438a563f209c86474002c8f",
+      "doc_id": "5eb87c13b24bcb64e6583ecddb1f5a7e5f65d4c26ece9e2bd2fa85d63b16e044"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"4\">钢级</td><td rowspan=\"4\">交货 状态</td><td colspan=\"4\">拉伸试验a,b,c</td><td colspan=\"6\">夏比（V 型缺口）冲击试验</td></tr><tr><td>EH550</td><td rowspan=\"3\">TM、QT</td><td rowspan=\"3\">≥620</td><td rowspan=\"3\">≥580</td><td rowspan=\"3\"></td><td rowspan=\"3\">700~</td><td rowspan=\"3\">650~</td><td rowspan=\"3\">≥15</td><td></td><td>40</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td></tr><tr><td>FH550 AH620</td><td>60</td><td></td></tr><tr><td>DH620</td><td>≥17</td><td>20</td></tr><tr><td>EH620</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\">≥560</td><td rowspan=\"3\">890</td><td rowspan=\"3\">830</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td></td><td rowspan=\"3\">W62</td><td rowspan=\"3\">≥41</td></tr><tr><td></td><td>-40 60</td></tr><tr><td></td><td></td></tr><tr><td>AH690 DH690</td><td rowspan=\"3\">TM、QT</td><td rowspan=\"3\">≥690</td><td rowspan=\"3\">≥650</td><td rowspan=\"3\">630</td><td rowspan=\"3\">770~ 940</td><td rowspan=\"3\">710~ 900</td><td rowspan=\"3\">≥14</td><td rowspan=\"3\">16</td><td></td><td rowspan=\"3\">≥69</td><td rowspan=\"3\">≥46</td></tr><tr><td></td><td>20</td></tr><tr><td></td><td>-40</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 13,
+      "page_start": 13,
+      "page_end": 13,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 20,
+      "content_sha256": "7ca030927cf9e9f561583a4e7a485724c1d0d073d56ac34f6bcbe6daf642269f",
+      "doc_id": "75cee730685b6e8113d9bb4664079f99cec46c1cf0e9ebf1d98bd83b6fbf1f49"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"4\">钢级</td><td rowspan=\"4\">交货 状态</td><td colspan=\"4\">拉伸试验a,b,c</td><td colspan=\"6\">夏比（V 型缺口）冲击试验</td></tr><tr><td>FH690</td><td rowspan=\"4\">TM、QT</td><td rowspan=\"4\">≥790</td><td rowspan=\"4\">≥740</td><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td rowspan=\"4\">840~</td><td rowspan=\"4\">800~ 000</td><td rowspan=\"4\">≥13</td><td rowspan=\"4\">≥15</td><td></td><td rowspan=\"4\">≥69</td><td rowspan=\"4\">≥46</td></tr><tr><td></td><td></td><td>60</td></tr><tr><td>AH790</td><td></td><td>20</td></tr><tr><td>DH790 EH790</td><td>1000</td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 13,
+      "page_start": 13,
+      "page_end": 13,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 21,
+      "content_sha256": "9980dce3001a401dd35dd1703714839cc5f38a7f91a882648d8e9b5eb2ef2a72",
+      "doc_id": "9ed0132ee7d4f9ec4a0f0ad9730870c0d160cff81afa2e9f491296ff02de7a7f"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">钢级</td><td rowspan=\"3\">交货 状态</td><td colspan=\"5\">拉伸试验ab,c</td><td colspan=\"5\">夏比（V型缺口）冲击试验</td></tr><tr><td colspan=\"3\">上屈服强度(RcH)/ MPa</td><td colspan=\"2\">抗拉强度(Rm)/ MPa</td><td rowspan=\"2\">断后伸长率 (A)/%</td><td rowspan=\"2\">试验</td><td rowspan=\"2\"></td><td colspan=\"2\">冲击吸收能量 (KV2 )/J</td></tr><tr><td colspan=\"5\">厚度/mm</td><td colspan=\"2\">温度/</td></tr><tr><td colspan=\"2\"></td><td>3~50</td><td>>50 ~100</td><td>>100 ~250</td><td>3~100</td><td>>100 ~250</td><td>横向</td><td>纵向</td><td>0</td><td>纵向</td><td>横向</td></tr><tr><td colspan=\"2\">DH890</td><td rowspan=\"2\">TM、QT</td><td rowspan=\"2\">≥890 ≥830</td><td rowspan=\"2\"></td><td rowspan=\"2\">940~ 1100</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">≥11</td><td>≥13</td><td rowspan=\"2\">≥69</td><td rowspan=\"2\">≥46</td></tr><tr><td colspan=\"2\">EH890</td><td>020-40</td><td>-20 40</td></tr><tr><td colspan=\"2\" rowspan=\"2\">AH960</td><td rowspan=\"2\">QT ≥960</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">980~ 1150</td><td rowspan=\"2\"></td><td rowspan=\"2\">≥10</td><td rowspan=\"2\"></td><td></td><td rowspan=\"2\">≥69</td><td rowspan=\"2\">≥46</td></tr><tr><td>-20</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 14,
+      "page_start": 14,
+      "page_end": 14,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 22,
+      "content_sha256": "6615e65f7d62e61640d2beaeb10b80ef813722d2d1eb09a1d6a57934dde61600",
+      "doc_id": "dc51c313c6a56aa5cb850f72bc4ffa99559c879d4714d308694a1d3d7686f8ae"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">钢级</td><td rowspan=\"3\">交货 状态</td><td colspan=\"5\">拉伸试验ab,c</td><td colspan=\"5\">夏比（V型缺口）冲击试验</td></tr><tr><td colspan=\"2\">EH960</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>40</td><td></td><td></td></tr><tr><td colspan=\"10\">板材拉伸和冲击试验取横向试样，型材和棒材拉伸和冲击试验取纵向试样。 当屈服不明显时，可测量规定塑性延伸强度Rpo.2代替上屈服强度。 如需方有要求，经供需双方协商，并在合同中注明，屈强比可不大于0.94。</td><td></td><td></td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 14,
+      "page_start": 14,
+      "page_end": 14,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 23,
+      "content_sha256": "ea6b76eb9666928dae9bdf480cc2cc3178ab5930a14d113c9b9c560699935ea6",
+      "doc_id": "eaaff389ea6081c5ba3fe09bbeb96e06e7d3ba47a997e19ec41772f20159f4fa"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td rowspan=\"2\">厚度方向断面收缩率/%</td><td colspan=\"2\">Z向性能级别</td></tr><tr><td>Z25</td><td>Z35</td></tr><tr><td>3个试样平均值</td><td>≥25</td><td>≥35</td></tr><tr><td>单个试样值</td><td>≥15</td><td>≥25</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 14,
+      "page_start": 14,
+      "page_end": 14,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 24,
+      "content_sha256": "4d582bd233150f962b0cce76fbf1fa33d3ceb979b26add1c50093931aff429fa",
+      "doc_id": "30751dcff1ed1d710b564ae1e852dfb7b3c5fd132d98c1fa13a8ef172a591505"
+    }
+  },
+  {
+    "content": "7.5 金相检验\n\n超高强度级钢材的晶粒度应为6级或更细，如供方能保证，可不做检验。\n\n7.6 表面质量\n\n7.6.1 钢材表面不应有气泡、结疤、裂纹、折叠、夹杂和压入氧化铁皮等有害缺陷。钢材不应有目视可见的分层。  \n7.6.2 钢材的表面允许有不妨碍检查表面质量的薄层氧化铁皮、铁锈及由于压入氧化铁皮和轧辊所造成的不明显的粗糙、网纹、划痕及其他局部缺欠，但其深度不应大于0.3 mm，并应保证钢材允许的最小厚度。  \n7.6.3 钢材的表面缺陷允许用修磨方法清除，清理处应平滑无棱角，厚度减薄量应不大于公称厚度的7％且不大于3 mm，取二者较小值；单个修磨面积应不大于 0.25m²，局部修磨面积之和不应大于总面积的 2％，两个修磨面之间的距离应大于它们的平均宽度，否则认为是一个修磨面。焊补应符合中国船级社规范的规定。应采用磁粉检测或渗透检测证实缺陷已被完全去除。  \n7.6.4对于钢带，由于没有机会去除表面带缺陷部分，故允许表面带有一定的缺陷，但每卷钢带缺陷部分的长度不应大于钢带总长度的6％。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 14,
+      "page_start": 14,
+      "page_end": 14,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 25,
+      "content_sha256": "46192a560014f837750a9d163c7c07b4137634c35e26218da35f7acb3267209a",
+      "doc_id": "b7b50bb23fbeb8d711822b642092f8aa2a4fe63df85511153d3ab3f5eed03265"
+    }
+  },
+  {
+    "content": "7.7 无损检测\n\n7.7.1 厚度方向性能钢板应进行超声检测，检验方法为GB/T2970或其他方法标准，其试验方法和合格级别应在合同中注明。7.7.2 根据需方要求，经供需双方协商，并在合同中注明，其他钢板也可进行无损检验。\n\n8 试验方法\n\n8.1 化学成分\n\n钢的化学成分试验一般按GB/T4336、GB/T20123、GB/T20124、GB/T20125或其他通用方法进行，仲裁时应按 GB/T 223.5、GB/T 223.9、GB/T 223.12、GB/T 223.14、GB/T 223.19、GB/T 223.23、GB/T 223.25、GB/T 223.26、GB/T 223.37、GB/T 223.40、GB/T 223.62、GB/T 223.63、GB/T 223.67、GB/T 223.69、GB/T 223.78、GB/T 223.84、GB/T 11261 或GB/T20125 的规定进行。\n\n8.2 厚度测量\n\n8.2.1 钢板和钢带的厚度测量部位按 GB/T 709 的规定。\n\n8.2.2 钢板平均厚度测量方法：\n\na) 钢板的平均厚度可采用自动或手工方法测量；  \nb) 钢板的厚度测量位置：采用自动方法测量时，测量点距侧边和板端的距离应在10mm～300 mm之间;采用手工方法测量时，测量点距侧边和板端的距离应在10mm～100 mm;  \nc) 按图1所示，至少选两条线进行测量，每条线至少选3个测量点（当每条线的测量点多于3点时，每条线的测量点应数量相等，且位置对应)；并按平均值计算钢板平均厚度。\n\n说明：\n\n测量点\n\n8.3 取样位置\n\n8.3.1 拉伸试验试样应在每一批中最厚的钢材上制取。当钢材的厚度不大于 40 mm 时，取全截面矩形试样，试样宽度为25 mm。 当试验机能力不足时，可在试样的一个轧制面加工，使厚度减薄至25mm。当钢材的厚度大于40mm时，取圆截面试样，试样轴线距钢材表面应为钢材1/4厚度处或尽量接近此位置，试样的直径为14mm；可根据试验机能力，采用全截面试样。 厚度大于100 mm的超高强度级钢材，当采用圆截面试样时，还应在钢材厚度中心增加1个试样。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 15,
+      "page_start": 15,
+      "page_end": 15,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 26,
+      "content_sha256": "8e8a8099ca7ee384df1abecfb1e9c643748319aaf912911db44429072ab74270",
+      "doc_id": "ca299395882683ed9db1282ffcc300042ca52c091b8119f053d98006dd62f4cc"
+    }
+  },
+  {
+    "content": "8.3.2 冲击试验试样应在每一批中最厚的钢材上制取。缺口应垂直于原轧制面。 当钢材的厚度不大于40mm 时，冲击试样应为近表面试样，试样边缘距一个轧制面小于2 mm;当钢材的厚度大于40mm时，试样轴线应位于钢材1/4厚度处或尽量接近此位置。当超高强度级钢材的厚度大于50mm 时，应增加一组冲击试样，冲击试样的轴线位于钢材厚度的1/2处。\n\n8.4 检验项目的试验方法\n\n每批钢材检验项目的试验方法应符合表9的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 16,
+      "page_start": 16,
+      "page_end": 16,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 27,
+      "content_sha256": "913491bfcf54b5ec5695674f535c2a860d85d79fcf5ce4deb5d6af56659480fa",
+      "doc_id": "66f28a0127ce13902b497df74b2de19cd959db9b43496ce24a9bba94f4b1d94e"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>序号</td><td>检验项目</td><td>取样数量</td><td>取样方法</td><td>试验方法</td></tr><tr><td>1</td><td>化学成分</td><td>1个/炉</td><td>GB/T20066</td><td>见8.1</td></tr><tr><td>2</td><td>拉伸试验</td><td>1个/批</td><td>GB/T 2975</td><td>GB/T 228.1</td></tr><tr><td>3</td><td>厚度方向拉伸试验b</td><td>1个/批</td><td>GB/T5313</td><td>GB/T 228.1</td></tr><tr><td>4</td><td>冲击试验”</td><td>3个/批</td><td>GB/T 2975</td><td>GB/T 229</td></tr><tr><td>5</td><td>厚度方向断面收缩率</td><td>3个/批</td><td>GB/T5313</td><td>GB/T5313</td></tr><tr><td>6</td><td>晶粒度</td><td>1个/批</td><td>GB/T 6394</td><td>GB/T6394</td></tr><tr><td>7</td><td>超声波探伤检验</td><td>逐张</td><td></td><td>GB/T 2970</td></tr><tr><td>8</td><td>尺寸、外形</td><td>逐张/逐件</td><td></td><td>相应精度的量具，8.2</td></tr><tr><td>9</td><td>表面质量</td><td>逐张/逐件</td><td></td><td>目视及测量</td></tr><tr><td colspan=\"5\">当超高强度级钢材厚度大于100 mm时，应在钢材厚度中心处增加1个试样。 适用于超高强度钢。 当超高强度级钢材厚度大于50 mm 时，应在钢材厚度1/2处增加1组试样。</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 16,
+      "page_start": 16,
+      "page_end": 16,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 28,
+      "content_sha256": "f1b1b256829f73236aee36a3fe433aaa45c3e262df9499cfa0d77aa330608cb9",
+      "doc_id": "d40c85f0533496a382ecec0351e11594a8ba3d2d48357ef4131420414288c8bd"
+    }
+  },
+  {
+    "content": "9 检验规则\n\n9.1 检查和验收\n\n钢材的检查和验收由供方质量检验部门进行。\n\n9.2 组批规则\n\n9.2.1 钢材应成批验收。一般强度和高强度钢级的钢材，每批应由同一牌号、同一炉号、同一交货状态、厚度差（或直径差)小于10mm的钢材组成；超高强度钢级的钢材，每批应由同一牌号、同一炉号、同一交货状态、同一厚度（或同一直径)的钢材组成。\n\n9.2.2 对于拉伸试验，一般强度和高强度钢级的钢材，每批钢材的重量不大于50t；超高强度钢级的钢材，每批钢材的重量不大于25t。对于冲击试验，其批量应符合附录B的规定。\n\n9.2.3 厚度方向性能钢按轧制坯验收。当Z25 钢硫含量不大于0.005%时，可按批检验，每批重量不大于50t。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 16,
+      "page_start": 16,
+      "page_end": 16,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 29,
+      "content_sha256": "0559cc6466bb546c864052a9bfa3c918076720546038dc0574702047d7abcf82",
+      "doc_id": "9b1a8021106f0d97bbc39b68166dfbd60bb243a0cba7ff738002f6a134499515"
+    }
+  },
+  {
+    "content": "9.3 取样数量\n\n每批钢材的取样数量和取样方法见表9。\n\n9.4 复验与判定\n\n9.4.1 拉伸试验的复验与判定\n\n钢材拉伸试验的复验与判定应符合GB/T 17505 的规定。\n\n9.4.2 厚度方向性能钢厚度方向断面收缩率的复验与判定\n\n图2规定了允许复验的三种情况。在这些情况下，需要对剩余的3个备用试样进行试验。6 个试样的平均值应大于规定的最小平均值，低于平均值的结果不大于2个，但不应低于表8规定的最小单值，否则该批钢材不予验收。\n\n说明：\n\n—单值；  \n—平均值。\n\n9.4.3 冲击试验的复验与判定\n\n9.4.3.1 单件钢材的复验\n\n当一组3个试样的冲击试验结果不合格时，若低于规定平均值的试样不多于2个，且低于规定平均值70%的试样不多于1个，可在原取样钢材附近再取一组3个试样进行复验。前后两组 6 个试样的算术平均值不应低于规定的平均值，且低于规定平均值的试样不应超过2个，其中低于规定平均值70%的试样不应超过1个，否则该件钢材不予验收。\n\n9.4.3.2 批量钢材的复验\n\n如果单件钢材的复验不符合要求，将该件钢材挑出。可在该批钢材中另取两件钢材，每件钢材各取一组试样进行再验。 再验的每组试验结果都应符合要求，否则，该批不能验收。\n\n9.4.4 晶粒度的复验与判定\n\n钢材晶粒度的复验与判定应符合 GB/T 17505 的规定。\n\n9.4.5 重新热处理\n\n对复验不合格的钢材，允许进行重新热处理并按新的一批提交验收。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 17,
+      "page_start": 17,
+      "page_end": 17,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 30,
+      "content_sha256": "e1112ffe8e9880c71de0067a4f84ebbf51e4d558daadea36bf5e4cd4a3556c2b",
+      "doc_id": "d9426e008ad0843d49bd2b3b0b387ea99ea9e7aafc040054d31999d18635b802"
+    }
+  },
+  {
+    "content": "GB/T 712—2022\n\n9.5 数值修约\n\n检验结果采用修约值比较法进行修约，修约规则应符合GB/T8170 的规定。\n\n10 包装、标志及质量证明书\n\n钢材的包装、标志及质量证明书应符合GB/T247 或 GB/T 2101 的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 18,
+      "page_start": 18,
+      "page_end": 18,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 31,
+      "content_sha256": "0cb52cdbe3e9112a8c6d9c8fdfe6f1fa2708f047127a3bb1a2d73df0146ec018",
+      "doc_id": "d9871c76dee05c9c4f2ab954b1e1f5a84bfb2b94017aa7763a11f33ef4e7059a"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">本文件</td><td colspan=\"11\">船级社规范</td></tr><tr><td colspan=\"3\">ABS</td><td rowspan=\"2\">BV</td><td rowspan=\"2\">CCS</td><td rowspan=\"2\">DNV</td><td rowspan=\"2\">KR</td><td rowspan=\"2\">LR</td><td rowspan=\"2\">NK</td><td rowspan=\"2\">RINA</td><td rowspan=\"2\">RS</td></tr><tr><td>AR、CR</td><td>TMCP</td><td></td></tr><tr><td>A</td><td>AB/A</td><td>AB/A</td><td>AB/AN</td><td>BVA</td><td>CCSA</td><td>NV A</td><td>KRA</td><td>LRA</td><td>KA</td><td>RINA-A</td><td>PC A</td></tr><tr><td>B</td><td>AB/B</td><td>AB/B</td><td>AB/BN</td><td>BVB</td><td>CCSB</td><td>NVB</td><td>KRB</td><td>LRB</td><td>KB</td><td>RINA-B</td><td>PC B</td></tr><tr><td>D</td><td>AB/D</td><td>AB/DN</td><td>AB/DN</td><td>BVD</td><td>CCSD</td><td>NV D</td><td>KRD</td><td>LRD</td><td>KD</td><td>RINA-D</td><td>PC D</td></tr><tr><td>E</td><td>AB/E</td><td>AB/E</td><td>AB/EN</td><td>BVE</td><td>CCSE</td><td>NV</td><td>KRE</td><td>LRE</td><td>KE</td><td>RINA-E</td><td>PC E</td></tr><tr><td>AH32</td><td>AB/AH32</td><td>AB/AH32</td><td>AB/AH32N</td><td>BVAH32</td><td>CCSAH32</td><td>NV A32</td><td>KRAH32</td><td>LRAH32</td><td>KA32</td><td>RINA-AH32</td><td>PC A32</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 19,
+      "page_start": 19,
+      "page_end": 19,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 32,
+      "content_sha256": "072a3eaefd59d0bc16d30d30436158bb4f6a7c3e10fa3fc3d8ba9813fcf82c52",
+      "doc_id": "419c473f437804cfa0566c3a0adb3957faf42d995c8b303feed16021e6e2e3d8"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">本文件</td><td colspan=\"11\">船级社规范</td></tr><tr><td>DH32</td><td>AB/DH32</td><td>AB/DH32N</td><td>AB/DH32N</td><td>BVDH32</td><td>CCSDH32</td><td>NV D32</td><td>KRDH32</td><td>LRDH32</td><td>KD32</td><td>RINA-DH32</td><td>PC D32</td></tr><tr><td>EH32</td><td>AB/EH32</td><td>AB/EH32</td><td>AB/EH32N</td><td>BVEH32</td><td>CCSEH32</td><td>NVE32</td><td>KREH32</td><td>LREH32</td><td>KE32</td><td>RINA-EH32</td><td>PC E32</td></tr><tr><td>FH32</td><td>AB/FH32</td><td>AB/FH32</td><td>AB/FH32N</td><td>BVFH32</td><td>CCSFH32</td><td>NVF32</td><td>KRFH32</td><td>LRFH32</td><td>KF32</td><td>RINA-FH32</td><td>PCF32</td></tr><tr><td>AH36</td><td>AB/AH36</td><td>AB/AH36</td><td>AB/AH36N</td><td>BVAH36</td><td>CCSAH36</td><td>NVA36</td><td>KRAH36</td><td>LRAH36</td><td>KA36</td><td>RINA-AH36</td><td>PC A36</td></tr><tr><td>DH36</td><td>AB/DH36</td><td>AB/DH36N</td><td>AB/DH36N</td><td>BVDH36</td><td>CCSDH36</td><td>NVD36</td><td>KRDH36</td><td>LRDH36</td><td>KD36</td><td>RINA-DH36</td><td>PC D36</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 19,
+      "page_start": 19,
+      "page_end": 19,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 33,
+      "content_sha256": "e3939042aac08a6461d94838ffc34c44c3a59cd86b25e4df40c7abc7d7f6f8bb",
+      "doc_id": "9a7ee83adca52f40d976b5c831903aa391770fe4eb28d58f4cdc3e17738de830"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">本文件</td><td colspan=\"11\">船级社规范</td></tr><tr><td>EH36</td><td>AB/EH36</td><td>AB/EH36</td><td>AB/EH36N</td><td>BVEH36</td><td>CCSEH36</td><td>NVE36</td><td>KREH36</td><td>LREH36</td><td>KE36</td><td>RINA-EH36</td><td>PC E36</td></tr><tr><td>FH36</td><td>AB/FH36</td><td>AB/FH36</td><td>AB/FH36N</td><td>BVFH36</td><td>CCSFH36</td><td>NVF36</td><td>KRFH36</td><td>LRFH36</td><td>KF36</td><td>RINA-FH36</td><td>PCF36</td></tr><tr><td>AH40</td><td>AB/AH40</td><td>AB/AH40</td><td>AB/AH40N</td><td>BVAH40</td><td>CCSAH40</td><td>NV A40</td><td>KRAH40</td><td>LRAH40</td><td>KA40</td><td>RINA-AH40</td><td>PC A40</td></tr><tr><td>DH40</td><td>AB/DH40</td><td>AB/DH40N</td><td>AB/DH40N</td><td>BVDH40</td><td>CCSDH40</td><td>NV D40</td><td>KRDH40</td><td>LRDH40</td><td>KD40</td><td>RINA-DH40</td><td>PC D40</td></tr><tr><td>EH40</td><td>AB/ EH40</td><td>AB/EH40</td><td>AB/EH40N</td><td>BVEH40</td><td>CCSEH40</td><td>NV E40</td><td>KREH40</td><td>LREH40</td><td>KE40</td><td>RINA-EH40</td><td>PC E40</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 19,
+      "page_start": 19,
+      "page_end": 19,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 34,
+      "content_sha256": "68dc1d74495ac9572e4c6b09a869a40fc673bf6b5216a369ae9d10ce8c448db2",
+      "doc_id": "edf8ab4ccad0e56e3c0ef91149782de42f514d669de8eaa315ea9ef793ab8c6e"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">本文件</td><td colspan=\"11\">船级社规范</td></tr><tr><td colspan=\"4\">ABS</td><td rowspan=\"2\">BV</td><td rowspan=\"2\">DNV</td><td rowspan=\"2\"></td><td rowspan=\"2\">KR</td><td rowspan=\"2\">LR</td><td rowspan=\"2\">NK</td><td rowspan=\"2\">RINA</td><td rowspan=\"2\">RS</td></tr><tr><td>AR、CR</td><td>TMCP</td><td></td><td>CCS</td></tr><tr><td>FH40</td><td>AB/FH40</td><td>AB/FH40</td><td>AB/FH40N</td><td>BVFH40</td><td>CCSFH40</td><td>NVF40</td><td>KRFH40</td><td>LRFH40</td><td>KF40</td><td>RINA-FH40</td><td>PCF40</td></tr><tr><td>AH420</td><td>AB/AQ43</td><td>AB/AQ43</td><td>AB/AQ43N</td><td>BVA420</td><td>CCSAH420</td><td>NVA420</td><td>KRAH43</td><td>LRAH42</td><td>KA420</td><td>RINA-AH420</td><td>PC A420</td></tr><tr><td>DH420</td><td>AB/DQ43</td><td>AB/DQ43</td><td>AB/DQ43N</td><td>BVD420</td><td>CCSDH420</td><td>NV D420</td><td>KRDH43</td><td>LRDH42</td><td>KD420</td><td>RINA-DH420</td><td>PC D420</td></tr><tr><td>EH420</td><td>AB/EQ43</td><td>AB/EQ43</td><td>AB/EQ43N</td><td>BVE420</td><td>CCSEH420</td><td>NVE420</td><td>KREH43</td><td>LREH42</td><td>KE420</td><td>RINA-EH420</td><td>PC E420</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 20,
+      "page_start": 20,
+      "page_end": 20,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 35,
+      "content_sha256": "6b063f92de7e5f14cb9631b7de967b581fe1f8c7abef1232e5a842d933f86ba9",
+      "doc_id": "2507e99f69456b55d51b8170621b9e364eef5a9e47b56bdd593317f24277ec11"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">本文件</td><td colspan=\"11\">船级社规范</td></tr><tr><td>FH420</td><td>AB/FQ43</td><td>AB/FQ43</td><td>AB/FQ43N</td><td>BVF420</td><td>CCSFH420</td><td>NVF420</td><td>KRFH43</td><td>LRFH42</td><td>KF420</td><td>RINA-FH420</td><td>PCF420</td></tr><tr><td>AH460</td><td>AB/AQ47</td><td>AB/AQ47</td><td>AB/AQ47N</td><td>BVA460</td><td>CCSAH460</td><td>NVA460</td><td>KRAH47</td><td>LRAH46</td><td>KA460</td><td>RINA-AH460</td><td>PCA460</td></tr><tr><td>DH460</td><td>AB/DQ47</td><td>AB/DQ47</td><td>AB/DQ47N</td><td>BVD460</td><td>CCSDH460</td><td>NVD460</td><td>KRDH47</td><td>LRDH46</td><td>KD460</td><td>RINA-DH460</td><td>PC D460</td></tr><tr><td>EH460</td><td>AB/EQ47</td><td>AB/EQ47</td><td>AB/EQ47N</td><td>BVE460</td><td>CCSEH460</td><td>NVE460</td><td>KREH47</td><td>LREH46</td><td>KE460</td><td>RINA-EH460</td><td>PC E460</td></tr><tr><td>FH460</td><td>AB/FQ47</td><td>AB/FQ47</td><td>AB/FQ47N</td><td>BVF460</td><td>CCSFH460</td><td>NVF460</td><td>KRFH47</td><td>LRFH46</td><td>KF460</td><td>RINA-FH460</td><td>PC F460</td></tr><tr><td rowspan=\"2\">本文件</td><td colspan=\"10\"></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 20,
+      "page_start": 20,
+      "page_end": 20,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 36,
+      "content_sha256": "c1869846e8c7464d516ebccbc1fbcd26d674af0ee58c113856322b5e6bb6bd14",
+      "doc_id": "3eef67d7933d3e1c670ceddca88e3a004c922549a55ba55740657fe9cd67931c"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">本文件</td><td colspan=\"11\">船级社规范</td></tr><tr><td>ABS</td><td>BV</td><td>CCS</td><td colspan=\"2\">DNV</td><td>KR</td><td colspan=\"2\">LR</td><td>NK</td><td>RINA</td><td>RS</td></tr><tr><td>AH500</td><td>AB/AQ51</td><td>BVA500</td><td>CCSAH500</td><td colspan=\"2\">NVA500</td><td>KRAH51</td><td colspan=\"2\">LRAH50</td><td>KA500</td><td>RINA-AH500</td><td>PC A500</td></tr><tr><td>DH500</td><td>AB/DQ51</td><td>BVD500</td><td>CCSDH500</td><td colspan=\"2\">NVD500</td><td>KRDH51</td><td colspan=\"2\">LRDH50</td><td>KD500</td><td>RINA-DH500</td><td>PCD500</td></tr><tr><td>EH500</td><td>AB/EQ51</td><td>BVE500</td><td>CCSEH500</td><td colspan=\"2\">NVE500</td><td>KREH51</td><td colspan=\"2\">LREH50</td><td>KE500</td><td>RINA-EH500</td><td>PC E500</td></tr><tr><td>FH500</td><td>AB/FQ51</td><td>BVF500</td><td>CCSFH500</td><td colspan=\"2\">NVF500</td><td>KRFH51</td><td colspan=\"2\">LRFH50</td><td>KF500</td><td>RINA-FH500</td><td>PCF500</td></tr><tr><td>AH550</td><td>AB/AQ56</td><td>BVA550</td><td>CCSAH550</td><td colspan=\"2\">NVA550</td><td>KRAH56</td><td colspan=\"2\">LRAH55</td><td>KA550</td><td>RINA-AH550</td><td>PC A550</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 20,
+      "page_start": 20,
+      "page_end": 20,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 37,
+      "content_sha256": "8671bad6ab4b4544437c546a848967a35bf91323d784dbbd1cf9288a2ddc3c10",
+      "doc_id": "831fbcd98b4de04b6c89d5a41c0e36c317356117d7ab8280071f73f2a25b4700"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">本文件</td><td colspan=\"11\">船级社规范</td></tr><tr><td>DH550</td><td>AB/DQ56</td><td>BVD550</td><td>CCSDH550</td><td colspan=\"2\">NVD550</td><td>KRDH56</td><td colspan=\"2\">LRDH55</td><td>KD550</td><td>RINA-DH550</td><td>PC D550</td></tr><tr><td>EH550</td><td>AB/EQ56</td><td>BVE550</td><td>CCSEH550</td><td colspan=\"2\">NVE550</td><td>KREH56</td><td colspan=\"2\">LREH55</td><td>KE550</td><td>RINA-EH550</td><td>PC E550</td></tr><tr><td>FH550</td><td>AB/FQ56</td><td>BVF550</td><td>CCSFH550</td><td colspan=\"2\">NVF550</td><td>KRFH56</td><td colspan=\"2\">LRFH55</td><td colspan=\"2\">KF550</td><td>RINA-FH550 PC F550</td></tr><tr><td>AH620</td><td>AB/AQ63</td><td>BVA620</td><td>CCSAH620</td><td colspan=\"2\">NV A620</td><td>KRAH63</td><td colspan=\"2\">LRAH62</td><td colspan=\"2\">KA620</td><td>RINA-AH620 PC A620</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 20,
+      "page_start": 20,
+      "page_end": 20,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 38,
+      "content_sha256": "0dccd436ed2408062206465561ac0bb1e9cedc7bbf098614379a3f0de01970ba",
+      "doc_id": "73056e016a7babe617fd9e51a17244d6bc9c7247b4d5e462fec71c48ce7f2eca"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"2\">本文件</td><td colspan=\"9\">船级社规范</td></tr><tr><td>ABS</td><td>BV</td><td>CCS</td><td>DNV</td><td>KR</td><td>LR</td><td>NK</td><td>RINA</td><td>RS</td></tr><tr><td>DH620</td><td>AB/DQ63</td><td>BVD620</td><td>CCSDH620</td><td>NV D620</td><td>KRDH63</td><td>LRDH62</td><td>KD620</td><td>RINA-DH620</td><td>PC D620</td></tr><tr><td>EH620</td><td>AB/EQ63</td><td>BVE620</td><td>CCSEH620</td><td>NVE620</td><td>KREH63</td><td>LREH62</td><td>KE620</td><td>RINA-EH620</td><td>PC E620</td></tr><tr><td>FH620</td><td>AB/FQ63</td><td>BVF620</td><td>CCSFH620</td><td>NVF620</td><td>KRFH63</td><td>LRFH62</td><td>KF620</td><td>RINA-FH620</td><td>PC F620</td></tr><tr><td>AH690</td><td>AB/AQ70</td><td>BVA690</td><td>CCSAH690</td><td>NVA690</td><td>KRAH70</td><td>LRAH69</td><td>KA690</td><td>RINA-AH690</td><td>PC A690</td></tr><tr><td>DH690</td><td>AB/DQ70</td><td>BVD690</td><td>CCSDH690</td><td>NVD690</td><td>KRDH70</td><td>LRDH69</td><td>KD690</td><td>RINA-DH690</td><td>PC D690</td></tr><tr><td>EH690</td><td>AB/EQ70</td><td>BVE690</td><td>CCSEH690</td><td>NVE690</td><td>KREH70</td><td>LREH69</td><td>KE690</td><td>RINA-EH690</td><td>PC E690</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 21,
+      "page_start": 21,
+      "page_end": 21,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 39,
+      "content_sha256": "5b745bd01562d675a00455cb09ff59ab10ead3dba2846a3f0796b863170a3c9a",
+      "doc_id": "df141f8a2eaf5e337c466471075a2812cf9a4768813fa8a5b65786a6972081a5"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"2\">本文件</td><td colspan=\"9\">船级社规范</td></tr><tr><td>FH690</td><td>AB/FQ70</td><td>BVF690</td><td>CCSFH690</td><td>NVF690</td><td>KRFH70</td><td>LRFH69</td><td>KF690</td><td>RINA-FH690</td><td>PC F690</td></tr><tr><td>AH790</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DH790</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>EH790</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>FH790</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>AH890</td><td>AB/AQ91</td><td>BVA890</td><td>CCSAH890</td><td>NV A890</td><td>KRAH90</td><td>LRAH89</td><td>KA890</td><td>RINA-AH890</td><td>PC A890</td></tr><tr><td>DH890</td><td>AB/DQ91</td><td>BVD890</td><td>CCSDH890</td><td>NVD890</td><td>KRDH90</td><td>LRDH89</td><td>KD890</td><td>RINA-DH890</td><td>PC D890</td></tr><tr><td>EH890</td><td>AB/EQ91</td><td>BVE890</td><td>CCSEH890</td><td>NV E890</td><td>KREH90</td><td>LREH89</td><td>KE890</td><td>RINA-EH890</td><td>PC E890</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 21,
+      "page_start": 21,
+      "page_end": 21,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 40,
+      "content_sha256": "015f32423dec9f7279b1914ca57a00e69269f1497b85868983717947e9421698",
+      "doc_id": "e05022284478a887c7690ab0e849c2c3f1f48e9c05e9ee5de7eec9c7c33ceddd"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"2\">本文件</td><td colspan=\"9\">船级社规范</td></tr><tr><td>AH960</td><td>AB/AQ98</td><td>BVA960</td><td>CCSAH960</td><td>NVA960</td><td>KRAH97</td><td>LRAH96</td><td>KA960</td><td>RINA-AH960</td><td>PC A960</td></tr><tr><td>DH960</td><td>AB/DQ98</td><td>BVD960</td><td>CCSDH960</td><td>NV D960</td><td>KRDH97</td><td>LRDH96</td><td>KD960</td><td>RINA-DH960</td><td>PC D960</td></tr><tr><td>EH960</td><td>AB/EQ98</td><td>BVE960</td><td>CCSEH960</td><td>NV E960</td><td>KREH97</td><td>LREH96</td><td>KE960</td><td>RINA-EH960</td><td>PC E960</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 21,
+      "page_start": 21,
+      "page_end": 21,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 41,
+      "content_sha256": "b1291e0fedeae41233292aad4848aeab04be069a4900fc94c4a43fa79f093c4f",
+      "doc_id": "6e734246ec1530a0c17dec59806329ba32ec84c476e15c157d96d1e134358c01"
+    }
+  },
+  {
+    "content": "附录B\n\n（规范性）\n\n钢材的牌号、交货状态和冲击检验批量\n\n钢材的牌号、交货状态和冲击检验批量应符合表B.1～表B.3的规定。\n\n表B.1 一般强度级钢材的交货状态及冲击检验批量",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 22,
+      "page_start": 22,
+      "page_end": 22,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 42,
+      "content_sha256": "a733377af0260d2fb8a008a88c186b61ffedeba57371cb620bcf26251300a46a",
+      "doc_id": "f0c060570d91c769525dd58c9f60ef1fbb63899f0c22c7b931bd90f32aec4c4a"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td rowspan=\"2\">钢材 等级</td><td rowspan=\"2\">脱氧 方法</td><td rowspan=\"2\">产品 形式</td><td colspan=\"5\">交货状态</td></tr><tr><td>≤12.5</td><td>>12.5~25</td><td>钢材厚度(t)/mm >25~35</td><td>>35~50</td><td>>50~150</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\">厚度不大于50 mm 除沸 腾钢外任何方法； 厚度大于50 mm 镇静 处理</td><td>板材</td><td colspan=\"4\">A(−)</td><td>N(−)、TM(−)、 NR(50) 、AR(50)</td></tr><tr><td>型材</td><td colspan=\"4\">A(−)</td><td></td></tr><tr><td>B</td><td>厚度不大于50 mm 除沸 腾钢外任何方法； 厚度大于 50 mm 镇静</td><td>板材</td><td>A(−)</td><td colspan=\"2\"></td><td>A(50)</td><td>N(50)、NR(25)、 TM(50) 、AR (25)</td></tr><tr><td rowspan=\"2\"></td><td>处理 镇静处理</td><td>型材 板材</td><td>A(50)</td><td colspan=\"3\"></td><td></td></tr><tr><td>镇静和细化晶粒处理</td><td>型材 板材</td><td colspan=\"4\">A(50)</td><td>NR（25）、N（50）、</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td>型材</td><td colspan=\"2\"></td><td rowspan=\"2\">TM(50)、 AR (25)</td><td>TM(50)</td></tr><tr><td>板材</td><td colspan=\"2\">N（每轧件）、TM（每轧件）</td><td></td></tr><tr><td>E</td><td>镇静和细化晶粒处理</td><td>型材</td><td colspan=\"3\">N(25)、TM(25)、AR×(15)、NR×(15)</td><td></td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 22,
+      "page_start": 22,
+      "page_end": 22,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 43,
+      "content_sha256": "29e38839fb8120a345780f1713b3a316dede8e28c7591bb1c90c746fe54b059c",
+      "doc_id": "9f6eb8b8385a8a656c36e520187c1c2bfe62e5685a875db7f17d447d2c9efe7b"
+    }
+  },
+  {
+    "content": "注1：A——任意状态；AR——热轧；NR——正火轧制；N———正火；TM(TMCP)——热机械控制轧制；AR\\*——经供需双方协商确定后，可采用热轧状态交货；NR\\*——经供需双方协商确定后，可采用控制轧制状态交货。  \n注2：括号内的数值表示冲击试样的取样批量[单位为吨（t)]，（一)表示不作冲击试验。由同一块板坯轧制的所有钢板视为一件。  \n注3：所有钢级的Z25/Z35，细化晶粒元素、厚度范围、交货状态与相应的钢级一致。\n\n表B.2 高强度级钢材的交货状态及冲击检验批量",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 22,
+      "page_start": 22,
+      "page_end": 22,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 44,
+      "content_sha256": "733292f43bbc6cab06d6436d5449207ee9eaabffd43d60c1437ebb4d92640be3",
+      "doc_id": "edc5f16069e51f529fa3c1727f050156b8b7a3e539b6d39ada8390d001b9397c"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td rowspan=\"3\">钢材 等级</td><td rowspan=\"3\">细化晶粒 元素</td><td rowspan=\"3\">产品 型式</td><td colspan=\"6\">交货状态</td></tr><tr><td rowspan=\"2\"></td><td colspan=\"6\">钢材厚度(t）/mm</td></tr><tr><td>≤12.5</td><td>>12.5~20</td><td>>20~25</td><td>>25~35</td><td>>35~50</td><td>>50~150</td></tr><tr><td rowspan=\"4\">A32 A36</td><td rowspan=\"4\">Nb和/或V Al或Al和 Ti</td><td>板材</td><td>A(50)</td><td colspan=\"3\">N(50)、NR(50)、TM(50)</td><td colspan=\"2\"></td><td>N（50)、NR(50) 、TM(50)</td></tr><tr><td>型材</td><td>A(50)</td><td rowspan=\"2\">N（50)、NR</td><td colspan=\"3\">（50) TM（50)、AR× AR×(25)</td><td>（25）</td><td></td></tr><tr><td>板材</td><td colspan=\"2\">A(50)</td><td colspan=\"3\">N（50）、NR（50）、TM（50)</td><td>N（50）、NR（25） TM(50)</td></tr><tr><td>型材</td><td>A(50)</td><td colspan=\"3\">N（50）、NR（50）、TM（50）、AR</td><td colspan=\"2\">（25)</td><td></td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 22,
+      "page_start": 22,
+      "page_end": 22,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 45,
+      "content_sha256": "e50e8e272db3295b8e476b2359ee4758561ce7c075efb7df7001902e612da7e7",
+      "doc_id": "23a3760c3b566073950dc5b500bf50a58f078f143cbbad0ea0b0b28193c79633"
+    }
+  },
+  {
+    "content": "表B.2 高强度级钢材的交货状态及冲击检验批量（续）",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 23,
+      "page_start": 23,
+      "page_end": 23,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 46,
+      "content_sha256": "e77e3afcd0b0277280bc1cd1b877c9a2770484fd3536391bc520dc25b06c8c20",
+      "doc_id": "ff9fb751e169c04b8b959fe1dd3c858216365bb4ed7b755c2c79604f8f250216"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"2\">钢材 等级</td><td rowspan=\"2\">细化晶粒 元素</td><td rowspan=\"3\">产品 型式</td><td colspan=\"6\">交货状态</td></tr><tr><td rowspan=\"2\"></td><td colspan=\"6\">钢材厚度(t)/mm</td></tr><tr><td></td><td>≤12.5 >12.5~20</td><td colspan=\"3\">>20~25 25~35</td><td>>35~50</td><td>>50~150</td></tr><tr><td rowspan=\"2\">A40</td><td rowspan=\"2\">任意</td><td>板材</td><td>A(50)</td><td colspan=\"3\">N（50）、NR(50）、TM(50)</td><td></td><td>N（50）、TM（50）、 QT(每热处理件)</td></tr><tr><td>型材</td><td>A(50)</td><td colspan=\"3\">N(50)、NR(50) TM(50)</td><td></td><td></td></tr><tr><td rowspan=\"5\">D32 D36</td><td rowspan=\"2\">Nb和/或V</td><td>板材</td><td>A(50)</td><td colspan=\"3\">N(50）、NR（25）、TM（50)</td><td></td><td>N（50)、NR（25）、TM（50)</td></tr><tr><td>型材</td><td>A(50)</td><td>N（50）、NR（50)</td><td colspan=\"3\">、TM（50）、AR （25） *</td><td></td></tr><tr><td rowspan=\"2\">A1或Al和Ti</td><td rowspan=\"2\">板材</td><td rowspan=\"2\" colspan=\"2\">A(50)</td><td>AR* （25)</td><td rowspan=\"2\">N(50)、NR(25)、TM(50)</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td>N(50）、NR（25）、 TM(50)</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 23,
+      "page_start": 23,
+      "page_end": 23,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 47,
+      "content_sha256": "f21726565abba719d0dbce57d99c9dbf3a94aafc58e032db30e1d0c2a04305a4",
+      "doc_id": "6c28110b2972c51f4f8ecaa738dd6df095cefcbeaf16d0b459975d3744f7f34d"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"2\">钢材 等级</td><td rowspan=\"2\">细化晶粒 元素</td><td rowspan=\"3\">产品 型式</td><td colspan=\"6\">交货状态</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\">型材</td><td rowspan=\"2\"></td><td colspan=\"3\" rowspan=\"2\">A(50) TM(50)、AR×（25)</td><td rowspan=\"2\">N(50)、NR(50)、</td><td></td></tr><tr><td rowspan=\"2\">N（50）、TM（50）、</td></tr><tr><td rowspan=\"2\">D40</td><td rowspan=\"2\">任意</td><td>板材</td><td colspan=\"4\">N(50)、NR(50) 、TM(50)</td><td>QT(每热处理件)</td></tr><tr><td>型材 板材</td><td colspan=\"4\">N(50) 、NR（50）、TM（50)</td><td></td></tr><tr><td rowspan=\"2\">E36</td><td rowspan=\"2\">任意</td><td>型材</td><td colspan=\"4\">N（每件）、TM（每件） N(25）、TM（25)、AR×（15)、NR（15）</td><td></td></tr><tr><td>板材</td><td colspan=\"4\">N（每件）、TM（每件）、QT（每热处理长度）</td><td></td></tr><tr><td rowspan=\"2\">E40 F32</td><td rowspan=\"2\">任意</td><td>型材</td><td colspan=\"4\">N(25)、TM(25)、QT（25)</td><td></td></tr><tr><td>板材</td><td colspan=\"4\">N（每件）、TM（每件）、QT（每热处理长度）</td><td></td></tr><tr><td rowspan=\"2\">F36</td><td rowspan=\"2\">任意</td><td>型材</td><td colspan=\"4\">N(25）、TM（25）、QT（25）、NR× (15)</td><td></td></tr><tr><td>板材</td><td colspan=\"4\">N（每件）、TM（每件）、QT（每热处理长度）</td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 23,
+      "page_start": 23,
+      "page_end": 23,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 48,
+      "content_sha256": "25c38db5c51a9e014371215f3720f5cfeac359152a2d3862647eb45d0a005068",
+      "doc_id": "e2979d10167522cbc26b6a8f8d375167abc75e28f891b7fc9277e82f601b78ea"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"2\">钢材 等级</td><td rowspan=\"2\">细化晶粒 元素</td><td rowspan=\"3\">产品 型式</td><td colspan=\"6\">交货状态</td></tr><tr><td rowspan=\"2\">F40</td><td rowspan=\"2\">任意</td><td>型材</td><td colspan=\"4\"></td><td></td></tr><tr><td></td><td colspan=\"4\">N(25）、TM（25）、QT（25）</td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 23,
+      "page_start": 23,
+      "page_end": 23,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 49,
+      "content_sha256": "13b96a1b5f90ae430dbd543d10881aa436c413f118d3d48295e5a21fb4fab946",
+      "doc_id": "284ff40bb441ec0f49199bf1dfb0114f1d843ee51ec41f14830c35dd4b8e61a2"
+    }
+  },
+  {
+    "content": "注1：A—任意状态;NR——正火轧制；N——正火；TM(TMCP)——热机械控制轧制；QT——淬火加回火；AR×———经供需双方协商确定后，可采用热轧状态交货；NR\\* ———经供需双方协商确定后，可采用控制轧制状态交货。\n\n注2：括号中的数值表示冲击试样的取样批量[单位为吨(t)]。\n\n注3：所有钢级的 Z25/Z35，细化晶粒元素、厚度范围、交货状态与相应的钢级一致。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 23,
+      "page_start": 23,
+      "page_end": 23,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 50,
+      "content_sha256": "2e0b61e173676900fd2d8aceff8f0e5f1d531885f37ae7e38450095be39d51e1",
+      "doc_id": "15ad270f3fc92ee83bb8c8930a37746fff40546d710c4b645d170ec3133ea7e7"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td rowspan=\"2\">钢材等级</td><td rowspan=\"2\">细化晶粒 元素</td><td rowspan=\"2\">产品型式</td><td colspan=\"2\">交货状态</td></tr><tr><td>钢材厚度 (t)/mm</td><td>交货状态</td></tr><tr><td rowspan=\"3\">AH420 、AH460、AH500、 AH550、AH620、AH690 AH790、AH890、AH960</td><td rowspan=\"3\">任意</td><td rowspan=\"2\">板材</td><td>≤250</td><td>N（每件）</td></tr><tr><td>≤150</td><td>NR（每件）、TM（每件）、QT（每件）</td></tr><tr><td>型材</td><td>三50</td><td>N(25)、NR(25) TM(25)、QT（25)</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 23,
+      "page_start": 23,
+      "page_end": 23,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 51,
+      "content_sha256": "529b61cf8674de7f2a5d50a0d103dc8f8d1a1f60473fb3b3bf00dcb5f5f05422",
+      "doc_id": "b23076a22c360ba67cdfbd1c10dad811752842dbff98f581e8e84a05eb73eb66"
+    }
+  },
+  {
+    "content": "表B.3 超高强度级钢材的交货状态及冲击检验批量（续）",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 24,
+      "page_start": 24,
+      "page_end": 24,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 52,
+      "content_sha256": "f1babd2ce29e38e855628fefd127583189526c063cea8faf98fbd0bf9189b3e9",
+      "doc_id": "073bf4ffe1efbb64ad3f183915062f0f588810e11512ee0354520bbed0c5f819"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td rowspan=\"2\">钢材等级</td><td rowspan=\"2\">细化晶粒 元素</td><td rowspan=\"2\">产品型式</td><td colspan=\"2\">交货状态</td></tr><tr><td>钢材厚度 (t)/mm</td><td>交货状态</td></tr><tr><td rowspan=\"3\">DH420、DH460、DH500、 DH550、DH620、DH690 DH790、DH890、DH960</td><td rowspan=\"3\">任意</td><td rowspan=\"3\">板材</td><td>八250</td><td>N（每件）</td></tr><tr><td>150</td><td>NR（每件）、TM（每件）、QT（每件）</td></tr><tr><td>≤50</td><td>N(25)、NR(25)、TM(25)、QT(25)</td></tr><tr><td rowspan=\"3\">EH420、EH460、EH500、 EH550、EH620、EH690 EH790、EH890 EH960</td><td rowspan=\"3\">任意</td><td rowspan=\"3\">板材</td><td>≤250</td><td>N（每件）</td></tr><tr><td>150</td><td>NR（每件）、TM（每件）、QT（每件）</td></tr><tr><td>≤50</td><td>N(25) 、NR（25）、TM（25）、QT（25)</td></tr><tr><td rowspan=\"2\">FH420、FH460、FH500、 FH550、FH620、 FH690 、FH790</td><td rowspan=\"2\">任意 型材</td><td rowspan=\"2\">板材</td><td>≤250</td><td>N（每件）</td></tr><tr><td>150</td><td>NR（每件）、TM（每件）、QT（每件）</td></tr><tr><td colspan=\"5\">50 N(25)、NR(25)、TM(25)、QT(25) 注1：N————正火；NR————正火轧制；TM(TMCP) ——热机械控制轧制，包括TM+AcC和TM+DQ；QT——淬 火加回火，包括热轧后直接淬火加回火；TM+AcC——热机械控制轧制后进行加速冷却；TM+DQ——热 机械控制轧制后直接淬火加回火。</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\海工钢 国标.pdf",
+      "page": 24,
+      "page_start": 24,
+      "page_end": 24,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "海工钢 国标.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 53,
+      "content_sha256": "e7afa78477c1b971d57bec5b6bc35e56f68e49ab79b2ad2595e6806a1174824f",
+      "doc_id": "1c1f629aca3d559bb2dd3351c75e7b606109c0520fb8600c832ce809d60fc7fe"
+    }
+  }
+]

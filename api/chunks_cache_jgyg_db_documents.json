@@ -1,0 +1,706 @@
+[
+  {
+    "content": "前　　言\n\n本标准按照 GB／T1．1— 209 给出的规则起草。\n\n本标准代替GB／T1591— 208《低合金高强度结构钢》。 与GB／T1591— 208相比，除编辑性修改外主要技术变化如下：\n\n明确了本标准的化学成分也适用于钢坯（见第1章，208版第1章）；修改了“热机械轧制”及“正火轧制”术语的定义，增加了“热轧”、“正火”术语与定义（见第3章，208版第3章）；修改了牌号表示方法（见第4章，208版第4章）；  \n—增加了订货内容（见第5章）；  \n—明确了尺寸、外形、重量及允许偏差要求（见第6章，208版第5章）；  \n—以 Q35 钢级替代 Q345钢级及相关要求（见第7章、9．2，208版第6章、8．2）；按不同交货状态规定各牌号的化学成分，并修改了细化晶粒元素的含量（见7．1，208版6．1）；按不同交货状态规定各牌号的力学性能，并将下屈服强度修改为上屈服强度，其指标相应提高了10MPa～15MPa（见7．4．1、7．4．2，208版6．4．1、6．4．2）；  \n—细化了钢材表面质量要求（见7．5，208版6．5）；修改了试验方法和检验规则，明确了冲击试验的取样部位（见第8章、第9章，208版第7章、第8章）；增加了本标准牌号与国外标准牌号对照表（见附录 A）。\n\n本标准由中国钢铁工业协会提出。\n\n本标准由全国钢标准化技术委员会归口（SAC／TC 183）。\n\n本标准起草单位：鞍钢股份有限公司、冶金工业信息标准研究院、首钢总公司、河钢股份有限公司唐山分公司、西王特钢有限公司、山东钢铁股份有限公司莱芜分公司、营口中车型钢新材料有限公司、中信金属有限公司。\n\n本标准主要起草人：刘徐源、朴志民、栾燕、戴强、师莉、沈钦义、邓翠青、张灵通、赵新华、李文武、王厚昕、张成连、高燕。\n\n本标准所代替标准的历次版本发布情况为：\n\nGB 1591— 1979、GB 1591— 198 、GB／T 1591— 194、GB／T 1591— 208。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 0,
+      "content_sha256": "a4242519787d0ec8bbcf7e8129215556c51abad4d0f55257f5cc5f2e406cfa52",
+      "doc_id": "2fd909cf399ee7f1f54b14e56fc619e77adbaa0d9d86cd22688fff6382de5370"
+    }
+  },
+  {
+    "content": "低合金高强度结构钢\n\n范围\n\n本标准规定了低合金高强度结构钢的牌号表示方法、订货内容、尺寸、外形、重量、技术要求、试验方法、检验规则、包装、标志和质量证明书。\n\n本标准适用于一般结构和工程用低合金高强度结构钢钢板、钢带、型钢、钢棒等。其化学成分也适用于钢坯。\n\n2 规范性引用文件\n\n下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本文件。凡是不注日期的引用文件，其最新版本（包括所有的修改单）适用于本文件。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 1,
+      "content_sha256": "d54862c7d6814af58390a6a8168e520ae1745db26be52dfb2a5b6db066490c56",
+      "doc_id": "3e8b0bca10005a6004ea8c812ed0122bfd9319cb98a3b2adc19231c372c6d1eb"
+    }
+  },
+  {
+    "content": "GB／T5313 厚度方向性能钢板  \nGB／T8170 数值修约规则与极限数值的表示和判定  \nGB／T1263 热轧 H 型钢和剖分T型钢  \nGB／T1497 热轧钢板表面质量的一般要求  \nGB／T17505 钢及钢产品　交货一般技术要求  \nGB／T 206 钢和铁　化学成分测定用试样的取样和制样方法  \nGB／T 20123 钢铁　总碳硫含量的测定　高频感应炉燃烧后红外吸收法（常规方法）  \nGB／T20124 钢铁　氮含量的测定　惰性气体熔融热导法（常规方法）  \nGB／T 20125 低合金钢　多元素含量的测定　电感耦合等离子体原子发射光谱法  \nGB／T 2830 热轧棒材和盘条表面质量等级交货技术条件  \nYB／T427 热轧型钢表面质量一般要求",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 2,
+      "content_sha256": "ce495cea3baa10dae8ad7a758a2b72d390e3a301619ad522e62194a292d58eca",
+      "doc_id": "a126c668913a4bbfb0436daf08fe85fc267b1a26886d4ff68c31374d6b11a3aa"
+    }
+  },
+  {
+    "content": "牌号表示方法\n\n4．1 钢的牌号由代表屈服强度“屈”字的汉语拼音首字母 Q、规定的最小上屈服强度数值、交货状态代号、质量等级符号（B、C、D、E、F）四个部分组成。\n\n注1：交货状态为热轧时，交货状态代号 AR或 WAR可省略；交货状态为正火或正火轧制状态时，交货状态代号均用 N表示。  \n注2：Q＋规定的最小上屈服强度数值＋交货状态代号，简称为“钢级”。示例： Q35ND。其中：Q —钢的屈服强度的“屈”字汉语拼音的首字母；  \n35 ——规定的最小上屈服强度数值，单位为兆帕（MPa）；  \nN 交货状态为正火或正火轧制；  \nD 质量等级为D级。\n\n4．2 当需方要求钢板具有厚度方向性能时，则在上述规定的牌号后加上代表厚度方向（Z向）性能级别的符号，如：Q35 NDZ25。\n\n5 订货内容\n\n5．1 按本标准订购的合同或订单应包括下列内容：\n\na） 本标准编号；  \nb） 产品类型；  \nc） 钢的牌号（钢级＋质量等级）；  \nd） 尺寸、外形及允许偏差（见第6章）；  \ne） 交货的重量（或数量）；  \nf） 所有要求的选择内容（见5．2）。\n\n5．2 经供需双方协商，并在合同中注明，可选择下列内容作为本标准的订货内容。 如果需方在提供询单和订购时未指明，则产品按5．1供货。\n\na） 碳当量或焊接裂纹敏感性指数（Pcm）（见7．1．3，表6）；  \nb） 添加合金元素及其含量（见7．1．6，表1，表3，表5）；供应商品钢坯时的化学成分下限（见7．1．8）；  \nd） 成品分析（见7．1．9）；冶炼方法（见7．2）；冲击试验温度及冲击试验取样方向（见表1 ）；  \ng） 弯曲试验（见7．4．3）；  \nh） 厚度方向钢性能（见7．1．7，7．4．1．4和9．2．3）；  \ni） 表面质量（见7．5．1．5，7．5．2．4，7．5．3．2，7．5．4．2）；  \nj） 无损检测（见7．6）；  \nk） 冲击试样的取样位置（见8．3）。\n\n6 尺寸、外形、重量\n\n6．1 热轧钢棒的尺寸、外形、重量及允许偏差应符合GB／T702的规定，具体组别应在合同注明。  \n6．2 热轧型钢的尺寸、外形、重量及允许偏差应符合GB／T706的规定，具体组别应在合同注明。  \n6．3 热轧钢板和钢带的尺寸、外形、重量及允许偏差应符合 GB／T709的规定，具体精度类别应在合同",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 3,
+      "content_sha256": "5ff53c45e824eb10cfe646f73d648a6c7a405a1484a3b406edd4133506e1970a",
+      "doc_id": "c41fe291946a0bd1f4342b5de3fbb342b2af964bc7520a7907a6458595094e19"
+    }
+  },
+  {
+    "content": "注明。\n\n6．4 热轧 H 型钢和剖分T型钢的尺寸、外形、重量及允许偏差应符合 GB／T 1263 的规定。\n\n6．5 经供需双方协议，可供应其他尺寸、外形及允许偏差的钢材。\n\n7 技术要求\n\n7．1 钢的牌号及化学成分\n\n7．1．1 热轧钢的牌号及化学成分（熔炼分析）应符合表1的规定，其碳当量值应符合表2的规定。\n\n7．1．2 正火及正火轧制钢的牌号及化学成分（熔炼分析）应符合表3的规定，其碳当量值应符合表4的规定。\n\n7．1．3 热机械轧制钢的牌号及化学成分（熔炼分析）应符合表5的规定，其碳当量值应符合表6的规定。当热机械轧制钢的碳含量不大于0．12％时，宜采用焊接裂纹敏感性指数（Pcm）代替碳当量评估钢材的可焊性，Pcm值应符合表6的规定。经供需双方协商，可指定采用碳当量或焊接裂纹敏感性指数评估钢材的可焊性，当未指定时，供方可任选其一。\n\n7．1．4 碳当量（CEV）由熔炼分析成分按式（1）计算，焊接裂纹敏感指数（Pcm）由熔炼分析成分按式（2）计算：\n\nPcm（％）＝C＋Si／30＋Mn／20＋Cu／20＋Ni／60＋Cr／20＋Mo／15＋V／10＋5B…… ……（2）\n\n7．1．5 钢中氮元素含量如供方保证，可不作分析。\n\n7．1．6　为了改善钢的性能，由供需双方协议，钢中可添加表1、表3、表5规定以外的合金元素，其合金元素及其含量应在质量证明书中注明。\n\n7．1．7 当需方要求保证厚度方向性能钢板时，硫含量应符合GB／T5313的规定。\n\n7．1．8 供应商品钢坯时，为保证钢材力学性能符合本标准规定，其各元素化学成分的下限可由供需双方协商确定。\n\n7．1．9 当需方要求进行成品化学成分分析时，则应进行成品分析，其化学成分允许偏差应符合GB／T22的规定。\n\n7．1．10 国内外牌号对照参见附录 A。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 4,
+      "content_sha256": "88bed29a3d38d917d81d023f3956269f3256bd9af7921db79425bb5f7fb70fd2",
+      "doc_id": "2d101ca179ca2e51b8413c6f0cf9aa5a01a832908fac7ecd299d8463362d9396"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"2\">牌号</td><td colspan=\"16\">化学成分(质量分数)/%</td></tr><tr><td colspan=\"2\" rowspan=\"4\">钢级 等级</td><td></td><td colspan=\"2\"></td><td colspan=\"10\">Mn</td></tr><tr><td colspan=\"2\">质量</td><td colspan=\"2\">以下公称厚度或直径/mm</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td>Nb</td><td>V</td><td>Ti</td><td></td><td></td><td></td><td>Mo</td><td></td><td></td></tr><tr><td colspan=\"2\">≤40b</td><td colspan=\"9\">不大于</td></tr><tr><td colspan=\"2\"></td><td colspan=\"2\">不大于</td><td colspan=\"10\"></td></tr><tr><td rowspan=\"4\">Q355</td><td></td><td>0.24</td><td></td><td></td><td></td><td>0.035</td><td>0.035</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.012</td><td></td></tr><tr><td></td><td>0.20</td><td>0.22</td><td>0.55</td><td>1.60</td><td>0.030</td><td>0.030</td><td rowspan=\"3\"></td><td></td><td rowspan=\"3\"></td><td rowspan=\"3\">0.30 0.30</td><td rowspan=\"3\">0.40</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td></tr><tr><td rowspan=\"2\">Q390</td><td></td><td>0.20</td><td>0.22</td><td></td><td>0.025</td><td>0.025</td></tr><tr><td></td><td></td><td></td><td></td><td>0.035 0.035</td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 5,
+      "content_sha256": "504b1d445ccad41bba6b70ebe25fe99961ba8ae23160366452c9fd07000687f9",
+      "doc_id": "58880657c23750a700dd782d6028d04643210389098b59b830cfe48d5fecce05"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"2\">牌号</td><td colspan=\"16\">化学成分(质量分数)/%</td></tr><tr><td rowspan=\"4\"></td><td></td><td></td><td>0.20</td><td>0.55</td><td>.70</td><td>0.030</td><td>0.030</td><td rowspan=\"3\">0.05</td><td>0.13</td><td rowspan=\"3\">0.05</td><td rowspan=\"3\">0.30</td><td rowspan=\"3\">0.50</td><td rowspan=\"3\">0.40</td><td rowspan=\"3\">0.10 0.015</td><td rowspan=\"3\"></td></tr><tr><td></td><td></td><td></td><td></td><td>.025</td><td>.025</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>0.035</td><td>.035</td><td></td></tr><tr><td>Q420g</td><td></td><td>0.20</td><td></td><td>0.55</td><td>.70</td><td>0.030</td><td>0.05 0.030</td><td>0.13</td><td>0.05</td><td>0.30</td><td>0.80</td><td>0.40 0.20</td><td>0.015</td><td></td></tr><tr><td>Q460g</td><td></td><td></td><td>0.20</td><td>0.55</td><td>1.80</td><td>0.030</td><td>0.030</td><td>0.05</td><td>0.13</td><td>0.05</td><td>0.30</td><td>0.80</td><td>0.40</td><td>0.20</td><td>0.015</td><td>0.004</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 6,
+      "content_sha256": "4423c9204608703f5e5a81e131584e48c729dc955ed892107e40469e6094ec25",
+      "doc_id": "2c82a1bbc3b71d7d7f2fc4034b2c299911fbda7e9fb36ae44501579aeabf707a"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>当需对硅含量控制时（例如热浸镀锌涂层)，为达到抗拉强度要求而增加其他元 素如碳和锰的含 表中最入 恢 当量值的增加应符合下列规定： 对于Si≤0.030%，碳当量可提高0.02%；</td></tr><tr><td>对于Si≤0.25%，碳当量可提高0.01%。</td></tr><tr><td></td></tr><tr><td>对于型钢和棒材，其最大碳当量可到0.54%。</td></tr><tr><td>只适用于质量等级为D的钢板。 只适用于型钢和棒材。</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 7,
+      "content_sha256": "b47da64c217a3ebd649f8d3b0e8d63836a6a8fd5bd64f274671f8f8af77e5c05",
+      "doc_id": "881e34efe204967468858facd42f4e124b6b90d494ed1ea19711e3443f401b5c"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"3\">牌号</td><td colspan=\"12\">化学成分（质量分数）/%</td></tr><tr><td rowspan=\"2\">钢级</td><td rowspan=\"2\">质量 等级</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">Mn</td><td></td><td rowspan=\"2\"></td><td rowspan=\"2\">Nb</td><td rowspan=\"2\">Tic</td><td rowspan=\"2\"></td><td colspan=\"7\">Ni Mo</td></tr><tr><td>不大于</td><td></td><td colspan=\"4\">不大于</td><td></td><td>Alsd 不小于</td></tr><tr><td rowspan=\"6\">Q355N</td><td></td><td rowspan=\"5\"></td><td rowspan=\"5\">0.50</td><td rowspan=\"5\"></td><td>0.035</td><td>0.035</td><td rowspan=\"5\">0.05</td><td rowspan=\"5\">0.01~ 0.12</td><td rowspan=\"5\">0.006~ 0.05</td><td rowspan=\"5\">0.30</td><td rowspan=\"5\">0.50</td><td rowspan=\"5\">0.40</td><td rowspan=\"5\">0.10</td><td rowspan=\"5\">0.015</td><td rowspan=\"5\">0.015</td></tr><tr><td>0.20</td><td>0.030</td><td>0.030</td></tr><tr><td></td><td>0.90~</td><td></td><td>0.005~</td></tr><tr><td>D</td><td>1.65</td><td>0.030 0.025</td><td>0.025 0.020</td></tr><tr><td></td><td></td><td>0.020</td><td>0.010</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 8,
+      "content_sha256": "eab8d696e2ebd0c1c4a95a5f5895926abaaf439cb17c62b1915e2e1f14cc8a2e",
+      "doc_id": "8f2276a4faf0b9707301872ecc3512da190364d4311ecb5a89fe3932b2ad2cb8"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"3\">牌号</td><td colspan=\"12\">化学成分（质量分数）/%</td></tr><tr><td rowspan=\"5\">Q390N</td><td></td><td></td><td rowspan=\"5\"></td><td rowspan=\"5\"></td><td>0.035</td><td>0.035</td><td rowspan=\"5\">0.01~ 0.05</td><td rowspan=\"5\">0.01~</td><td rowspan=\"5\">0.006~ 0.20 0.05 0.20</td><td rowspan=\"5\">0.30</td><td rowspan=\"5\">0.50</td><td rowspan=\"5\">0.40</td><td rowspan=\"5\">0.10</td><td rowspan=\"5\">0.015</td><td rowspan=\"5\">0.015</td></tr><tr><td></td><td>0.90~ 1.70</td><td>0.030</td><td>0.030</td></tr><tr><td></td><td>0.20 0.50</td><td>0.030</td><td>0.025</td></tr><tr><td></td><td></td><td>0.025</td><td>0.020</td></tr><tr><td></td><td></td><td>0.035</td><td>0.035</td></tr><tr><td rowspan=\"5\">Q420N</td><td></td><td>0.20</td><td rowspan=\"5\">0.60</td><td rowspan=\"5\">1.00~</td><td>0.030</td><td>0.030</td><td rowspan=\"5\">0.01~ 0.05</td><td rowspan=\"5\">0.01~</td><td rowspan=\"5\">0.006~ 0.05 0.006~</td><td rowspan=\"5\">0.30</td><td rowspan=\"5\">0.80</td><td rowspan=\"5\">0.40</td><td rowspan=\"5\">0.10</td><td rowspan=\"5\">0.025</td><td rowspan=\"5\">0.015</td><td rowspan=\"5\"></td></tr><tr><td></td><td>1.70</td><td>0.030</td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 9,
+      "content_sha256": "d6423939fba1d4b7676e0c805e1df9fe77d01283738c9e3c241382741d053c9f",
+      "doc_id": "9707bc26b105a3348f027edec448c68cf4ece60f22ea8e0dd09b47198d029b28"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"3\">牌号</td><td colspan=\"12\">化学成分（质量分数）/%</td></tr><tr><td></td><td></td><td>0.025</td><td>0.025</td><td></td></tr><tr><td></td><td></td><td>0.030</td><td>0.020 0.030</td><td></td></tr><tr><td>D</td><td>1.00~ 0.60</td><td></td><td>0.025</td><td>0.01~ 0.20</td></tr><tr><td rowspan=\"3\">Q460Nb</td><td></td><td>0.20</td><td rowspan=\"3\"></td><td rowspan=\"3\">1.70</td><td>0.030</td><td></td><td rowspan=\"3\">0.05</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\">0.05</td><td rowspan=\"3\">0.30</td><td rowspan=\"3\">0.80</td><td rowspan=\"3\">0.40</td><td rowspan=\"3\"></td><td rowspan=\"3\">0.025</td><td rowspan=\"3\"></td></tr><tr><td>E</td><td></td><td>0.025</td><td>0.020</td></tr><tr><td></td><td></td><td></td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 10,
+      "content_sha256": "f2de765888ba17f64b8f01d844651dc46faa4179353cd795a59c2683089a81f2",
+      "doc_id": "93271819fda21d1851effb963d97674e2734d8b2d01dd3a519d3aec17fca97fe"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"10\">牌号</td><td colspan=\"5\">碳当量CEV(质量分数)/% 不大于</td><td></td></tr><tr><td colspan=\"2\" rowspan=\"2\">钢级</td><td rowspan=\"2\" colspan=\"2\">质量等级</td><td rowspan=\"2\">公称厚度或直径/mm</td><td colspan=\"8\"></td><td colspan=\"2\"></td></tr><tr><td colspan=\"2\">≤63</td><td colspan=\"2\"></td><td colspan=\"2\">>63~100</td><td colspan=\"2\">>100~250</td><td colspan=\"3\">>250~400</td></tr><tr><td colspan=\"2\">Q355N Q390N</td><td colspan=\"3\">B、C、D、E、F</td><td colspan=\"2\">0.43</td><td colspan=\"2\">0.45</td><td colspan=\"3\">0.45</td><td colspan=\"3\">协议</td></tr><tr><td colspan=\"2\">Q420N</td><td colspan=\"3\">B、C、D、E</td><td colspan=\"2\">0.46</td><td colspan=\"2\">0.48</td><td colspan=\"2\">0.49</td><td colspan=\"3\">协议</td></tr><tr><td colspan=\"2\">Q460N</td><td colspan=\"3\">B、C、D、E</td><td colspan=\"2\">0.48</td><td colspan=\"2\">0.50</td><td colspan=\"2\">0.52</td><td colspan=\"3\">协议</td></tr><tr><td colspan=\"2\"></td><td colspan=\"3\">C、D、E</td><td colspan=\"2\">0.53</td><td colspan=\"2\">0.54</td><td colspan=\"2\">0.55</td><td colspan=\"3\">协议</td></tr><tr><td colspan=\"14\">表5 热机械轧制钢的牌号及化学成分</td></tr><tr><td colspan=\"2\">牌号</td><td colspan=\"10\">化学成分（质量分数）/%</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 11,
+      "content_sha256": "afd47e37bca36b4a419b3fc634366b1ab044a352261fd5ed7fdfdc6984a46143",
+      "doc_id": "cca2da20b173df499213a6d5784d81f0df85860667a06bfb3bc59d8da397c814"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"10\">牌号</td><td colspan=\"5\">碳当量CEV(质量分数)/% 不大于</td><td></td></tr><tr><td colspan=\"2\">质量 钢级</td><td colspan=\"2\">S1 Mn</td><td></td><td></td><td></td><td colspan=\"2\">Nb 不大于</td><td colspan=\"2\">Tib Cr 1</td><td colspan=\"2\">Cu Mo</td><td colspan=\"2\">A1sc</td></tr><tr><td>Q355M</td><td>等级 B</td><td></td><td></td><td>0.035</td><td></td><td>0.035</td><td colspan=\"2\"></td><td colspan=\"2\"></td><td></td><td colspan=\"2\"></td><td>不小于</td></tr><tr><td rowspan=\"4\"></td><td></td><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td></td><td>0.030</td><td>0.030</td><td rowspan=\"4\"></td><td rowspan=\"4\">0.01~ 0.006~ 0.10 0.05</td><td rowspan=\"4\">0.30</td><td rowspan=\"4\">0.50</td><td rowspan=\"4\">0.40 0.10</td><td rowspan=\"4\">0.015</td><td rowspan=\"4\">0.015</td></tr><tr><td>0.14</td><td>0.50</td><td></td><td>0.025</td></tr><tr><td>D E</td><td>1.60</td><td>0.030 0.025 0.020</td><td>0.01~ 0.05</td></tr><tr><td></td><td></td><td>0.020</td><td>0.010</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 12,
+      "content_sha256": "9adb400c40ec2af24a813bf56fe7018a5a6ea1d1eb1df3159c7064abbff7779b",
+      "doc_id": "5ab74fd89a63ea677289359ad6293d5205b78be8329dfd78e44499e474697963"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"10\">牌号</td><td colspan=\"5\">碳当量CEV(质量分数)/% 不大于</td><td></td></tr><tr><td rowspan=\"4\">Q390M</td><td>B</td><td></td><td rowspan=\"4\"></td><td rowspan=\"4\">1.70</td><td>0.035</td><td>0.035</td><td rowspan=\"4\">0.01~ 0.05</td><td rowspan=\"4\">0.01~ 0.12</td><td rowspan=\"4\">0.006~ 0.30</td><td rowspan=\"4\">0.50</td><td rowspan=\"4\">0.40 0.10</td><td rowspan=\"4\">0.015</td><td rowspan=\"2\"></td><td rowspan=\"2\">0.015</td></tr><tr><td>D</td><td>0.15d 0.50</td><td>0.030</td><td>0.030</td></tr><tr><td>E</td><td></td><td>0.030 0.025</td><td>0.05</td></tr><tr><td></td><td>0.025</td><td>0.020</td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 13,
+      "content_sha256": "39d955cd0594aaaacb26474cb11ea09f232a7bd64bf282010218f20beb8b296b",
+      "doc_id": "2a771c7b679dd34c9f735c33f309af9af269d6b9ad50fd8448f0ae6d6c245555"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"2\">牌号</td><td colspan=\"13\">化学成分（质量分数)/%</td></tr><tr><td></td><td></td><td>0.030</td><td>0.030</td><td>0.01~</td><td></td><td></td><td></td><td></td><td></td><td>0.015</td><td></td><td></td></tr><tr><td rowspan=\"4\">Q460M</td><td>D</td><td rowspan=\"2\">0.16d</td><td rowspan=\"2\">0.60</td><td>.70</td><td>0.030</td><td>0.025</td><td rowspan=\"2\">0.01~ 0.05</td><td rowspan=\"2\">0.12</td><td rowspan=\"2\">0.006~ 0.05</td><td rowspan=\"2\">0.30</td><td rowspan=\"2\">0.80</td><td rowspan=\"2\">0.40</td><td rowspan=\"2\"></td><td rowspan=\"2\">0.025</td><td></td><td rowspan=\"2\">0.015</td></tr><tr><td></td><td>0.025</td><td>0.020</td><td></td><td>0.20</td></tr><tr><td></td><td>E</td><td rowspan=\"2\">0.18</td><td rowspan=\"2\">0.60 1.80</td><td>0.030</td><td>0.030</td><td rowspan=\"2\">0.01~</td><td rowspan=\"2\">0.01~</td><td rowspan=\"2\">0.006~</td><td rowspan=\"2\">0.60</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td>0.015</td><td></td><td rowspan=\"2\"></td></tr><tr><td>D</td><td>0.030</td><td>0.025</td><td>0.80</td><td></td><td>0.004</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 12,
+      "page_start": 12,
+      "page_end": 12,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 14,
+      "content_sha256": "0907fbb00c2b6cb2d8efe1d1f992998e7d507b4c156d73e8118fb04d0880c049",
+      "doc_id": "cccda4a7345018a771a7c8453cdced4f2c94082d25f30ec27d9551537509cb47"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"2\">牌号</td><td colspan=\"13\">化学成分（质量分数)/%</td></tr><tr><td rowspan=\"2\">Q500M</td><td>E</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td>0.025</td><td>0.020</td><td rowspan=\"2\">0.11</td><td rowspan=\"2\">0.12</td><td rowspan=\"2\">0.05</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td>0.55</td><td rowspan=\"2\">0.20</td><td>0.025</td><td></td><td rowspan=\"2\">0.015</td></tr><tr><td></td><td>0.030 0.030</td><td>09°0</td><td></td><td>0.015</td><td></td></tr><tr><td rowspan=\"4\">Q550M</td><td>C D</td><td rowspan=\"4\"></td><td rowspan=\"4\">0.60</td><td rowspan=\"4\">2.00</td><td></td><td>0.025</td><td rowspan=\"2\">0.01~ 0.11</td><td rowspan=\"4\">0.01~</td><td rowspan=\"4\">0.006~ 0.05</td><td rowspan=\"4\">0.80</td><td rowspan=\"4\">0.80</td><td rowspan=\"4\"></td><td rowspan=\"4\">0.80</td><td rowspan=\"4\">0.30</td><td rowspan=\"4\">0.025</td><td>0.004</td><td rowspan=\"4\">0.015</td></tr><tr><td>0.18</td><td>0.030</td><td>0.12</td><td></td></tr><tr><td>E C</td><td>0.025 0.030</td><td>0.020 0.030</td><td></td><td>0.015</td></tr><tr><td>D</td><td></td><td></td><td>0.80</td><td>0.004</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 12,
+      "page_start": 12,
+      "page_end": 12,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 15,
+      "content_sha256": "16b31cafcdb14ec981061502afb6921e61ba154bc280611c3750e336a91f1b9e",
+      "doc_id": "0400da222c1a77c7c1064f45fc740be2998ae164b48e540b7af09b7da3f1b0f9"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"2\">牌号</td><td colspan=\"13\">化学成分（质量分数)/%</td></tr><tr><td>Q620M</td><td>E</td><td>0.18</td><td>0.60</td><td>2.00</td><td>0.030</td><td>0.025 0.020</td><td>0.01 0.11</td><td>0.12</td><td>0.05</td><td>0.006 1.00</td><td>0.80</td><td></td><td>0.30</td><td>0.025</td><td></td><td></td><td>0.015</td></tr><tr><td rowspan=\"3\">Q690M</td><td></td><td>0.18</td><td rowspan=\"3\"></td><td rowspan=\"3\">2.00</td><td>0.030</td><td>0.030</td><td></td><td>0.01~</td><td>0.006~</td><td></td><td></td><td></td><td></td><td></td><td>0.015</td><td></td><td rowspan=\"3\"></td></tr><tr><td>D</td><td>0.60</td><td>0.030</td><td>0.025</td><td>0.01~ 0.11</td><td>0.12</td><td>0.05</td><td>1.00</td><td>0.80</td><td>0.80</td><td>0.30</td><td>0.025</td><td>0.004 0.015</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 12,
+      "page_start": 12,
+      "page_end": 12,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 16,
+      "content_sha256": "9eded7f6d72ea288350e4e33b0c1764c27f80950e2fd64201fb2b63ca3f6f082",
+      "doc_id": "2d8c748ebc6eb120e50620b03b418d047694822a72c086c02a464f49648e40ce"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"2\">牌号</td><td colspan=\"4\">碳当量CEV（质量分数）/%</td><td rowspan=\"5\">焊接裂纹敏感性 指数 Pcm（质量 分数)/% 不大于</td></tr><tr><td colspan=\"2\" rowspan=\"4\">钢级 质量等级</td><td colspan=\"5\">不大于</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">公称厚度或直径/mm 40～</td><td rowspan=\"2\">>63~</td><td rowspan=\"2\">>120~</td></tr><tr><td rowspan=\"2\">>16~</td></tr><tr><td>≤16</td><td>40</td><td>63</td><td>120</td><td>150</td></tr><tr><td>Q355M</td><td>B、C、D、E、F</td><td>0.39</td><td>0.39</td><td>0.40</td><td>0.45</td><td>0.45</td><td>0.20</td></tr><tr><td>Q390M</td><td>B、C、D、E</td><td>0.41</td><td>0.43</td><td>0.44</td><td>0.46</td><td>0.46</td><td>0.20</td></tr><tr><td>Q420M</td><td>B、C、D、E</td><td>0.43</td><td>0.45</td><td>0.46</td><td>0.47</td><td>0.47</td><td>0.20</td></tr><tr><td>Q460M</td><td>C、D、E</td><td>0.45</td><td>0.46</td><td>0.47</td><td>0.48</td><td>0.48</td><td>0.22</td></tr><tr><td>Q500M</td><td>C、D、E</td><td>0.47</td><td>0.47</td><td>0.47</td><td>0.48</td><td>0.48</td><td>0.25</td></tr><tr><td>Q550M</td><td>C、D、E</td><td>0.47</td><td>0.47</td><td>0.47</td><td>0.48</td><td>0.48</td><td>0.25</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 13,
+      "page_start": 13,
+      "page_end": 13,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 17,
+      "content_sha256": "7f2918ca5782d8f14346d0ef3317594a32924d9306b955ef4c55d90bca89118e",
+      "doc_id": "5fe9fc1006ae81f1bc39ce0639c2092412e11a383c7cc80abf52c0740a2f109d"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"2\">牌号</td><td colspan=\"4\">碳当量CEV（质量分数）/%</td><td rowspan=\"5\">焊接裂纹敏感性 指数 Pcm（质量 分数)/% 不大于</td></tr><tr><td>Q620M</td><td>C、D、E</td><td>0.48</td><td>0.48</td><td>0.48</td><td>0.49</td><td>0.49</td><td>0.25</td></tr><tr><td>Q690M</td><td>C、D、E</td><td>0.49</td><td>0.49</td><td>0.49</td><td>0.49</td><td>0.49</td><td>0.25</td></tr><tr><td colspan=\"8\"></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 13,
+      "page_start": 13,
+      "page_end": 13,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 18,
+      "content_sha256": "46a34a11a4cea69d1e1c44b4be70be1df8ae826c01c7e69683d777dd38caaa95",
+      "doc_id": "299aa2db39d114943d363a312bfbbb992906e20610be2f97c1d6fce3b71d6921"
+    }
+  },
+  {
+    "content": "7．2 冶炼方法\n\n钢由转炉或电炉冶炼，必要时可进行炉外精炼。除非需方有特殊要求并在合同中注明，冶炼方法一般由供方自行选择。\n\n7．3 交货状态\n\n钢材以热轧、正火、正火轧制或热机械轧制（TMCP）状态交货。   \n注：正火状态包含正火加回火状态，热机械轧制（TMCP）状态包含热机械轧制（TMCP）加回火状态。\n\n7．4 力学性能及工艺性能\n\n7．4．1 拉伸\n\n7．4．1．1 热轧钢材的拉伸性能应符合表7和表8的规定。  \n7．4．1．2 正火、正火轧制钢材的拉伸性能应符合表9的规定。  \n7．4．1．3 热机械轧制（TMCP）钢材的拉伸性能应符合表10的规定。  \n7．4．1．4 根据需方要求，并在合同中注明，要求钢板厚度方向性能时，钢材厚度方向的断面收缩率应按GB／T5313的规定。  \n7．4．1．5 对于公称宽度不小于60 mm的钢板及钢带，拉伸试验取横向试样；其他钢材的拉伸试验取纵向试样。\n\n7．4．2 夏比（犞型缺口）冲击\n\n7．4．2．1 钢材的夏比（V型缺口）冲击试验的试验温度及冲击吸收能量应符合表1 的规定。\n\n7．4．2．2 公称厚度不小于6mm 或公称直径不小于12mm 的钢材应做冲击试验，冲击试样尺寸取  \n10mm×10 mm×5 mm 的标准试样；当钢材不足以制取标准试样时，应采用10mm×7．5mm×",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 13,
+      "page_start": 13,
+      "page_end": 13,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 19,
+      "content_sha256": "660c5a0753ed973f18f977d6abff2e8706f43c5bed120c4c765db46159484ccc",
+      "doc_id": "f16cea6795a46df05e2f49a0cb3164dbd78ca08549e99a4e666cf3baf64b94f2"
+    }
+  },
+  {
+    "content": "5 mm或 10 mm×5 mm×5 mm 小尺寸试样，冲击吸收能量应分别为不小于表1 规定值的75％或  \n50％ ，应优先采用较大尺寸试样。注：对于型钢，厚度是指GB／T 2975中规定的制备试样的厚度。\n\n表7 热轧钢材的拉伸性能",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 14,
+      "page_start": 14,
+      "page_end": 14,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 20,
+      "content_sha256": "cdb5ec099ab85d41b9e3af1077a250a020c9a12116e63dc16788bbf103563164",
+      "doc_id": "de23325e35d66660080104f2583a3f0871e6e33b5fa6ae4139cbc1f2e2780a53"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"2\">牌号</td><td colspan=\"13\">上屈服强度ReH/MPa 不小于</td></tr><tr><td rowspan=\"2\">钢级</td><td rowspan=\"2\">质量 等级</td><td colspan=\"10\">公称厚度或直径， mm</td><td colspan=\"5\">MPa</td></tr><tr><td>/16</td><td>>16~ 40</td><td>>40 63</td><td>>63~ 80</td><td>>80~ 100</td><td>100 150</td><td>150~ 200</td><td>>200 250</td><td>250 400</td><td>≤100</td><td>>100 150</td><td>/150~250</td><td>150 / 250</td><td>>250~ 400</td></tr><tr><td>Q355</td><td>B、C</td><td>355</td><td>345</td><td>335</td><td>325</td><td>315</td><td>295</td><td>295</td><td>285</td><td>275</td><td>265b</td><td>470~ 630</td><td>450~ 600</td><td>450~ 600</td><td></td><td>450~ 600b</td></tr><tr><td>Q390</td><td>B、C、D</td><td>390</td><td>380</td><td>360</td><td>340</td><td>340</td><td>340</td><td>320</td><td></td><td></td><td>490~650</td><td>490~ 650</td><td>470~ 620</td><td></td><td></td><td></td></tr><tr><td>Q420</td><td>B、C</td><td>420</td><td>410</td><td>390</td><td>370</td><td>370</td><td>370</td><td>350</td><td></td><td></td><td>520~680</td><td>520~ 680</td><td>500 650</td><td></td><td></td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 14,
+      "page_start": 14,
+      "page_end": 14,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 21,
+      "content_sha256": "620cdff8e3fb496647c6198c2a1d82d1c3a7e5ce8ff4c3c7c5a79f3ae833e34d",
+      "doc_id": "91bd8de2666cb598bc3e8b22cc2af2e35e698c7d4fe68a8d5d7d675a6d42ccfb"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"2\">牌号</td><td colspan=\"13\">上屈服强度ReH/MPa 不小于</td></tr><tr><td>Q460c</td><td></td><td>460</td><td>450</td><td>430</td><td>410</td><td>410</td><td>410</td><td>390</td><td></td><td></td><td>550~720</td><td>550~ 720</td><td>530~ 700</td><td></td><td></td><td></td></tr><tr><td colspan=\"18\">当屈服不明显时，可用规定塑性延伸强度Rpo.2代替上屈服强度。 只适用于质量等级为D的钢板。</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 14,
+      "page_start": 14,
+      "page_end": 14,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 22,
+      "content_sha256": "ac8e9d1c183b79321f31d22940735eccc0bf095bb31e324ee29ea502fa9475ee",
+      "doc_id": "33063e0fd67091a2d8ef6188cdb555c5b73f108a0a3ba1d088257ea383817475"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td colspan=\"2\" rowspan=\"2\">SZC 牌号</td><td colspan=\"7\">断后伸长率A/% 不小于</td></tr><tr><td rowspan=\"2\"></td><td colspan=\"7\">公称厚度或直径/mm</td></tr><tr><td rowspan=\"2\">质量等级</td><td>试样方向</td><td>≤40</td><td>>40~63</td><td>>63~100</td><td>>100~150</td><td>>150~250</td><td>>250~400</td></tr><tr><td rowspan=\"2\">Q355 B、C、D</td><td>纵向</td><td>22</td><td>21</td><td>20</td><td>18</td><td>17</td><td>17a</td></tr><tr><td></td><td>横向</td><td>20</td><td>19 18</td><td>18</td><td>18</td><td>17</td><td>17a</td></tr><tr><td rowspan=\"2\">Q390</td><td rowspan=\"2\">B、C、D</td><td>纵向</td><td>21</td><td>20</td><td>20</td><td>19</td><td></td><td></td></tr><tr><td>横向</td><td>20</td><td>19</td><td>19</td><td>18</td><td></td><td></td></tr><tr><td>Q420b</td><td>B、C</td><td>纵向</td><td>20</td><td>19</td><td>19</td><td>19</td><td></td><td></td></tr><tr><td>Q460b</td><td></td><td>纵向</td><td>18</td><td>17</td><td>17</td><td>17</td><td></td><td></td></tr><tr><td colspan=\"10\">只适用于质量等级为D的钢板。 只适用于型钢和棒材。</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 14,
+      "page_start": 14,
+      "page_end": 14,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 23,
+      "content_sha256": "36a10a175f1e28540fc9b9e4528bb4fa0156827765e0ed7e57f795f71be20919",
+      "doc_id": "0fb86ced6948669e82d9b9309676a9b24b903ff5a12f60aa1cf3c7f600128d84"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"2\">牌号</td><td colspan=\"8\">上屈服强度ReH/MPa 不小于</td><td colspan=\"3\">抗拉强度 Rm /MPa</td><td colspan=\"6\">断后伸长率A/%</td></tr><tr><td rowspan=\"2\">钢级</td><td rowspan=\"2\">质量等级</td><td colspan=\"11\">公称厚度或直径/ mm</td><td colspan=\"2\"></td><td></td><td colspan=\"3\">不小于</td><td></td></tr><tr><td>16</td><td>>16 40</td><td>40 63</td><td>63 80</td><td>>80~ 100</td><td>>100~ 150</td><td>>150 200</td><td>>200 250</td><td>100</td><td>100 200</td><td>>200 250</td><td>16</td><td>>16~ 40</td><td>>40~ 53</td><td>>63～ 80</td><td>>80～ 200</td><td>V200~ 250</td></tr><tr><td>Q355N</td><td>B、C、D</td><td>22</td><td>345</td><td>335</td><td>25</td><td>31</td><td>295</td><td>285</td><td></td><td>470 630</td><td>450 600</td><td>450 600</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q390N</td><td>B、C、D</td><td>22</td><td>380</td><td>360</td><td>7</td><td>340</td><td></td><td></td><td>300</td><td>490 650</td><td>470 620</td><td>470 620</td><td></td><td></td><td></td><td></td><td></td><td>19</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 15,
+      "page_start": 15,
+      "page_end": 15,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 24,
+      "content_sha256": "ac65fe39f523e0da2cc20e3e496ee6c356fa69b668fd2b5aa94c50723444bea8",
+      "doc_id": "1d3d3d4fedf8ccc3b9e23fe07f757cb058015ff0c91f310f0963d57fe49edc2a"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"2\">牌号</td><td colspan=\"8\">上屈服强度ReH/MPa 不小于</td><td colspan=\"3\">抗拉强度 Rm /MPa</td><td colspan=\"6\">断后伸长率A/%</td></tr><tr><td>Q420N</td><td>B、C、D、E</td><td>2</td><td>400</td><td>390</td><td>370</td><td>360</td><td>340</td><td>330</td><td>320</td><td>80</td><td>500 650</td><td>00</td><td></td><td></td><td></td><td></td><td></td><td>18</td></tr><tr><td>Q460N</td><td>C、D、E</td><td>460</td><td>440</td><td>430</td><td>410</td><td>400</td><td>380</td><td>370</td><td>370</td><td>40 720</td><td>530 710</td><td>690</td><td></td><td></td><td></td><td></td><td>17</td><td>16</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 15,
+      "page_start": 15,
+      "page_end": 15,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 25,
+      "content_sha256": "c7d279e510c9085483afad2fbed4e8983b630d92e907266e7e1e5dc3430c84b6",
+      "doc_id": "ea5484d6f04ae1b0a470f1ead895068af91076069699398d211d377cf59d4c91"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"2\">牌号</td><td colspan=\"5\">上屈服强度ReH /MPa 不小于</td><td colspan=\"6\">抗拉强度Rm/MPa</td><td colspan=\"2\"></td></tr><tr><td rowspan=\"2\">钢级</td><td rowspan=\"2\">质量等级</td><td colspan=\"11\">公称厚度或直径， mm</td><td colspan=\"2\">断后伸长率A/% 不小于</td></tr><tr><td>>16~ ≤16 10</td><td></td><td>>40~ 53</td><td>>63 80</td><td>V80~ 100</td><td>>100 120</td><td>≤40</td><td>>40~ 63</td><td>>63 80</td><td>>80~ 100</td><td>>100~</td><td>120b</td></tr><tr><td>Q355M</td><td>B、C、D、E、F</td><td>355</td><td>345</td><td>335</td><td>325</td><td>325</td><td>320</td><td>~069088</td><td>470~ 630</td><td>450~ 610</td><td>440~ 600</td><td>440~ 600</td><td>430~ 590</td><td>22</td></tr><tr><td>Q390M</td><td>B、C、D、E</td><td>390</td><td>380</td><td>360</td><td>340</td><td>340</td><td>335</td><td>490~ 650</td><td></td><td>480~ 640</td><td>470~ 630</td><td>460~ 620</td><td>450~ 610</td><td>20</td></tr><tr><td>Q420M</td><td>B、C,D、E</td><td>420</td><td>400</td><td>390</td><td>380</td><td>370</td><td>365</td><td>520~ 680</td><td></td><td>500~ 660</td><td>480~ 640</td><td>470〜 630</td><td>460~ 620</td><td>9</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 16,
+      "page_start": 16,
+      "page_end": 16,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 26,
+      "content_sha256": "c9d4b31d46966cdf7d5945cec0ebf842e6e47348abea2f53c566e07040275c26",
+      "doc_id": "00f21ecb18cbf79569ac4514850c207afb22cf82e142388a3d7a7e6801181409"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"2\">牌号</td><td colspan=\"5\">上屈服强度ReH /MPa 不小于</td><td colspan=\"6\">抗拉强度Rm/MPa</td><td colspan=\"2\"></td></tr><tr><td>Q460M</td><td>C、D、E</td><td>460</td><td>140</td><td>430</td><td>410</td><td>400</td><td>385</td><td>540~ 720</td><td></td><td>530~ 710</td><td>510~ 690</td><td>500~ 680</td><td>490~ 660</td><td></td></tr><tr><td>Q500M</td><td>C、D、E</td><td>500</td><td>490</td><td>480</td><td>460</td><td>450</td><td></td><td>610~ 770</td><td></td><td>600~ 760</td><td>590~ 750</td><td>540~ 730</td><td></td><td></td></tr><tr><td>Q550M</td><td>C、D、E</td><td>550</td><td>540</td><td>530</td><td>510</td><td>500</td><td></td><td>670~ 830</td><td>029</td><td>620~ 810</td><td>600~ 790</td><td>590~ 780</td><td></td><td>6</td></tr><tr><td>Q620M</td><td>C、D、E</td><td>620</td><td>610</td><td>600</td><td>580</td><td></td><td></td><td>710~ 880</td><td>690~ 880</td><td></td><td>670〜 860</td><td></td><td></td><td></td></tr><tr><td>Q690M</td><td>C、D,E</td><td>690</td><td>680</td><td>670</td><td>650</td><td></td><td></td><td>770〜 940</td><td>750~ 920</td><td></td><td>730~ 900</td><td></td><td></td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 16,
+      "page_start": 16,
+      "page_end": 16,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 27,
+      "content_sha256": "481e5386328c25de030fbf977567928981ffb78f5983ac9eb1c16a18a6ec16a1",
+      "doc_id": "7c213c1efa3bc27601bfbd6a86882b74555ff9782649ee20b7785402255c494f"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"2\">牌号</td><td colspan=\"8\">以下试验温度的冲击吸收能量最小值KV2/J</td></tr><tr><td rowspan=\"2\">钢级</td><td>质量</td><td colspan=\"3\">20℃</td><td colspan=\"2\">-20℃</td><td colspan=\"2\">-40℃</td><td>—60℃</td></tr><tr><td>等级</td><td>纵向</td><td>横向 纵向</td><td></td><td>横向</td><td>纵向 横向</td><td>纵向</td><td>横向</td><td>纵向 横向</td></tr><tr><td>Q355、Q390、 Q420</td><td></td><td>34</td><td>27</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q355、Q390、 Q420、Q460</td><td></td><td></td><td></td><td>34</td><td>27</td><td></td><td></td><td></td><td></td></tr><tr><td>Q355、Q390 Q355N、Q390N、</td><td></td><td></td><td></td><td></td><td></td><td>34 27</td><td></td><td></td><td></td></tr><tr><td>Q420N</td><td></td><td>34</td><td>27</td><td></td><td>27</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">Q355N、Q390N Q420N、Q460N</td><td></td><td>55</td><td>31</td><td>34 47</td><td>27 40b</td><td>20</td><td></td><td></td><td></td></tr><tr><td></td><td>63</td><td>40</td><td>34</td><td>47</td><td>27</td><td>31</td><td>20</td><td></td></tr><tr><td>Q355N</td><td></td><td>63</td><td>40</td><td>55 55 34</td><td>34</td><td>27</td><td>31</td><td>20</td><td>27 16</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 17,
+      "page_start": 17,
+      "page_end": 17,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 28,
+      "content_sha256": "7d793593a5253a503b1fdfddd63d674581f9adb64b1770840f50a44ffef41a1c",
+      "doc_id": "8678f866e801b5143f64b33d9a1e0e55aed573bb3264e83adcbab03bf17bec71"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"2\">牌号</td><td colspan=\"8\">以下试验温度的冲击吸收能量最小值KV2/J</td></tr><tr><td>Q355M Q390M、 Q420M</td><td></td><td>34</td><td>40</td><td>55</td><td>34</td><td>47</td><td>27</td><td>31</td><td>20</td></tr><tr><td rowspan=\"4\">Q355M、 Q390M、Q420M Q460M Q355M</td><td></td><td>34</td><td>27</td><td>34 27</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>55</td><td>31 47</td><td>27</td><td>40b</td><td>20</td><td></td><td></td><td></td></tr><tr><td></td><td>63</td><td>40 55</td><td>34</td><td>27</td><td>27</td><td>31</td><td>20</td><td></td></tr><tr><td></td><td>63</td><td>40 55</td><td>34</td><td>34</td><td>27</td><td>31</td><td>20</td><td>27 16</td></tr><tr><td rowspan=\"3\">Q500M、 Q550M Q620M Q690M</td><td></td><td>63</td><td>40</td><td>55 34</td><td>34</td><td>47</td><td>27</td><td>31</td><td>20</td></tr><tr><td></td><td></td><td></td><td>55</td><td>47b</td><td>27</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>31</td><td>20°</td><td></td></tr><tr><td colspan=\"10\">当需方未指定试验温度时，正火、正火轧制和热机械轧制的C、D、E、F级钢材分别做0℃、—20℃、一40℃、 -60 ℃冲击。 冲击试验取纵向试样。 经供需双方协商，也可取横向试样，</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 17,
+      "page_start": 17,
+      "page_end": 17,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 29,
+      "content_sha256": "834801c6e924af09ee45af311f23cdba69e340c42bcd36cab011d1e07a9ab520",
+      "doc_id": "3be1155e6a9988ab315c65ca839a2a2c6cbb01eb798e032208ba1b92e5bc6e1c"
+    }
+  },
+  {
+    "content": "<table><tr><td colspan=\"2\">牌号</td><td colspan=\"8\">以下试验温度的冲击吸收能量最小值KV2/J</td></tr><tr><td colspan=\"10\">仅适用于厚度大于250 mm的 Q355D钢板。 当需方指定时，D级钢可做一30 ℃冲击试验时，冲击吸收能量纵向不小于27J。 当需方指定时，E级钢可做 —50℃冲击时，冲击吸收能量纵向不小于27J、横向不小于16J。</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 17,
+      "page_start": 17,
+      "page_end": 17,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 30,
+      "content_sha256": "b2c41d3989c9d3d851c144684db4f5fc1e830661dd43c32c0cd07aea216fed91",
+      "doc_id": "12273fd48aed1a2ed266b7c3036dd392604af4aa924a158d42e314ed124a1c2a"
+    }
+  },
+  {
+    "content": "7．4．3 弯曲\n\n7．4．3．1 根据需方要求，钢材可进行弯曲试验，其指标应符合表12的规定。\n\n7．4．3．2 如供方能保证弯曲试验合格，可不做检验。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 17,
+      "page_start": 17,
+      "page_end": 17,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 31,
+      "content_sha256": "3588a6741a76c4e86b8cd2d3b106c7886c99fd47e5a175af50758a9c864f6d3b",
+      "doc_id": "9a1ca83be14f03f56f4a7b5b6906abdd9c7769395c9ee8d6d6072722fc7ee752"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td rowspan=\"3\">试样方向</td><td colspan=\"2\">180°弯曲试验 D——弯曲压头直径，a——试样厚度或直径</td></tr><tr><td></td><td>公称厚度或直径/mm</td></tr><tr><td colspan=\"2\">≤16 >16~100</td></tr><tr><td>对于公称宽度不小于 600 mm 的钢板及钢带，取横向试样；其他钢 材的取纵向试样</td><td>D = 2a</td><td>D = 3a</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 18,
+      "page_start": 18,
+      "page_end": 18,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 32,
+      "content_sha256": "08b391ea7eea6c012403eb8dabba313ea08dda0e1c4c7adee57e393ba9eda4c0",
+      "doc_id": "915e537c20857f02a964b08836af77038e07a9fcd07452264814c2de8bfb2c83"
+    }
+  },
+  {
+    "content": "7．5 表面质量要求\n\n7．5．1 钢板\n\n7．5．1．1 钢板表面不应有气泡、结疤、裂纹、折叠、夹杂和压入氧化铁皮等影响使用的有害缺陷。钢板不应有目视可见的分层。\n\n7．5．1．2 钢板表面允许有不妨碍检查表面缺陷的薄层氧化铁皮、铁锈及由于压入氧化铁皮和轧辊所造成的不明显的粗糙、网纹、麻点、划痕及其他局部缺欠，但其深度不应大于钢板厚度的公差之半，并应保证钢板允许的最小厚度。\n\n7．5．1．3 钢板表面缺陷允许用修磨等方法清除，清理处应平滑无棱角，清理深度不应大于钢板厚度的负偏差，并应保证钢板允许的最小厚度。\n\n7．5．1．4 钢板表面存在不能按7．5．1．3规定清理的缺陷，经供需双方协商，可进行焊接修补，并应满足以下要求：\n\na） 采用适当的焊接方法；  \nb） 在焊补前采用铲平或磨平等适当的方法完全除去钢板上的有害缺陷，除去部分的深度在钢板公称厚度的20％以内，单面的修磨面积合计应在钢板面积的2％以内；  \nc） 钢板焊接部位的边缘上不得有咬边或重叠，堆高应高出轧制面1．5mm 以上，然后用铲平或磨平等方法除去堆高；  \nd） 热处理钢板焊接修补后应再次进行热处理。\n\n7．5．1．5 经供需双方协商，钢板的表面质量也可符合 GB／T 1497 的规定。\n\n7．5．2 钢带及其剪切钢板\n\n7．5．2．1 钢带表面不应有结疤、裂纹、折叠、夹杂、气泡和氧化铁皮压入等对使用有害的缺陷。钢带不应有目视可见的分层。  \n7．5．2．2 钢带表面允许有不影响使用的薄层氧化铁皮、铁锈和轻微的麻点、划痕等局部缺欠，其深度或高度不得超过钢带厚度公差之半，并应保证钢带的允许最小厚度。  \n7．5．2．3 允许钢带有局部缺陷交货，但带缺陷部分不应超过每卷钢带总长度的6％。  \n7．5．2．4 经供需双方协商，钢带的表面质量也可符合GB／T1497 的规定。\n\n7．5．3 型钢\n\n7．5．3．1 型钢的表面质量应符合相关标准的规定。  \n7．5．3．2 经供需双方协商，型钢的表面质量也可执行 YB／T427的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 18,
+      "page_start": 18,
+      "page_end": 18,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 33,
+      "content_sha256": "002a86de96feaacbe4cdb9453e471e3d43a4fd16b695a6512dc8dc2cf0bb86c8",
+      "doc_id": "5239b573baa149fa9e42375f81638bf6f854f70b84a09e716757e42205260617"
+    }
+  },
+  {
+    "content": "7．5．4 钢棒\n\n7．5．4．1 钢棒的表面质量应符合相关标准的规定。  \n7．5．4．2 经供需双方协商，钢棒的表面质量可执行GB／T2830 的规定。\n\n7．6 无损检测\n\n经供需双方协商，可采用无损检测的方法检验钢材的内部质量，其检测标准和要求应在合同中规定。\n\n8 试验方法\n\n8．1 钢材的各项检验的检验项目和试验方法应符合表13的规定。\n\n8．2 钢的化学成分试验一般按 GB／T436、GB／T20123、GB／T 20124、GB／T 20125 或通用的化学分析方法 进 行，仲 裁 时 按 GB／T 23．3、GB／T 23．9、GB／T 23．1 、GB／T 23．14、GB／T 23．17、GB／T23．18、GB／T23．23、GB／T23．26、GB／T 23．37、GB／T23．40、GB／T 23．60、GB／T23．63、GB／T23．68、GB／T23．69、GB／T 23．76、GB／T23．78、GB／T23．84 和 GB／T20125的规定进行。\n\n8．3 当需方无特殊要求时，冲击试验的取样位置按如下规定进行：\n\na） 对于型钢，按 GB／T 2975—2018 图 A．3的规定；  \nb） 对于圆钢，当公称直径 犱≤25 mm、25 mm＜犱≤50 mm 及 犱＞50 mm 时，分别 按GB／T2975—2018 图 A．5 中a）、b）、d）的规定；  \nc） 对于方钢，当边长不大于50 mm 时，按 GB／T 2975—2018 图 A．9中a）的规定，当边长大于50 mm 时，按GB／T2975—2018 图 A．9 中b）的规定；  \nd） 对于钢板，当公称厚度不大于40 mm 时，按GB／T2975—2018图A．1 中a）的规定，当公称厚度大于40 mm时，按GB／T 2975—2018 图 A．1 中b）的规定。\n\n9 检验规则\n\n9．1 检查和验收\n\n钢材的检查和验收由供方技术监督部门进行。\n\n9．2 组批规则\n\n9．2．1 钢材应成批验收。 每批应由同一牌号、同一炉号、同一规格、同一交货状态的钢材组成，每批重量应不大于60t，但卷重大于30t的钢带和连轧板可按两个轧制卷组成一批；对容积大于20 t转炉冶炼的型钢，每批重量不大于80t。经供需双方协商，可每炉检验2批。  \n9．2．2 Q35B级钢允许同一牌号、同一冶炼和浇注方法、同一规格、同一生产工艺制度、同一交货状态或同一热处理制度、不同炉号钢材组成混合批，但每批不得多于6个炉号，且各炉号碳含量之差不大于0．02％，Mn含量之差不大于0．15％。\n\n9．2．3 对于要求厚度方向力学性能试验的钢材，组批规则应符合 GB／T 5313的规定。\n\n9．3 取样数量\n\n每批钢材的取样部位和取样数量见表13。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 19,
+      "page_start": 19,
+      "page_end": 19,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 34,
+      "content_sha256": "1a1f03216c5040ffd222250f9829fe4f871cd949ff1d5b1029e33e6d3c611e0e",
+      "doc_id": "b5fae2dbcd79fc3731a6e46ef87699a9ed4a077f91ec09ce6ca24f37dc2659cc"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>序号</td><td>检验项目</td><td>取样数量</td><td>取样部位及方法</td><td>试验方法</td></tr><tr><td>1</td><td>化学成分</td><td>1个/炉</td><td>GB/T 20066</td><td>见8.2</td></tr><tr><td>2</td><td>拉伸试验</td><td>1个/批</td><td>钢材的一端，GB/T2975—2018</td><td>GB/T 228.1</td></tr><tr><td>3</td><td>弯曲试验</td><td>1个/批</td><td>钢材的一端，GB/T 2975 2018</td><td>GB/T 232</td></tr><tr><td>4</td><td>冲击试验</td><td>3个/批</td><td>钢材的一端，见8.3</td><td>GB/T 229</td></tr><tr><td>5</td><td>厚度方向性能试验</td><td>3个/批</td><td>GB/T 5313</td><td>GB/T 5313</td></tr><tr><td>6</td><td>无损检验</td><td>逐张（卷、根、支）</td><td></td><td>双方协商</td></tr><tr><td>7</td><td>尺寸、外形</td><td>逐张（卷、根、支)</td><td></td><td>相应精度的量具</td></tr><tr><td>8</td><td>表面质量</td><td>逐张(卷、根、支)</td><td></td><td>目视及测量</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 20,
+      "page_start": 20,
+      "page_end": 20,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 35,
+      "content_sha256": "bd448a87d63c4140df8503211f07a0e42c55a0d4db399a98c2eca0bbf1e9c82b",
+      "doc_id": "0214987efac636e1a1ce57fefbb75b79948a6e303acf8839aa57574bec93d175"
+    }
+  },
+  {
+    "content": "9．4 复验与判定规则\n\n钢材的复验与判定应符合GB／T 17505 的规定。\n\n9．5 数值修约\n\n数值判定采用修约值比较法，数值修约按 GB／T 8170 规定执行。\n\n10 包装、标志和质量证明书\n\n如无特殊要求，钢材的包装、标志和质量证明书应符合 GB／T247 或GB／T 2101 的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 20,
+      "page_start": 20,
+      "page_end": 20,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 36,
+      "content_sha256": "b581ee28176db265efbe66a9220e40d5237d785077e7473613bf8797cf781c4f",
+      "doc_id": "2d0356c298d9a5a2a2612345988697abb25f805370a67fb068cde606599d3a84"
+    }
+  },
+  {
+    "content": "附　录　犃  \n（资料性附录）  \n国内外标准牌号对照表\n\n国内外标准牌号对照见表 A．1。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 21,
+      "page_start": 21,
+      "page_end": 21,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 37,
+      "content_sha256": "1009e5a0ea8ba6f108c39c0610e9d696200fd2f6b08b7f3f73c935f91b22df6b",
+      "doc_id": "9f99668c789950390e53ee96c2ffc1d3be1fe50444bb4d4090999d2f54625264"
+    }
+  },
+  {
+    "content": "<table><tr><td>本标准</td><td>GB/T1591—2008</td><td>ISO 630-2: 2011</td><td>ISO 630-3: 2012</td><td>EN 10025-2: 2004</td><td>EN 10025-3: 2004</td><td>EN10025-4: 2004</td></tr><tr><td>Q355B(AR)</td><td>Q345B(热轧)</td><td>S355B</td><td></td><td>S355JR</td><td></td><td></td></tr><tr><td>Q355C(AR)</td><td>Q345C(热轧)</td><td>S355C</td><td></td><td>S355J0</td><td></td><td></td></tr><tr><td>Q355D(AR)</td><td>Q345D(热轧)</td><td>S355D</td><td></td><td>S355J2</td><td></td><td></td></tr><tr><td>Q355NB</td><td>Q345B（正火/正火轧制）</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q355NC</td><td>Q345C（正火/正火轧制）</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q355ND</td><td>Q345D（正火/正火轧制）</td><td></td><td>S355ND</td><td></td><td>S355N</td><td></td></tr><tr><td>Q355NE</td><td>Q345E（正火/正火轧制)</td><td></td><td>S355NE</td><td></td><td>S355NL</td><td></td></tr><tr><td>Q355NF</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q355MB</td><td>Q345B(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q355MC</td><td>Q345C(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 21,
+      "page_start": 21,
+      "page_end": 21,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 38,
+      "content_sha256": "50be6120759642da044eb14940ca7892f6b24882448dd1c9826d9eaae098527e",
+      "doc_id": "3126a525c9e96734bdb4602063f8855d2722a83d29649a706c3da216765bd196"
+    }
+  },
+  {
+    "content": "<table><tr><td>本标准</td><td>GB/T1591—2008</td><td>ISO 630-2: 2011</td><td>ISO 630-3: 2012</td><td>EN 10025-2: 2004</td><td>EN 10025-3: 2004</td><td>EN10025-4: 2004</td></tr><tr><td>Q355MD</td><td>Q345D(TMCP)</td><td></td><td>S355MD</td><td></td><td></td><td>S355M</td></tr><tr><td>Q355ME</td><td>Q345E(TMCP)</td><td></td><td>S355ME</td><td></td><td></td><td>S355ML</td></tr><tr><td>Q355MF</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q390B(AR)</td><td>Q390B(热轧)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q390C(AR)</td><td>Q390C(热轧）</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q390D(AR)</td><td>Q390D(热轧)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q390NB</td><td>Q390B（正火/正火轧制）</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q390NC</td><td>Q390C(正火/正火轧制)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q390ND</td><td>Q390D（正火/正火轧制）</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q390NE</td><td>Q390E（正火/正火轧制)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q390MB</td><td>Q390B(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 21,
+      "page_start": 21,
+      "page_end": 21,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 39,
+      "content_sha256": "394787b1065ba21fb212ec40dfe20d3a7a76c04505f873463f4627dd9ae7027c",
+      "doc_id": "10590dbca9a3b49ea5ff7762a9445f393bb6d69064f103b72db38de6c85cc159"
+    }
+  },
+  {
+    "content": "<table><tr><td>本标准</td><td>GB/T1591—2008</td><td>ISO 630-2: 2011</td><td>ISO 630-3: 2012</td><td>EN 10025-2: 2004</td><td>EN 10025-3: 2004</td><td>EN10025-4: 2004</td></tr><tr><td>Q390MC</td><td>Q390C(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q390MD</td><td>Q390D(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q390ME</td><td>Q390E(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q420B(AR)</td><td>Q420B(热轧)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q420C(AR)</td><td>Q420C(热轧)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q420NB</td><td>Q420B（正火/正火轧制)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q420NC</td><td>Q420C（正火/正火轧制)</td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 21,
+      "page_start": 21,
+      "page_end": 21,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 40,
+      "content_sha256": "0a379b304bd42004920e62cff7fc95a6c9c96a30e868d515b1dfd121192d10f8",
+      "doc_id": "175f9589cbe4a34178947ca84f783c230af4770d9922a526328cd73c5f294b7b"
+    }
+  },
+  {
+    "content": "<table><tr><td>本标准</td><td>GB/T1591—2008</td><td>ISO 630-2: 2011</td><td>ISO 630-3: 2012</td><td>EN 10025-2: 2004</td><td>EN 10025-3: 2004</td><td>EN 10025-4: 2004</td></tr><tr><td>Q420ND</td><td>Q420D（正火/正火轧制）</td><td></td><td>S420ND</td><td></td><td>S420N</td><td></td></tr><tr><td>Q420NE</td><td>Q420E（正火/正火轧制）</td><td></td><td>S420NE</td><td></td><td>S420NL</td><td></td></tr><tr><td>Q420MB</td><td>Q420B(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q420MC</td><td>Q420C(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q420MD</td><td>Q420D(TMCP)</td><td></td><td>S420MD</td><td></td><td></td><td>S420M</td></tr><tr><td>Q420ME</td><td>Q420E(TMCP)</td><td></td><td>S420ME</td><td></td><td></td><td>S420ML</td></tr><tr><td>Q460C(AR)</td><td>Q460C(热轧)</td><td>S450C</td><td></td><td>S450J0</td><td></td><td></td></tr><tr><td>Q460NC</td><td>Q460C（正火/正火轧制）</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q460ND</td><td>Q460D（正火/正火轧制）</td><td></td><td>S460ND</td><td></td><td>S460N</td><td></td></tr><tr><td>Q460NE</td><td>Q460E（正火/正火轧制）</td><td></td><td>S460NE</td><td></td><td>S460NL</td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 22,
+      "page_start": 22,
+      "page_end": 22,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 41,
+      "content_sha256": "65c7a94187e885cb45ceed244fb3f1ec7d27c4f38e2091225d42b87cfe187fb7",
+      "doc_id": "2a8b4df1c6448dfb529216ae787b875b4b0380207c7ef2c803b96d4fc3693044"
+    }
+  },
+  {
+    "content": "<table><tr><td>本标准</td><td>GB/T1591—2008</td><td>ISO 630-2: 2011</td><td>ISO 630-3: 2012</td><td>EN 10025-2: 2004</td><td>EN 10025-3: 2004</td><td>EN 10025-4: 2004</td></tr><tr><td>Q460MC</td><td>Q460C(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q460MD</td><td>Q460D(TMCP)</td><td></td><td>S460MD</td><td></td><td></td><td>S460M</td></tr><tr><td>Q460ME</td><td>Q460E(TMCP)</td><td></td><td>S460ME</td><td></td><td></td><td>S460ML</td></tr><tr><td>Q500MC</td><td>Q500C(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q500MD</td><td>Q500D(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q500ME</td><td>Q500E(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q550MC</td><td>Q550C(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q550MD</td><td>Q550D(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q550ME</td><td>Q550E(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q620MC</td><td>Q620C(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q620MD</td><td>Q620D(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 22,
+      "page_start": 22,
+      "page_end": 22,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 42,
+      "content_sha256": "2261097d169df622069c5fe2ff8f17a453fbc19bbe68616bce9a952930a5d56c",
+      "doc_id": "96d203cf51403c21fa6637a87d1fa72e5697c2f3cefe128911e9c8350ad11b32"
+    }
+  },
+  {
+    "content": "<table><tr><td>本标准</td><td>GB/T1591—2008</td><td>ISO 630-2: 2011</td><td>ISO 630-3: 2012</td><td>EN 10025-2: 2004</td><td>EN 10025-3: 2004</td><td>EN 10025-4: 2004</td></tr><tr><td>Q620ME</td><td>Q620E(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q690MC</td><td>Q690C(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q690MD</td><td>Q690D(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q690ME</td><td>Q690E(TMCP)</td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+1591-2018.pdf",
+      "page": 22,
+      "page_start": 22,
+      "page_end": 22,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+1591-2018.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 43,
+      "content_sha256": "09cb3cb9038a2b6062ec11052181a0fc603564b5ebe1877a2a44ee3647a92f19",
+      "doc_id": "7040c6d422a5cd6be64525ec14d9befabaa836ef332dd4c95d68d86703c7b496"
+    }
+  }
+]

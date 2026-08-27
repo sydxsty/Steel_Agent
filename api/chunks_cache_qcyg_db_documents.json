@@ -1,0 +1,354 @@
+[
+  {
+    "content": "中 华 人 民 共 和 国 国 家 标 准\n\nGB/T 3273—2026   \n代替 GB/T 3273—2015\n\n汽车大梁用热轧钢板及钢带\n\nHot-roled stel shet and strip for automobile frames\n\n国 家 市 场 监 督 管 理 总 局国 家 标 准 化 管 理 委 员 会\n\n发 布",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 0,
+      "content_sha256": "4a6dc2ce880a313b8dfce83807e685e0e7289be407849ce66574c33597abc4d1",
+      "doc_id": "a5f9c0e0c67d5d89caa2e2ed619fc780789a5b0c7b6a263cb214d3f7e9e14fb6"
+    }
+  },
+  {
+    "content": "前 言\n\n本文件按照GB/T1.1— 2020《标准化工作导则 第1部分:标准化文件的结构和起草规则》的规定起草。\n\n本文件代替GB/T3273—2015《汽车大梁用热轧钢板及钢带》,与 GB/T3273— 2015相比,除结构调整和编辑性改动外,主要技术变化如下:\n\na) 更改了厚度范围(见第1章,2015年版的第1章);  \nb) 删除了370L、40L两个牌号(见2015年版的表1、表2);  \nc) 更改了各钢种牌号的P、S含量上限规定(见表1,2015年版的表1);  \nd) 更改了Cr含量最大值规定(见7.1.2,2015年版的6.1.3);  \ne) 更改了60L、650L、70L、750L、80L的性能规定(见表2,2015年版的表2);  \nf) 更改了表面质量的相关要求(见7.4,2015年版6.5.2);  \ng) 增加了用户可提出对钢板及钢带进行夏比(V 型缺口)冲击试验的协议要求(见7.6.1);  \nh) 增加了用户可提出评价钢板及钢带可焊性能的协议规范(见7.6.3);  \ni) 增加了用户可提出对钢屈强比进行协商确定(见7.6.4);  \nj) 更改了试验方法(见表5,2015年版的表4)。\n\n请注意本文件的某些内容可能涉及专利。本文件的发布机构不承担识别专利的责任。\n\n本文件由中国钢铁工业协会提出。\n\n本文件由全国钢标准化技术委员会( / 183)归口。\n\n本文件起草单位:甘肃酒钢集团宏兴钢铁股份有限公司、冶金工业信息标准研究院、宁波钢铁有限公司、湖南华菱涟源钢铁有限公司、河北普阳钢铁有限公司、安阳钢铁集团有限责任公司、山西太钢不锈钢股份有限公司、河钢股份有限公司唐山分公司、北京科技大学、浙江宝捷模具科技有限公司。\n\n本文件主要起草人:程子建、吝理平、李倩、管传华、赵丁藏、庞洪轩、李娜、石发才、高燕、赵征志、王参其、赵小龙、田子健、邬晓燕、温长飞、任新凯、刘鹏、郝国旺、张宝宁、谯德高、孙梦寒。\n\n本文件于1982 年首次发布,1989年第一次修订,205 年第二次修订,2015年第三次修订,本次为第四次修订。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 1,
+      "content_sha256": "9c0b64b6cfa99107ee2f7d7fd6c72b6d1f349e289a247d324425d6d561238704",
+      "doc_id": "244387f9dc2b5343a68cece510ed1efcf92fb9d1e794472daa35380f27c610c8"
+    }
+  },
+  {
+    "content": "汽车大梁用热轧钢板及钢带\n\n1 范围\n\n本文件规定了汽车大梁用热轧钢板及钢带的分类、代号及牌号表示方法、订货内容、制造工艺、技术要求、试验方法、检验规则、包装、标志及质量证明书。\n\n本文件适用于制造汽车车架纵梁和横梁用厚度不大于18.0 mm 的热轧钢板及钢带(以下简称“钢板及钢带”)。\n\n2 规范性引用文件\n\n下列文件中的内容通过文中的规范性引用而构成本文件必不可少的条款。其中,注日期的引用文件,仅该日期对应的版本适用于本文件;不注日期的引用文件,其最新版本(包括所有的修改单)适用于本文件。\n\nGB/T22 钢及合金 成品化学成分允许偏差  \nGB/T23(所有部分) 钢铁及合金化学分析方法  \nGB/T28.1 金属材料 拉伸试验 第1部分:室温试验方法  \nGB/T29 金属材料 夏比摆锤冲击试验方法  \nGB/T232 金属材料 弯曲试验方法  \nGB/T247 钢板和钢带包装、标志及质量证明书的一般要求  \nGB/T709 热轧钢板和钢带的尺寸、外形、重量及允许偏差  \nGB/T2975 钢及钢产品 力学性能试验取样位置及试样制备  \nGB/T436 碳素钢和中低合金钢 多元素含量的测定 火花放电原子发射光谱法(常规法)  \nGB/T6394 金属平均晶粒度测定方法  \nGB/T8170 数值修约规则与极限数值的表示和判定  \nGB/T13298 金属显微组织检验方法  \nGB/T17505 钢及钢产品 交货一般技术要求  \nGB/T 206 钢和铁 化学成分测定用试样的取样和制样方法  \nGB/T20123 钢铁 总碳硫含量的测定 高频感应炉燃烧后红外吸收法(常规方法)  \nGB/T20124 钢铁 氮含量的测定 惰性气体熔融热导法(常规方法)  \nGB/T20125 低合金钢 多元素的测定 电感耦合等离子体发射光谱法  \nGB/T20126 非合金钢 低碳含量的测定 第2部分:感应炉(经预加热)内燃烧后红外吸收法  \nGB/T3474 钢中带状组织的评定方法  \nYB/T6145 热轧绿色清洁表面处理钢板和钢带\n\n3 术语和定义\n\nYB/T 6145界定的术语和定义适用于本文件。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 2,
+      "content_sha256": "2a020c367ff0b117277d7d6b4265f465016fbd3e1927dacaf9582a8ee0e188d7",
+      "doc_id": "0f0c65380ef9b0ffb7a2336335321d4bc26b242213188e1735dbffef7e8ea84e"
+    }
+  },
+  {
+    "content": "4 分类、代号及牌号表示方法\n\n4.1 分类、代号\n\n4.1.1 按边缘状态分为:\n\na) 切边,EC;   \nb) 不切边,EM。\n\n4.1.2 按厚度精度分为:\n\n) 普通厚度精度,PT.A;  \nb) 较高厚度精度,PT.B。\n\n4.1.3 按表面处理方式分为:\n\na) 轧制表面, ;   \nb) 酸洗表面,SA; 热轧绿色清洁表面,EPS。\n\n4.1.4 按表面质量等级分为:\n\n普通级表面,FA;b) 较高级表面, 。\n\n4.2 牌号表示方法\n\n钢的牌号由规定的抗拉强度最小值和“梁”的汉语拼音首字母“L”组成。\n\n示例:70L  \n70 ——抗拉强度的最小值,单位为兆帕(MPa)。L——汽车大梁“梁”的首位字母。\n\n5 订货内容\n\n5.1 按本文件订货的合同或订单至少包括下列内容:\n\na) 本文件编号;  \nb) 产品名称;牌号;  \nd) 表面处理方式及表面质量等级;交货重量(或数量);尺寸、外形及允许偏差;  \ng) 交货状态;  \nh) 边缘状态;  \ni) 厚度精度;  \nj) 特殊要求(见7.6)。\n\n5.2 如订货合同中未注明表面处理方式时,以轧制表面交货。对于轧制表面交货的热轧钢板及钢带,未注明厚度精度时,以普通厚度精度交货;未注明边缘状态时,钢带以不切边状态交货,钢板以切边状态交货。对于酸洗表面交货的热轧钢板及钢带,未注明厚度精度、边缘状态、表面质量等级和是否涂油时,以较高厚度精度、切边状态、普通表面质量等级和涂油交货。对于绿色清洁表面的热轧钢板及钢带,订货要求符合YB/T6145的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 3,
+      "content_sha256": "b353d6117fd787c7a1cf8a6372038329d3982a7f2fbda54c9b74cf1d57f2f3c7",
+      "doc_id": "159493cadf5e575fab22c3b6acffc4adf9e6a8957b6ef62684ab3ae10c32f407"
+    }
+  },
+  {
+    "content": "6 制造工艺\n\n6.1 冶炼方法\n\n钢采用转炉或电弧炉熔炼。 对于50L及以上强度的钢板及钢带,宜进行真空脱气处理。\n\n6.2 交货状态\n\n6.2.1 钢板及钢带以热轧状态或热机械轧制状态交货。经供需双方协商确定,钢板及钢带也可按热处理状态交货。  \n6.2.2 钢板及钢带的表面处理方式可采用轧制表面、酸洗表面和热轧绿色清洁表面3种方式的一种交货。  \n6.2.3 酸洗表面的钢板及钢带通常应进行涂油,所涂油膜应能用碱水溶液去除,在通常包装、运输、搬运和贮存条件下,供方保证自生产完成之日起3个月内不产生锈蚀。如需方要求酸洗表面的钢板及钢带不涂油时,双方应在合同中注明。不涂油的热轧酸洗钢板及钢带,在运输和加工过程中易产生锈蚀和擦伤,供方对此不作保证。\n\n6.2.4 绿色清洁表面的热轧钢板及钢带的表面处理方式应符合YB/T 6145的规定。\n\n7 技术要求\n\n7.1 钢的牌号和化学成分\n\n7.1.1 钢的牌号和化学成分(熔炼分析)应符合表1的规定。本文件牌号与国外标准的相近牌号对照见附录A。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 4,
+      "content_sha256": "93e73b377f2005f4213712ea02ec0c538a51e1f1380dc67e90e64acd6e9a4695",
+      "doc_id": "3a4acbbca397f8217182dec14110d9b7cc7020e433e23942fb9746f754a1aa21"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">序号</td><td rowspan=\"3\">牌号</td><td colspan=\"9\">化学成分（质量分数）/%</td></tr><tr><td></td><td>Si</td><td>Mn</td><td></td><td>/</td><td>Nb</td><td></td><td>T</td><td>Als a,b</td></tr><tr><td colspan=\"9\">不大于</td></tr><tr><td>1</td><td>420L</td><td>0.12</td><td>0.50</td><td>1.50</td><td>0.020</td><td>0.012</td><td>0.09</td><td>0.20</td><td>0.15</td><td>不小于 0.010</td></tr><tr><td>2</td><td>510L</td><td>0.20</td><td>0.50</td><td>1.60</td><td>0.020</td><td>0.012</td><td>0.09</td><td>0.20</td><td>0.15</td><td>0.010</td></tr><tr><td>3</td><td>550L</td><td>0.20</td><td>0.50</td><td>1.70</td><td>0.020</td><td>0.012</td><td>0.09</td><td>0.20</td><td>0.15</td><td>0.010</td></tr><tr><td>4</td><td>600L</td><td>0.12</td><td>0.50</td><td>1.80</td><td>0.020</td><td>0.012</td><td>0.09</td><td>0.20</td><td>0.22</td><td>0.010</td></tr><tr><td>5</td><td>650L</td><td>0.12</td><td>0.50</td><td>1.90</td><td>0.020</td><td>0.012</td><td>0.09</td><td>0.20</td><td>0.22</td><td>0.010</td></tr><tr><td>6</td><td>700L</td><td>0.12</td><td>0.60</td><td>2.00</td><td>0.020</td><td>0.012</td><td>0.09</td><td>0.20</td><td>0.22</td><td>0.010</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 5,
+      "content_sha256": "0db24b05cedef77e17285399b1fda70cbff8c29056646b0198a5eb2cf25c8783",
+      "doc_id": "e7956da0e089f0194b117e293786539f4f0af5c66ecd13b13619f6a25423f01b"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">序号</td><td rowspan=\"3\">牌号</td><td colspan=\"9\">化学成分（质量分数）/%</td></tr><tr><td>7</td><td>750L</td><td>0.12</td><td>0.60</td><td>2.10</td><td>0.020</td><td>0.012</td><td>0.09</td><td>0.20</td><td>0.22</td><td>0.010</td></tr><tr><td>8</td><td>800L</td><td>0.12</td><td>0.60</td><td>2.20</td><td>0.020</td><td>0.012</td><td>0.09</td><td>0.20</td><td>0.22</td><td>0.010</td></tr><tr><td colspan=\"10\">当单独或组合加入Nb、V、Ti等微合金元素时，Al含量可不做要求。 当采用全铝（Al）含量表示时，全铝（Al）含量不应小于0.015%。</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 6,
+      "content_sha256": "9a41b3d1330246d7ddd9c378d585b0240f9ba79a859c7edf1e64f9d1f6d35654",
+      "doc_id": "9532398b60516b4632ff28afd12a66119b34c58b55d1c54a6be3e9122348f6ad"
+    }
+  },
+  {
+    "content": "7.1.2 为改善钢的性能,可有选择地加入一种或同时加入 Nb、V、Ti等几种微合金元素和稀土元素",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 7,
+      "content_sha256": "0c580f4e9bb2f44cee361e388bd51a0e3d6647e47e745114e1947c8ec9b4ee0a",
+      "doc_id": "571cfb2ab12906977c0e9626e802a856cb66ec2d2f71d933986360e5943fd9e9"
+    }
+  },
+  {
+    "content": "(RE),Ti、V、Nb总含量不应大于0.2 %,稀土元素(RE)加入量不应大于0.20%。 也可加入 、 等其他合金元素。\n\n7.1.3 钢的成品化学成分的允许偏差应符合 GB/T 222 的规定。\n\n7.2 力学和工艺性能\n\n7.2.1 钢板及钢带的力学和工艺性能应符合表 的规定。对于酸洗表面交货的钢板及钢带,力学性能可由供需双方协商确定。7.2.2 钢板及钢带应进行180°弯曲试验。供方若能保证弯曲试验合格,可不进行试验。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 8,
+      "content_sha256": "007b867613fe3a0797a334735f5cbce1f93ffbadfd9d728916326e2f615aa0ab",
+      "doc_id": "0c08ff7173d13b2392324521e673c64f36ae015831c815eb44a274df80fe60a7"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">序号 牌号</td><td colspan=\"5\">拉伸试验a</td><td rowspan=\"2\" colspan=\"2\">180°弯曲试验ad 公称厚度/mm</td></tr><tr><td rowspan=\"2\">下屈服强度b ReL /MPa</td><td rowspan=\"2\">抗拉强度 R m / MPa</td><td colspan=\"2\">断后伸长率/%</td><td rowspan=\"2\">弯曲压头直径D</td></tr><tr><td>厚度<3.0 A80 mm</td><td>mm 厚度≥3.0</td><td>mm</td></tr><tr><td colspan=\"2\"></td><td></td><td></td><td>(L0 =80 mm,b=20 mm)</td><td>A</td><td>≤12.0</td><td>>12.0</td></tr><tr><td colspan=\"2\">420L</td><td>≥305</td><td>420~540</td><td>≥21</td><td>≥26</td><td>D = 0.5a</td><td>D = a</td></tr><tr><td colspan=\"2\">2 510L</td><td>≥355</td><td>510~650</td><td>≥20</td><td>≥24</td><td>D = a</td><td>D = 2a</td></tr><tr><td colspan=\"2\">3 550L</td><td>≥400</td><td>550~700</td><td>≥19</td><td>≥23</td><td>D = a</td><td>D = 2a</td></tr><tr><td colspan=\"2\">4 600L</td><td>≥500</td><td>600~760</td><td>≥15</td><td>≥19</td><td>D = 1.5a</td><td>D = 2a</td></tr><tr><td colspan=\"2\">5 650L</td><td>≥550</td><td>650~820</td><td>≥13</td><td>≥17</td><td>D = 1.5a</td><td>D = 2a</td></tr><tr><td colspan=\"2\">700L</td><td>≥600</td><td>700~880</td><td>≥12</td><td>≥15</td><td>D = 2a</td><td>D = 2.5a</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 9,
+      "content_sha256": "825ecdc453a544f46dcdf996d85aa36ca984089cdf41a8a603dc8db0a58af0a2",
+      "doc_id": "f82eb5111ccd9567eb7c7d684a0aefb3e1022fdc112e0c32718b628ff66fed44"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">序号 牌号</td><td colspan=\"5\">拉伸试验a</td><td rowspan=\"2\" colspan=\"2\">180°弯曲试验ad 公称厚度/mm</td></tr><tr><td colspan=\"2\">750L 800L</td><td>≥650</td><td>750~950</td><td>≥11</td><td>≥14</td><td>D = 2a</td><td>D = 2.5a</td></tr><tr><td colspan=\"8\">≥700 800~1000 ≥10 ≥13 D = 2a 拉伸试验和弯曲试验采用横向试样。 当屈服现象不明显时，可采用规定塑性延伸强度（Rpo.2）代替Re1。 700L、750L、800L 三个牌号，当厚度大于8.0 mm时，规定的最小屈服强度允许下降20 MPa。</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 10,
+      "content_sha256": "e061300dd0877358785ca8af33e8bca781b8f4153b0d24521a5fe2138b3c28e0",
+      "doc_id": "0af30b0f3eb8a12606f520381b14cf01b1af151b0f1a39085271b4e1f8bc6160"
+    }
+  },
+  {
+    "content": "7.3 金相检验\n\n7.3.1 厚度不大于8.0mm 的钢板及钢带晶粒度应为8级或更细;厚度大于8.0mm 的钢板及钢带晶粒度应为7级或更细;晶粒尺寸应均匀,单一视场内最大与最小晶粒度级别之差不应超过3级。供方若能保证,可不做检验。\n\n7.3.2 钢板及钢带的带状组织通常不大于2级。 允许带状组织大于2级但不大于3级。\n\n7.4 表面质量\n\n7.4.1 钢板及钢带表面不应有裂纹、气泡、夹杂、结疤、折叠和明显的划痕。钢板及钢带不应有目视可见的分层。上述缺陷允许清理,其清理深度不应超过钢板厚度允许公差的1/2。允许存在其他缺陷,但其深度或高度不应超过钢板及钢带厚度允许公差的1/2,且应保证钢板及钢带的最小厚度。\n\n7.4.2 允许带缺陷交货,但有缺陷部分不应超过每卷钢带总长度的6%。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 11,
+      "content_sha256": "29c0c7e5ff97ca302769cf9fcfd19f41a3cfcbfc06d1e8334107480b304bc43e",
+      "doc_id": "9e2737a56750a10fb01fe603897e95158e10693cd956df10a20f3a94db5a4408"
+    }
+  },
+  {
+    "content": "743 钢板及钢带的表面质量级别及其特征应符合表 的规定。绿色清洁表面的热轧钢板及钢带的表面质量应符合YB/T6145的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 12,
+      "content_sha256": "2e6a4e11d54e564f37cc59f7a2d6584583bbe8129969aa29fc6bc46d79dddfad",
+      "doc_id": "e26b24d9b44a4e9615cc691492aa61789193fa3190921bf3313d31f455edb52d"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>级别及代号</td><td>适用的表面处理方式</td><td>特征</td></tr><tr><td>普通级表面(FA)</td><td>轧制表面(SR) 酸洗表面(SA)</td><td>表面允许有深度（或高度)不超过钢带厚度公差的1/2的麻点、凹面、划 痕等轻微、局部缺陷，但应保证钢板及钢带允许的最小厚度；允许有轻 微的锯齿边、部分未切边、欠酸洗、过酸洗、停车斑等局部缺陷</td></tr><tr><td>较高级表面（FB)</td><td>酸洗表面(SA)</td><td>表面允许有不影响成型性的局部缺陷，如轻微划伤、轻微压痕、轻微麻 点、轻微辊印及色差等；表面允许有涂油后不明显的轻微停车斑；不准 许有欠酸洗、过酸洗等缺陷</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 13,
+      "content_sha256": "84fcb81954473a56f19e89beb4e35b13373dddc8c1600dc6536a36742c17a463",
+      "doc_id": "b8f3e095667b2e1bed84d778608f97080f79d3533121ebd4289d32e835e094f1"
+    }
+  },
+  {
+    "content": "7.5 尺寸、外形、重量\n\n7.5.1 钢板及钢带的尺寸、外形、重量及允许偏差应符合GB/T709 的规定。  \n7.5.2 对于纵切钢带,其镰刀弯或其他特殊要求,由供需双方协商确定,并在合同中注明。\n\n7.6 特殊要求\n\n7.6.1 必要时公称厚度不小于6mm 的钢板及钢带进行夏比(V 型缺口)冲击试验,应符合表4的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 14,
+      "content_sha256": "58fbaa36b3eeffd67fd0e67b6a9b37f48c66b839a2599dda740db23a759cc29a",
+      "doc_id": "8dd4c6f743dc887d2d27d4e9ebac4463821a0a80d77a2b6b66551edf1d323a86"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>牌号</td><td>试验温度</td><td>冲击吸收能量（KV2）</td></tr><tr><td>420L 510L 550L 600L 650L 700L 750L 冲击试验采用纵向试样。</td><td>-20</td><td>≥34</td></tr><tr><td>800L</td><td colspan=\"2\"></td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 15,
+      "content_sha256": "e79aa5c46727facba9641099df3f4850618660adaa9600e9172a39192d010e3c",
+      "doc_id": "66fa1f895d6a9fe0de60c8f14f9b06cb7d3ddb0966adb691ad5de10ee8c9d5e4"
+    }
+  },
+  {
+    "content": "7.6.2 当钢板及钢带公称厚度小于12mm 时,冲击试验采用小尺寸试样。公称厚度为8mm\\~12mm的钢板及钢带,试样尺寸为7.5mm×10 mm×5 mm,其试验结果不小于表4规定值的75%;公称厚度为6mm\\~8mm 的钢板及钢带,试样尺寸为5mm×10mm×5 mm,其试验结果不小于规定值的50%。 夏比(V 型缺口)冲击吸收能量,按一组3个试样的算术平均值进行计算。\n\n7.6.3 为评价钢板及钢带焊接性能,经供需双方协商并在合同中注明,可采用焊接裂纹敏感性指数(Pcm)评估钢材的可焊性,Pcm 应采用公式(1)由熔炼分析成分计算,其值应由供需双方协商确定。\n\nPcm(%)=C+Si/30+ Mn/20+Cu/20+Ni/60+Cr/20+ Mo/15+V/10+5B\n\n7.6.4 可对钢板及钢带的屈强比提出特殊要求,应由供需双方协商确定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 16,
+      "content_sha256": "7e5fa96cab6c63874c48019775cec7d79fb559a06be14e3e67dc3fcb9ab0598d",
+      "doc_id": "c10415a873aab5fb649f3bfd5c35c9da0fbdbd19faf89b92dc67c6905b5e674b"
+    }
+  },
+  {
+    "content": "8 试验方法\n\n8.1 钢的化学成分分析通常按 GB/T23(所有部分)、GB/T 436、GB/T 20123、GB/T 20124、GB/T20125、GB/T20126或通用方法的规定进行,仲裁时由供需双方协商确定。8.2 每批钢板及钢带检验项目和试验方法应符合表5的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 17,
+      "content_sha256": "01c89b6cb9b6b10e25a2a17e8b38cd203699f1f6690658f01b32dadf4e5e1443",
+      "doc_id": "d7a967db120463f188fd88a1cc1a1c89b36222cb8b9579d34adf861273e61357"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>序号</td><td>试验项目</td><td>取样数量/个</td><td>取样方法</td><td>试验方法</td></tr><tr><td>1</td><td>化学分析</td><td>1/炉</td><td>GB/T 20066</td><td>见7.1</td></tr><tr><td>2</td><td>拉伸试验</td><td></td><td>GB/T 2975</td><td>GB/T 228.1</td></tr><tr><td>3</td><td>弯曲试验</td><td>1</td><td>GB/T 2975</td><td>GB/T 232</td></tr><tr><td>4</td><td>冲击试验</td><td>3</td><td>GB/T 2975</td><td>GB/T 229</td></tr><tr><td>5</td><td>晶粒度</td><td>1</td><td>任一张(卷)</td><td>GB/T6394</td></tr><tr><td>6</td><td>显微组织</td><td>协议</td><td>GB/T13298</td><td>GB/T13298</td></tr><tr><td>7</td><td>带状组织</td><td>174</td><td>GB/T 34474</td><td>GB/T 34474</td></tr><tr><td>8</td><td>尺寸、外形</td><td>逐张(卷)</td><td></td><td>符合精度要求的适宜量具</td></tr><tr><td>9</td><td>表面质量</td><td>逐张（卷)</td><td></td><td>目视</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 18,
+      "content_sha256": "fae008875f5e62fcc483fc917ee3f0bbd8474e377a0f0d412f696ad2601d2f76",
+      "doc_id": "c9400bb3d8017d728075065dc83a1b21df419b7294ea1dba403e68ef9a8e80ab"
+    }
+  },
+  {
+    "content": "9 检验规则\n\n9.1 钢板及钢带的检查和验收由供方质量检验部门进行。   \n9.2 钢板及钢带应成批验收。每批应由同一牌号、同一炉号、同一轧制制度、同一厚度、同一交货状态   \n的钢板或钢带组成。   \n9.3 每批钢板及钢带取样数量和取样方法应符合表5的规定。   \n9.4 钢板及钢带的复验和判定规则应符合GB/T17505的规定。   \n9.5 试验结果按修约值比较法进行修约,修约规则应符合GB/T8170的规定。\n\n10 包装、标志及质量证明书\n\n钢板及钢带的包装、标志及质量证明书应符合GB/T 247 的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 19,
+      "content_sha256": "aba5b5377860b9664feabd2af4bb0a07d6d6d904b672980b7f1928bb60b97346",
+      "doc_id": "7d4c0bd89d93f4d01009314c10045678d337882fec8a14ce8a83c1b16fb8bbd4"
+    }
+  },
+  {
+    "content": "附 录 A\n\n(资料性)\n\n本文件牌号与国外标准相近牌号的对照\n\n本文件牌号与国外标准的相近牌号对照见表 。\n\n表 A.1 本文件牌号与国外标准相近牌号的对照",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 20,
+      "content_sha256": "62ff0324d5e12eb0e55d29c5e317cb73cb285cee1ed45572645394892f047255",
+      "doc_id": "ce8c0c5ad6aeb66528217d8d192f77bf080afe9c5279432c5a7750b1851fa259"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>本文件牌号</td><td>EN10149-2:2013牌号</td></tr><tr><td>420L</td><td>S355MC</td></tr><tr><td>510L</td><td>S460MC</td></tr><tr><td>550L</td><td>S500MC</td></tr><tr><td>600L</td><td>S550MC</td></tr><tr><td>650L</td><td>S600MC</td></tr><tr><td>700L</td><td>S650MC</td></tr><tr><td>750L</td><td>S700MC</td></tr><tr><td>800L</td><td></td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+3273-2026.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+3273-2026.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 21,
+      "content_sha256": "e5da200ba4a0d4adaf5c3f65a308a36a003e9d0ad1bc341224e1027bdd123510",
+      "doc_id": "3768f44fe6d501499a5de6f0da80ba33335dc75322ee47df99bd10db54e4be2b"
+    }
+  }
+]

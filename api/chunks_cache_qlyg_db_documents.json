@@ -1,0 +1,642 @@
+[
+  {
+    "content": "中 华 人 民 共 和 国 国 家 标 准\n\n桥梁用结构钢\n\nStructural stel for bridge\n\nGB/T 714—2025   \n代替 GB/T714—2015\n\n国 家 市 场 监 督 管 理 总 局国 家 标 准 化 管 理 委 员 会\n\n发 布",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 0,
+      "content_sha256": "4b51b41749ec94e43c9036eb4712603eb6b583263775e4cba8ab1d1c995ddfa1",
+      "doc_id": "27cf2a7c19f291777564a340874a09883edd90e7745fc75844395e7ab14828fb"
+    }
+  },
+  {
+    "content": "前  言\n\n本文件按照GB/T1.1— 2020《标准化工作导则 第1部分:标准化文件的结构和起草规则》的规定起草。\n\n本文件代替GB/T714—2015《桥梁用结构钢》,与 GB/T714—2015相比,除结构调整和编辑性改动外,主要技术变化如下:\n\na) 删除了型钢产品(2015年版的第1章);  \nb) 更改了术语热机械轧制和耐大气腐蚀钢定义(见第3章,2015年版的第3章);  \nc) 更改了硼含量的规定(见表1,2015年版的表1);  \nd) 增加了热机械轧制钢Q390q、Q50q、Q620q、Q690q四个钢级及化学成分(见表3、表6、表7);  \ne) 更改了热机械轧制钢锰含量下限的规定(见表3,2015年版的表3);  \nf) 增加了耐大气腐蚀钢牌号Q390qNH(见表5);  \ng) 更改了耐大气腐蚀钢耐腐蚀性能的要求和 Q345qNH、Q370qNH 钢 Mo元素上限(见表5,2015年版的表5);  \nh) 更改了碳当量要求(见表6,2015年版的表6);  \ni) 更改了热机械轧制钢的焊接裂纹敏感性指数要求(见表7,2015年版的表7);  \nj) 增加了耐大气腐蚀钢的裂纹敏感性指数要求(见表8);  \nk) 更改了交货状态(见6.2,2015年版的7.3);  \nl) 增加了Q390q、Q390qNH 的力学性能(见表9和表10);  \nm) 增加了厚度大于10 mm,Q370q(NH)\\~Q50q(NH)钢级的屈服强度(见表9);  \nn) 更改了各钢级抗拉强度要求按厚度进行分档(见表9,2015年版的表8);  \no) 更改了冲击吸收能量要求(见表10,2015年版的表8);  \np) 更改了钢的屈强比要求(见7.7和附录C,2015年版的7.4.6和附录B);  \nq) 删除了评估耐候桥梁钢耐大气腐蚀性指南(见2015年版的附录C);  \nr) 增加了耐大气腐蚀钢可免涂装应用的桥址参考使用环境(见附录A);  \ns) 增加了其他类型桥梁钢的推荐订货标准(见第1 章和附录D)。\n\n请注意本文件的某些内容可能涉及专利。本文件的发布机构不承担识别专利的责任。\n\n本文件由中国钢铁工业协会提出。\n\n本文件由全国钢标准化技术委员会(SAC/TC 183)归口。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 1,
+      "content_sha256": "d72a9eee424550ced1e15ae3ad8de4c2a88095a43acd1942214db2a7c42b78bd",
+      "doc_id": "70fa7f34a20a9f25d8c50e783c17bd2f492cbaea0082f1f5a730df0c235ae323"
+    }
+  },
+  {
+    "content": "请注意本文件的某些内容可能涉及专利。本文件的发布机构不承担识别专利的责任。\n\n本文件由中国钢铁工业协会提出。\n\n本文件由全国钢标准化技术委员会(SAC/TC 183)归口。\n\n本文件起草单位:鞍钢股份有限公司、冶金工业信息标准研究院、湖南华菱湘潭钢铁有限公司、福建三钢闽光股份有限公司、江苏沙钢集团有限公司、江阴兴澄特种钢铁有限公司、新余钢铁股份有限公司、湖南华菱涟源钢铁有限公司、舞阳钢铁有限公司、中交公路规划设计院有限公司、中铁山桥集团有限公司、中铁宝桥集团有限公司、中铁九桥工程有限公司、上海振华重工(集团)股份有限公司、中信金属股份有限公司、北京科技大学、河北普阳新材料实业有限公司、中铁大桥局集团物资有限公司、首钢集团有限公司、南阳汉冶特钢有限公司、敬业(营口)中板有限公司 、湖北汽车工业学院、常熟市龙腾新能装备科技有限公司、中国铁建大桥工程局集团有限公司、中铁高新工业股份有限公司、中铁重工有限公司、湖北辉创重型工程有限公司。\n\n本文件主要起草人:杨颖、张哲、张维旭、徐吉尤、方宇荣、林涛铸、刘观猷、闫博、程绘兵、管秀兵、常志军、徐向军、李军平、陈潜、李伟、王厚昕、尚成嘉、陈建超、严生平、杨永达、李忠波、赵和明、丁庆丰、高德平、张凯、梁辉、李潭、戴辉、管吉春、朴志民、孙梦寒、巨银军、周文波、杨浩、张全全、周杰、刘宁、王东阳、黄李骥、曹磊、车平、郭红艳、马立芬、郭爱民、谢振家、邢瑞芳、郑斐城、秦丽晔、张涛、甄新刚、王玉博、郭晖、孙艳萍、刘登。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 2,
+      "content_sha256": "e20879cea3702d0bb6cbef3601d149e10721bcaa57c0120b09ca6c9592169527",
+      "doc_id": "8768b2bbe1117b5fe3eb4fff878a143275caa6eb763b33a843909fee655f7250"
+    }
+  },
+  {
+    "content": "1965年首次发布为 GB/T714—1965,200 年第一次修订,208 年第二次修订,2015年第三次修订,本次为第四次修订。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 3,
+      "content_sha256": "3f2b8434aabc5ecef9cc517845a406741b8580aabf48c9b58959b6fb59606f17",
+      "doc_id": "f0a4986f9c5d470e6acc05af5d82fbb88b841953e6a7855f84c1cb0e51b5187d"
+    }
+  },
+  {
+    "content": "桥梁用结构钢\n\n范围\n\n本文件规定了桥梁用结构钢的牌号表示方法、订货内容、制造工艺、技术要求、试验方法、检验规则、包装、标志及质量证明书。\n\n本文件适用于厚度不大于150mm 的桥梁用结构钢单轧钢板、厚度不大于25.4 mm 的桥梁用结构钢热轧钢带及剪切钢板(以下简称为钢板和钢带)。\n\n2 规范性引用文件\n\n下列文件中的内容通过文中的规范性引用而构成本文件必不可少的条款。其中,注日期的引用文件,仅该日期对应的版本适用于本文件;不注日期的引用文件,其最新版本(包括所有的修改单)适用于本文件。\n\nGB/T22 钢的成品化学成分允许偏差  \nGB/T23(所有部分) 钢铁及合金化学分析方法  \nGB/T28.1 金属材料 拉伸试验 第1部分:室温试验方法  \nGB/T29 金属材料 夏比摆锤冲击试验方法  \nGB/T232 金属材料 弯曲试验方法  \nGB/T247 钢板和钢带包装、标志及质量证明书的一般规定  \nGB/T709 热轧钢板和钢带的尺寸、外形、重量及允许偏差  \nGB/T2970 厚钢板超声检测方法  \nGB/T2975 钢及钢产品 力学性能试验取样位置及试样制备  \nGB/T436 碳素钢和中低合金钢 多元素含量的测定 火花放电原子发射光谱法(常规法)  \nGB/T5313 厚度方向性能钢板  \nGB/T8170 数值修约规则与极限数值的表示和判定  \nGB/T17505 钢及钢产品 交货一般技术要求  \nGB/T206 钢和铁 化学成分测定用试样的取样和制样方法  \nGB/T20123 钢铁 总碳硫含量的测定高频感应炉燃烧后红外吸收法(常规方法)  \nGB/T20124 钢铁 氮含量的测定 惰性气体熔融热导法(常规方法)  \nGB/T20125 低合金钢 多元素含量的测定 电感耦合等离子体原子发射光谱法\n\n3 术语和定义\n\n下列术语和定义适用于本文件。\n\n正火 normalizing\n\n钢材加热到高于相变点温度以上的一个合适的温度,然后在空气中冷却至低于某相变点温度的热处理工艺。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 4,
+      "content_sha256": "f003aad7d1303fc7bac7a0a549d6943153d4ae1aa7a7ea75abc4f2a9e9861848",
+      "doc_id": "361f5f102579071d3926048e01744ba4401ffb5e3fd32265b7d6400c6b5e13f5"
+    }
+  },
+  {
+    "content": "3.2\n\n热机械轧制 thermomechanical roling\n\n钢材的最终变形在一定温度范围内进行的轧制工艺,从而保证钢材获得仅通过热处理无法获得的性能。\n\n注1:热机械轧制包括回火或无回火状态下冷却速率提高的过程,回火包括自回火但不包括直接淬火及淬火加回火。  \n注2:也称TMCP(热机械控制过程),在一些出版物中也称“控制轧制”。\n\n3.3\n\n调质 quenched and tempered\n\n钢材经过淬火后再进行高温回火的热处理方式。\n\n3.4\n\n耐大气腐蚀钢 atmospheric corosion resisting stel\n\n在钢中加入一定数量的合金元素,如Cr、Ni、Cu、Mo等,在金属基体表面上形成致密锈层,以提高耐大气腐蚀性能的钢。\n\n注1:耐大气腐蚀钢也称耐候钢,代号: 。\n\n注2:耐大气腐蚀钢免涂装应用的桥址参考使用环境见附录 A。\n\n4 牌号表示方法\n\n钢的牌号由代表屈服强度的“屈”字汉语拼音首字母、规定最小屈服强度数值、“桥”字的汉语拼音首字母、质量等级符号等四个部分组成。\n\n注1:Q+规定最小屈服强度数值+q,简称为钢级。\n\n示例 1: Q420qD。 其中:\n\nQ —屈服强度的“屈”字汉语拼音首字母;  \n420 — — 规定最小屈服强度数值,单位兆帕(MPa);  \nq “桥”字的汉语拼音首字母;  \nD 质量等级为D 级。\n\n具有耐候性能的桥梁钢则在上述规定的牌号后加上耐候(NH)。\n\n注2:Q+规定最小屈服强度数值+q+NH,也简称为钢级。\n\n示例2: Q420qDNH。  \nNH ——“耐候”汉语拼音首字母。\n\n当要求钢板具有厚度方向性能时,则在上述规定的牌号后加上代表厚度方向(Z向)性能级别的符号(Z15、Z25、Z35),如 Q420qDZ35、Q420qDNHZ35。\n\n5 订货内容\n\n按本文件订货的合同或订单至少包括下列内容:\n\na) 本文件编号;  \nb) 产品名称;牌号;  \nd) 规格;尺寸、外形及精度要求;重量(数量);  \ng) 交货状态;",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 5,
+      "content_sha256": "32059317197678343edf45329a6b7559a4f7d959c04151ecaa29b6aab3d6c964",
+      "doc_id": "d21336887deab66365b15e40a02e0da6f4f820526beedf40d16fd8a3eade78aa"
+    }
+  },
+  {
+    "content": ") 特殊要求。\n\n6 制造工艺\n\n6.1 冶炼方法\n\n钢由转炉或电炉冶炼,并经真空脱气等炉外精炼处理。\n\n6.2 交货状态\n\n钢材应以热机械轧制( )、热机械轧制( ) 回火或调质交货状态交货,并在质量证明书中注明。当 Q345q、Q370q钢级的钢板厚度大于10 mm 且不大于150 mm 时,经供需双方协商也可以正火状态交货。\n\n7 技术要求\n\n7.1 牌号及化学成分\n\n7.1.1 不同交货状态钢的牌号及化学成分(熔炼分析)应符合表1\\~表5的规定,相关标准的牌号对照参见附录B。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 6,
+      "content_sha256": "95258b024dadd51e6f8bc521f72e37c7e8c2cea3d2ac046eba76d236469a8fc3",
+      "doc_id": "3f81d4530e9742a2fecc1cae9f8ceb721482a2e3e71ce21ee81a5915a0a9f7fd"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td rowspan=\"3\">质量等级</td><td colspan=\"4\">化学成分（质量分数） %</td></tr><tr><td></td><td>Sa</td><td>Bb,c,d,e</td><td>Hb</td></tr><tr><td colspan=\"4\">不大于</td></tr><tr><td>C</td><td>0.030</td><td>0.025</td><td rowspan=\"3\">0.0005</td><td rowspan=\"3\">0.0002</td></tr><tr><td>D</td><td>0.025</td><td>0.015</td></tr><tr><td>E</td><td>0.020</td><td>0.010</td></tr><tr><td>F</td><td>0.015</td><td>0.006</td><td></td><td></td></tr><tr><td colspan=\"5\">当要求钢板具有厚度方向性能时，钢的S元素含量应符合GB/T5313的规定。 钢中残余元素B、H，当供方能保证时，可不进行分析。 调质钢中添加元素B时，不受此限制，且应进行分析并填入质量证明书中。 对于热机械轧制钢，当C不大于0.10%时，B含量应不大于0.001 4%。 对于耐候钢，当C不大于0.06%时，B含量应不大于0.001 4%。</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 7,
+      "content_sha256": "53e75e95da2c32197ee752318abfca80c3191f51f1c58420e5986a4c73755e87",
+      "doc_id": "d3a0aed67b873af1c622eb8fa9c8f41ec53f2dbb2ba5bda04a7e72bf9666ce84"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td rowspan=\"3\">钢级</td><td rowspan=\"3\">质量 等级</td><td colspan=\"11\">化学成分（质量分数） %</td></tr><tr><td colspan=\"2\">Si</td><td>Mn</td><td>Nba</td><td></td><td>Tia</td><td>Alsa,b</td><td></td><td>Ni</td><td>Cu 不大于</td><td></td><td></td></tr><tr><td colspan=\"2\"></td><td colspan=\"2\">不大于</td><td></td><td></td><td></td><td></td><td colspan=\"3\"></td><td></td></tr><tr><td>Q345q Q370q</td><td>D E</td><td>0.18</td><td>0.55</td><td>0.90~ 1.60 1.00~ 1.60</td><td>0.005~ 0.060</td><td>0.010~ 0.080</td><td>0.006~ 0.030</td><td>0.010~ 0.045</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.0080</td><td>0.0080</td></tr><tr><td colspan=\"14\">注：正火仅适用于厚度大于 100 mm 且不大于 150 mm 的钢板。</td></tr><tr><td colspan=\"13\">钢中 Al、Nb、V、Ti可单独或组合加入，单独加入时，应符合表中规定；组合加入时，应至少保证一种合金元素 含量达到表中下限规定，上限不做限制，但应满足Nb十V十Ti≤0.22%。</td></tr><tr><td colspan=\"13\">当采用全铝（Alt)含量计算时，全铝（Alt)含量应为0.015%～0.050%。</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 8,
+      "content_sha256": "677d31cf5341ebbd7764771dd804251ef9ad0f81b4810810e7d0013648996c92",
+      "doc_id": "fd0e862902d5acf87321c88cd462712e17216a93f59b7c3771b3ab2bcbb6c17b"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">钢级</td><td rowspan=\"3\">质量 等级</td><td colspan=\"11\">化学成分（质量分数） %</td></tr><tr><td colspan=\"2\">Si</td><td rowspan=\"2\">Mna</td><td rowspan=\"2\">Nbb</td><td rowspan=\"2\">Vb</td><td rowspan=\"2\">Tib</td><td rowspan=\"2\"></td><td rowspan=\"2\">Alsb, c</td><td colspan=\"4\">Cr Ni Cu Mo</td></tr><tr><td>不大于</td><td></td><td></td><td>不大于</td><td></td></tr><tr><td>Q345q Q370q</td><td rowspan=\"2\">C D 0.14 E</td><td rowspan=\"2\"></td><td rowspan=\"2\">0.55</td><td>0.80~ 1.60</td><td rowspan=\"2\">0.010~ 0.090</td><td rowspan=\"4\">0.080</td><td rowspan=\"4\">0.006~ 0.045</td><td>0.30 0.010~</td><td>0.30</td><td>0.30</td><td rowspan=\"2\"></td><td></td></tr><tr><td>Q390q Q420q D</td><td>0.80~</td><td>0.010~</td><td>0.50</td><td>0.30</td><td>0.20 0.25</td></tr><tr><td>Q460q Q500q</td><td rowspan=\"2\">0.11</td><td rowspan=\"2\"></td><td rowspan=\"2\">0.80~ 1.70</td><td rowspan=\"2\"></td><td rowspan=\"2\">0.030</td><td>0.80</td><td>0.70</td><td>0.70</td><td>0.0080</td></tr><tr><td>Q550q</td><td>1.00</td><td>1.20</td><td>0.55</td><td>0.30</td><td>0.60</td></tr><tr><td colspan=\"9\">Q620q D 0.80~ 0.005~ E 0.11 0.50 Q690q F 1.70 0.090 注： 表中“ ”为不适用。</td><td colspan=\"4\"></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 9,
+      "content_sha256": "af57f95460be2746e02e92dcf11c2ccddc013cc89c005d6c4b75143186cd63af",
+      "doc_id": "0d9d4f6c35806978311152b93127f23bb6c8da67c2782d680f937ac4c1d57e5c"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td rowspan=\"3\">钢级</td><td colspan=\"11\">化学成分（质量分数） 质量 %</td></tr><tr><td colspan=\"2\">等级</td><td rowspan=\"2\">Si</td><td rowspan=\"2\">Mn</td><td rowspan=\"2\">Nbb</td><td rowspan=\"2\">Vb</td><td rowspan=\"2\">Tib</td><td rowspan=\"2\">Alsb, c</td><td rowspan=\"2\">Cr</td><td>Ni</td><td>Cu</td><td></td><td>N</td></tr><tr><td colspan=\"2\">不大于</td><td>≤0.70</td><td>≤0.30</td><td>Mo</td><td></td></tr><tr><td>Q500q Q550q</td><td></td><td>0.11 0.12</td><td rowspan=\"2\"></td><td rowspan=\"2\">0.80</td><td>0.005~ 0.060</td><td rowspan=\"2\">0.010</td><td rowspan=\"2\">0.006</td><td rowspan=\"2\">0.010</td><td>≤0.80</td><td>≤0.70</td><td>≤0.30</td><td>≤0.30</td><td rowspan=\"2\"></td></tr><tr><td>Q620q</td><td>D E 0.14</td><td>0.55</td><td>~0.090</td><td>0.40~ 0.80</td><td>0.25~</td><td>0.20~ 0.50</td></tr><tr><td></td><td>F</td><td></td><td></td><td>~1.70</td><td>0.005 ~0.090</td><td>~0.080</td><td>~0.030</td><td>~0.045</td><td>0.40~</td><td>1.00 0.25~</td><td>0.15~ 0.55</td><td>0.20~</td><td>0.0080</td></tr><tr><td>Q690q</td><td></td><td>0.15</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.00</td><td>1.20</td><td></td><td>0.60</td><td></td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 10,
+      "content_sha256": "a4bae9667502f0a695d3d97686d1fd0b0bd8672f569d5084cb98ec4f7d595934",
+      "doc_id": "8d693d0ebf64078318535579a7b21cadeff1463523bc0bebdca4a24d6f120334"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"2\">钢级</td><td rowspan=\"2\">质量</td><td colspan=\"10\">化学成分ab,c（质量分数） %</td></tr><tr><td>等级</td><td></td><td>Si</td><td>Mnd</td><td>Nb</td><td></td><td></td><td>Ni</td><td>u</td><td>Mo</td><td>N</td><td rowspan=\"2\">Alse</td></tr><tr><td>Q345qNH</td><td colspan=\"2\">C</td><td rowspan=\"6\">0.15~</td><td>1.10~1.50</td><td>0.0100.100</td><td>0.0100.100</td><td>0.0060.030</td><td>0.40~0.70</td><td>0.30~0.40</td><td>0.25~0.50</td><td>不大于</td></tr><tr><td>Q370qNH</td><td>D E</td><td rowspan=\"6\"></td><td rowspan=\"6\">0.50</td><td></td><td></td><td></td><td rowspan=\"2\">0.030</td><td>0.40~</td><td>0.25~0.55</td><td>0.25~ 0.50</td><td rowspan=\"4\">0.008</td><td>0.015</td></tr><tr><td>Q390qNH</td><td>≤0.11</td><td>1.10~ 1.50</td><td>0.010~0.010~</td><td>0.006~</td><td>0.70</td><td>0.30~ 0.40</td><td>0.20</td><td>0</td></tr><tr><td>Q420qNH Q460qNH</td><td rowspan=\"3\">） E F</td><td></td><td>0.100</td><td>0.100</td><td></td><td></td><td></td><td>0.050</td></tr><tr><td>Q500qNH</td><td></td><td></td><td></td><td>0.45~</td><td>0.30~</td><td>0.25~</td><td></td></tr><tr><td>Q550qNH</td><td></td><td></td><td></td><td>0.70</td><td>0.45</td><td>0.55</td><td>0.25</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 11,
+      "content_sha256": "83f53426bfd2eea27523b9667f41b1aac5b0427f48ae11166dc237d6d0394a64",
+      "doc_id": "756ec589ae4cdd79766e8699048e7bae78bc4d57b87eb523371cef9eb82d178a"
+    }
+  },
+  {
+    "content": "钢中 Al、Nb、V、Ti可单独或组合加入,单独加入时,应符合表中规定;组合加入时,应至少保证一种合金元素含量达到表中下限规定,上限不做限制,但应满足 Nb+V+Ti≤0.2 %。\n\n为控制硫化物形态要进行Ca处理。\n\n耐候钢的耐腐蚀性指数I 值应不小于6.0,I 值计算公式为:I=26.01(%Cu)+3.8 (%Ni)+1.20(%Cr)+1.49(%Si)+17.28(%P)-7.29(%Cu)(%Ni)-9.10(%Ni)(%P)-3 .39(%Cu)2。\n\n当以卷板状态交货时,Mn含量下限可到0.50%。\n\n当采用全铝(Alt)含量计算时,全铝(Alt)含量应为 0.020%\\~0.05 %。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 12,
+      "content_sha256": "ce65e5f98dfd931db2204c1f6545e4846973970b9be99a23d63e2780b25af001",
+      "doc_id": "0085e7c3872d14af5a84bc4ea1a5768611867b7bdb89190a816763424043d5fe"
+    }
+  },
+  {
+    "content": "7.1.2 各牌号钢的焊接性评价\n\n7.1.2.1 正火钢、调质钢和碳含量大于0.12%的热机械轧制钢,采用碳当量(CEV)评价钢材的可焊 性,各牌号钢的碳当量应符合表6的规定,碳当量应由熔炼分析成分并采用式(1)计算:",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 13,
+      "content_sha256": "d2d11b5eacc95afb452ecfb699fdcf645ab92348c120eaa47aabdd2db06906e5",
+      "doc_id": "2a341c93fa32b6a1bb822c05de82be471b5c70ca1051b8b7e5bf0f0315f8eed8"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td rowspan=\"3\">类别</td><td rowspan=\"3\">钢级</td><td colspan=\"4\">碳当量(CEV)/%</td></tr><tr><td>≤50</td><td>公称厚度 >50~100</td><td>mm >100~130</td><td>>130~150</td></tr><tr><td>Q345q</td><td>>50~100</td><td>100~130</td><td>130~150</td><td></td></tr><tr><td rowspan=\"3\">正火钢 热机械轧</td><td>Q370q</td><td></td><td></td><td>协议</td><td>协议</td></tr><tr><td>Q345q</td><td>≤0.38</td><td>≤0.40</td><td rowspan=\"3\">协议</td><td rowspan=\"3\"></td></tr><tr><td>Q370q</td><td>≤0.38</td><td>三0.40</td></tr><tr><td>Q390q</td><td>≤0.41</td><td>≤0.41</td><td>≤0.40</td></tr><tr><td rowspan=\"4\">调质钢</td><td>Q500q</td><td>≤0.50</td><td>≤0.55</td><td>协议</td><td rowspan=\"4\"></td></tr><tr><td>Q550q</td><td>三0.52</td><td>≤0.57</td><td rowspan=\"3\"></td></tr><tr><td>Q620q</td><td>≤0.55</td><td>≤0.60</td></tr><tr><td>Q690q</td><td>三0.60</td><td>≤0.65</td></tr><tr><td colspan=\"6\">注：表中“—”为不适用。</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 14,
+      "content_sha256": "f7138456d48a586b7eb8825b4f4a41f41636a512bdba47cb6f354e14f8fa5b99",
+      "doc_id": "ae67c92bf754ca907fc7848e105fd40c19e2c4e592184920960a1de817ef32d0"
+    }
+  },
+  {
+    "content": "7122 耐大气腐蚀钢和碳含量不大于0.12%的热机械轧制钢,采用焊接裂纹敏感性指数(Pcm)代替碳当量评价钢材的可焊性,Pcm应由熔炼分析成分并采用式(2)计算,其值应符合表7和表8的规定。\n\nPcm(%)=C+Si/30+ Mn/20+Cu/20+Ni/60+Cr/20+ Mo/15 V/10 5B\n\n(2 )",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 15,
+      "content_sha256": "bb90adfdcb826a263ac3131ea1c8f1183fad9e8aba2ba1e6baefb5d46b7496b5",
+      "doc_id": "06769950f78f79774729e2ad8b107ec11a1cca36fd54bef79cba86d6f2697f3e"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td rowspan=\"2\">类别</td><td rowspan=\"2\">钢级</td><td colspan=\"4\">焊接裂纹敏感性指数(Pcm)/%</td></tr><tr><td colspan=\"4\">公称厚度， /mm</td></tr><tr><td>热机械轧 制钢</td><td></td><td>≤50</td><td>>50~100</td><td>>100~130</td><td>>130~150</td></tr><tr><td rowspan=\"8\"></td><td>Q345q</td><td>八0.20</td><td>八0.20</td><td>八0.20</td><td rowspan=\"6\"></td></tr><tr><td>Q370q</td><td>≤0.20</td><td>≤0.20</td><td>≤0.20</td></tr><tr><td>Q390q</td><td>0.21</td><td>0.21</td><td>≤0.21</td></tr><tr><td>Q420q</td><td>M0.22</td><td>≤0.22</td><td>≤0.22</td></tr><tr><td>Q460q</td><td>≤0.22</td><td>≤0.23</td><td>0.23</td></tr><tr><td>Q500q</td><td>≤0.23</td><td>≤0.25</td><td>≤0.25</td></tr><tr><td>Q550q</td><td>≤0.23</td><td>≤0.25</td><td></td></tr><tr><td>Q620q Q690q</td><td>≤0.24 三0.24</td><td>/0.25 ≤0.25</td><td></td><td></td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 16,
+      "content_sha256": "30d651ca26def946aeb5690ce3f4d7581a82bdb83d7e4502ed301ff568c509e6",
+      "doc_id": "f6ad6575dd8f9a9ff9c2ea23bac05788b3813bc29bf140bfade12c66c0ebb170"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td rowspan=\"2\">类别</td><td rowspan=\"2\">钢级</td><td colspan=\"4\">焊接裂纹敏感性指数(Pcm）/%</td></tr><tr><td colspan=\"4\">公称厚度 mm</td></tr><tr><td rowspan=\"7\">耐大气腐 蚀钢</td><td>Q345qNH</td><td>50</td><td>>50~100</td><td>>100~130</td><td>>130~150</td></tr><tr><td></td><td>≤0.22</td><td>≤0.24</td><td rowspan=\"6\">协议</td><td rowspan=\"6\"></td></tr><tr><td>Q370qNH</td><td>≤0.22 M0.22</td><td>≤0.24</td></tr><tr><td>Q390qNH Q420qNH</td><td>≤0.23</td><td>≤0.24 ≤0.25</td></tr><tr><td>Q460qNH</td><td>≤0.23</td><td>≤0.25</td></tr><tr><td>Q500qNH</td><td>≤0.24</td><td>≤0.26</td></tr><tr><td>Q550qNH</td><td>≤0.24</td><td>≤0.26</td></tr><tr><td colspan=\"6\">注：表中“—”为不适用。</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 17,
+      "content_sha256": "ebb17901f8821eb469720057759910df25905221fecc7e4e14eafc710c8c4c24",
+      "doc_id": "c0cba43d2e9a539e8d84cbe0712f79bbc82ae324ada81870b85eb9dfc9af7cdc"
+    }
+  },
+  {
+    "content": "7.1.3 钢的成品化学成分允许偏差应符合 GB/T 22 的规定。\n\n7.2 力学性能\n\n7.2.1 钢板和钢带的力学性能应符合表9和表10的规定。\n\n7.2.2 夏比(V 型缺口)冲击吸收能量按一组3个试样的算术平均值进行计算,允许其中有1个试样单个值低于表10规定值,但不应低于规定值的70%。\n\n表9 拉伸性能",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 18,
+      "content_sha256": "318caee06cedd713d3879d7c4ae48985049d801ff27ce9925429d31ffdb50386",
+      "doc_id": "50e2f0ccb6484a5d43b539e1a13d7d41c3ebca7682036debcc329e5baf411efc"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"5\">钢级</td><td rowspan=\"5\">质量 等级</td><td colspan=\"8\">拉伸试验a,b,c</td></tr><tr><td colspan=\"4\">下屈服强度(Re1) MPa</td><td colspan=\"3\">抗拉强度(Rm) MPa</td><td rowspan=\"3\">断后伸 长率 (A) %</td></tr><tr><td colspan=\"4\">公称厚度 mm</td><td colspan=\"3\">公称厚度 mm</td></tr><tr><td>50</td><td>>50~100</td><td>>100~130</td><td>>130~150</td><td>≤100</td><td>>100~130</td><td>>130~150</td></tr><tr><td colspan=\"8\">不小于</td></tr><tr><td rowspan=\"2\">Q345q Q345qNH</td><td>C</td><td rowspan=\"2\">345</td><td rowspan=\"2\">335</td><td rowspan=\"2\">305</td><td rowspan=\"2\">305</td><td rowspan=\"2\">490</td><td rowspan=\"2\">430</td><td rowspan=\"2\">430</td><td rowspan=\"2\">20</td></tr><tr><td>D</td></tr><tr><td rowspan=\"3\">Q370q Q370qNH</td><td>C</td><td rowspan=\"3\">370</td><td rowspan=\"3\">360</td><td rowspan=\"3\">320</td><td rowspan=\"3\">320</td><td rowspan=\"3\">510</td><td rowspan=\"3\">430</td><td rowspan=\"3\">430</td><td rowspan=\"3\"></td><td rowspan=\"3\">20</td></tr><tr><td>E</td></tr><tr><td>D</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 19,
+      "content_sha256": "bb17b42f5fe4b980548103aa309ea1d76a564780fe8c5ea3b875da62a2058d80",
+      "doc_id": "d92088c590c097d0f2883e949f5c5938841e291889c415599beaeab8f15934a9"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"5\">钢级</td><td rowspan=\"5\">质量 等级</td><td colspan=\"8\">拉伸试验a,b,c</td></tr><tr><td rowspan=\"3\">Q390q Q390qNH</td><td>C</td><td rowspan=\"3\">390</td><td rowspan=\"3\">380</td><td rowspan=\"3\">335</td><td rowspan=\"3\"></td><td rowspan=\"3\">520</td><td rowspan=\"3\">450</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\">20</td></tr><tr><td>E</td></tr><tr><td>D</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 20,
+      "content_sha256": "90bf6f8ee30e6d2c6c01fdcb448ccfe55daffa60a8e9dd09be60a9ef54244ddf",
+      "doc_id": "bf3941244185d7b45dce9b8964db799314825f8cf2a2391a7d710bb44e6d3923"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"5\">质量 钢级 等级</td><td rowspan=\"5\">下屈服强度(Re1) MPa</td><td colspan=\"9\">拉伸试验 ,b,</td></tr><tr><td colspan=\"4\"></td><td colspan=\"4\">抗拉强度(Rm) MPa</td><td rowspan=\"3\">断后伸 长率 (A) %</td></tr><tr><td colspan=\"4\">公称厚度 mm</td><td colspan=\"3\">公称厚度 mm</td></tr><tr><td>/50</td><td>>50~100</td><td>>100~130</td><td>>130~150 不小于</td><td>三100</td><td>100 130</td><td>>130~150</td><td></td></tr><tr><td></td><td colspan=\"8\"></td></tr><tr><td>Q420q Q420qNH</td><td>D</td><td>420</td><td>410</td><td>365</td><td></td><td>540</td><td>460</td><td></td><td>19</td></tr><tr><td>Q460q Q460qNH</td><td></td><td>460</td><td>450</td><td>385</td><td></td><td>570</td><td>490</td><td></td><td>18</td></tr><tr><td>Q500q Q500qNH</td><td></td><td>500</td><td>480</td><td>450</td><td></td><td>630</td><td>560</td><td></td><td>18</td></tr><tr><td>Q550q Q550qNH</td><td></td><td>550</td><td>530</td><td></td><td></td><td>660</td><td colspan=\"2\"></td><td>16</td></tr><tr><td>Q620q</td><td></td><td>620</td><td>580</td><td></td><td></td><td>720</td><td colspan=\"2\"></td><td>15</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 12,
+      "page_start": 12,
+      "page_end": 12,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 21,
+      "content_sha256": "d27e564f700193d2f8d60ccab1b7e911854597260e62df0c47d8f759cb8894cb",
+      "doc_id": "ca05adc272bb4c4a4fdbccace68b8f355087682fcd3fa8b299ac8966dd3e040a"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"5\">质量 钢级 等级</td><td rowspan=\"5\">下屈服强度(Re1) MPa</td><td colspan=\"9\">拉伸试验 ,b,</td></tr><tr><td>Q690q 注：表中“</td><td></td><td>690</td><td>650</td><td></td><td></td><td>770</td><td colspan=\"2\"></td><td>14</td></tr><tr><td colspan=\"8\">”为不适用。</td><td colspan=\"2\"></td></tr><tr><td colspan=\"8\">当屈服现象不明显时，可采用规定塑性延伸强度Rp0.2代替。 拉伸试验取横向试样。 钢板厚度大于40mm时，采用圆形拉伸试样；当钢板厚度大于25 mm且不大于 40 时，也可采用圆形拉伸试样。</td><td colspan=\"4\">mm 时，且试验能力不足</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 12,
+      "page_start": 12,
+      "page_end": 12,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 22,
+      "content_sha256": "f14ebd0668f4523a621f293a377655c8061e9cf9d0ba910bbd05f914f2418414",
+      "doc_id": "411668d5b79b3759c09afbabf6253880ed926ede323a5410fb3c34231fede5e4"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"5\">钢级</td><td rowspan=\"5\">质量等级</td><td rowspan=\"5\">试验温度</td><td colspan=\"3\">夏比（V型缺口）冲击试验 吸收能量(KV₂)</td></tr><tr><td colspan=\"3\"></td></tr><tr><td colspan=\"3\">公称厚度</td></tr><tr><td colspan=\"3\">mm</td></tr><tr><td></td><td>12 不小于</td><td>>12~100</td><td>>100~150</td></tr><tr><td rowspan=\"5\">Q345q Q345qNH Q370q</td><td></td><td>0</td><td rowspan=\"5\">80</td><td></td><td>55</td></tr><tr><td>D</td><td>20</td><td>120</td><td>47</td></tr><tr><td>E</td><td>10</td><td rowspan=\"2\"></td><td>31</td></tr><tr><td>C</td><td>0</td><td>55</td></tr><tr><td>D</td><td>20</td><td>120</td><td>47</td></tr><tr><td rowspan=\"3\">Q390q Q390qNH</td><td>E</td><td>40</td><td rowspan=\"2\"></td><td></td><td>31</td></tr><tr><td>C</td><td>0</td><td></td><td>55</td></tr><tr><td>D</td><td>20</td><td>80</td><td>120</td><td>47</td></tr><tr><td rowspan=\"3\">Q420q</td><td>E</td><td>40</td><td rowspan=\"2\"></td><td></td><td>31</td></tr><tr><td></td><td>20</td><td>80 120</td><td>47</td></tr><tr><td>E</td><td>40</td><td></td><td></td><td>31</td></tr><tr><td rowspan=\"5\">Q420qNH Q460q Q460qNH</td><td>F</td><td>60</td><td rowspan=\"2\">协议</td><td>47</td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 13,
+      "page_start": 13,
+      "page_end": 13,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 23,
+      "content_sha256": "a267227179f9c33585e267b5a5c07ab677d27581762ab8e85c25017f56ae14c9",
+      "doc_id": "9bc576552786931d71f883dbdafb3370996451c894dbb335984bcd21fe87bebc"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"5\">钢级</td><td rowspan=\"5\">质量等级</td><td rowspan=\"5\">试验温度</td><td colspan=\"3\">夏比（V型缺口）冲击试验 吸收能量(KV₂)</td></tr><tr><td>D</td><td>20</td><td>80</td><td>47</td></tr><tr><td>E</td><td>10</td><td rowspan=\"2\">协议</td><td rowspan=\"2\">47</td><td>31</td></tr><tr><td>F</td><td>60</td><td></td></tr><tr><td rowspan=\"2\">Q500q Q500qNH</td><td>D</td><td>20</td><td rowspan=\"2\">80</td><td>31 47</td></tr><tr><td>E</td><td>10</td><td>120</td></tr><tr><td rowspan=\"3\">Q550q Q550qNH</td><td>F D</td><td>60 20</td><td rowspan=\"2\">80</td><td rowspan=\"2\"></td><td></td></tr><tr><td>E</td><td>40</td><td>120</td></tr><tr><td>F</td><td>60</td><td>协议</td><td>60</td><td></td></tr><tr><td rowspan=\"3\">Q620q</td><td>D</td><td>20</td><td rowspan=\"2\">80</td><td>60</td><td></td></tr><tr><td>E</td><td>40</td><td>120</td><td></td></tr><tr><td></td><td>60</td><td>协议 69</td><td>120</td></tr><tr><td rowspan=\"3\">Q690q</td><td></td><td>20</td><td rowspan=\"2\">80</td><td rowspan=\"2\">120</td><td></td></tr><tr><td></td><td>10</td><td></td></tr><tr><td></td><td>-60</td><td>协议</td><td>77</td></tr><tr><td>注： 表中“</td><td>”为不适用</td><td>60</td><td></td><td>77</td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 13,
+      "page_start": 13,
+      "page_end": 13,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 24,
+      "content_sha256": "773ed5f61b14290e209721dc9018064cb11f6a2e5ceb27a3c7b5e115d6a34e9d",
+      "doc_id": "8dbcbe24a445c773795a77510e16707f5a5a7fb99afb699f0a9c6b689dbab59b"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"5\">钢级</td><td rowspan=\"5\">质量等级</td><td rowspan=\"5\">试验温度</td><td colspan=\"3\">夏比（V型缺口）冲击试验 吸收能量(KV₂)</td></tr><tr><td colspan=\"6\">冲击试验取纵向试样，</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 13,
+      "page_start": 13,
+      "page_end": 13,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 25,
+      "content_sha256": "65b3df3720a99b2151966be1d12e7c2522a045dab51f6bfd911e693eafced32e",
+      "doc_id": "1007e92659482be02b0f1dbb63492e706cffbea3ed72984464c2ab4d07c67d27"
+    }
+  },
+  {
+    "content": "723 厚度小于12mm 时,夏比(V 型缺口)冲击试验应采用小尺寸试样。厚度>8 mm～∧12 mm时,小尺寸试样尺寸为7.5 mm×10 mmX55 mm,其试验结果应不小于表10规定值的75%;厚度为6mm\\~8mm 时,小尺寸试样尺寸为5 mm×10 mm×5 mm,其试验结果应不小于表10规定值的50%;厚度小于6mm 时不做冲击试验。\n\n7.2.4 如果冲击试验结果不符合7.2.2和7.2.3规定时,应从同一批钢材上再取一组3个试样进行试验。前后6个试样的算术平均值不应低于规定值,允许其中2个试样低于规定值,但低于规定值70%的试样只允许有1个。\n\n7.2.5 当要求钢板具有厚度方向性能时,其厚度方向断面收缩率应符合 GB/T5313 相应级别的规定。\n\n7.3 工艺性能\n\n钢板和钢带的弯曲试验应符合表1 的规定。 当供方保证时,可不做弯曲试验。\n\n表1 工艺性能",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 14,
+      "page_start": 14,
+      "page_end": 14,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 26,
+      "content_sha256": "f610f62de84049e821518ad3930b925bf17ba1b2b4c69ce1c961740273a1a223",
+      "doc_id": "6b24210bc1dcf247f089a1e43deaf6f9f86ac545a2c1168289013a9f84e622de"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td colspan=\"3\">180°弯曲试验</td></tr><tr><td colspan=\"2\">公称厚度/ mm</td><td rowspan=\"2\">弯曲结果</td></tr><tr><td>16</td><td>>16</td></tr><tr><td>D = 2a</td><td>D = 3a</td><td>在试样外表面不应有目视可见的裂纹</td></tr><tr><td colspan=\"3\">弯曲试验取横向试样 注：D——弯曲压头直径，a——试样厚度。</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 14,
+      "page_start": 14,
+      "page_end": 14,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 27,
+      "content_sha256": "9a90919020ed957e1ba37bd91ab5f2f7e70939cf7740e57537c92ab2d5d978fe",
+      "doc_id": "31cec700015219e8c7fe864ba005040f18faa3442a8e89a2ab999378c97ac3d6"
+    }
+  },
+  {
+    "content": "7.4 表面质量\n\n7.4.1 钢板和钢带表面不应有气泡、结疤、裂纹、折叠、夹杂和压入氧化铁皮等影响使用的有害缺陷。钢板和钢带不应有目视可见的分层。  \n7.4.2 钢板和钢带的表面允许有不妨碍检查表面缺陷的薄层氧化铁皮、铁锈及由于压入氧化铁皮和轧辊所造成的不明显的粗糙、网纹、划痕及其他局部缺欠,但其深度不应大于钢板和钢带厚度的公差之半,并应保证钢板和钢带允许的最小厚度。  \n743 钢板的表面缺陷允许用修磨等方法清除,清理处应平滑无棱角,清理深度不应大于钢板厚度的下偏差,并应保证钢板允许的最小厚度。  \n7.4.4 钢带允许有缺陷存在,但有缺陷的部分不应大于每卷钢带总长度的6%。  \n7.4.5 经供需双方协商,并在合同中注明,钢板表面质量可执行GB/T1497 的规定。\n\n7.5 无损检测\n\n对于厚度大于20mm 的单轧钢板应按照 GB/T2970的规定进行超声波探伤检测,合格级别不低于Ⅱ级。其他厚度单轧钢板,根据供需双方协议,也可进行无损检测,其检验标准和级别应在协议或合同中明确。\n\n7.6 尺寸、外形、重量\n\n7.6.1 钢板和钢带的尺寸、外形、重量及允许偏差应符合GB/T709的规定。  \n7.6.2 经供需双方协商,并在合同中注明,可供应其他尺寸、外形及允许偏差的钢板和钢带。\n\n7.7 其他要求\n\n经供需双方协商,并在合同中注明,可对钢板和钢带的屈强比提出要求,钢板和钢带推荐的屈强比",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 14,
+      "page_start": 14,
+      "page_end": 14,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 28,
+      "content_sha256": "a47c4b1ca256c7fba42fd92c57b23fc9fe440d83fdfdcdda266ab0f575be1694",
+      "doc_id": "70088d327755fb23b9e68b774ec349b26633747a0dd0291e082efcaf11d8a3be"
+    }
+  },
+  {
+    "content": "参见附录C。\n\n8 试验方法\n\n8.1 钢的化学成分分析一般应按 GB/T23(所有部分)、GB/T 436、GB/T 20123、GB/T 20124、GB/T20125或通用的方法进行,仲裁时由供需双方协商确定。  \n8.2 钢板和钢带的检验项目和试验方法应符合表12的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 15,
+      "page_start": 15,
+      "page_end": 15,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 29,
+      "content_sha256": "be486af880aa0b75870c8cd06dfecd3998ad55e25bf75fe7911272c16b25d922",
+      "doc_id": "c10293a78b83938cd17d049f8d23911b157a31dd43638de1248a56e089d31835"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>序号</td><td>检验项目</td><td>取样数量</td><td>取样方法</td><td>试验方法</td></tr><tr><td>1</td><td>化学成分(熔炼分析）</td><td>1个/炉</td><td>GB/T 20066</td><td>见8.1</td></tr><tr><td>2</td><td>拉伸试验</td><td>1个/批</td><td>GB/T2975</td><td>GB/T 228.1</td></tr><tr><td>3</td><td>弯曲试验</td><td>1个/批</td><td>GB/T2975</td><td>GB/T 232</td></tr><tr><td>4</td><td>冲击试验</td><td>一组（3个）/批</td><td>GB/T2975</td><td>GB/T 229</td></tr><tr><td>5</td><td>厚度方向性能试验</td><td>一组（3个）/批</td><td>GB/T 5313</td><td>GB/T 5313</td></tr><tr><td>6</td><td>无损检测</td><td>逐张</td><td></td><td>GB/T2970</td></tr><tr><td>7</td><td>表面质量</td><td>逐张或逐卷</td><td></td><td>目视及测量</td></tr><tr><td>8</td><td>尺寸、外形</td><td>逐张或逐卷</td><td></td><td>合适的量具</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 15,
+      "page_start": 15,
+      "page_end": 15,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 30,
+      "content_sha256": "05b3ba30f07b0c87c7dc02d70c22bb3820a75c43a783797de07d175558eb6701",
+      "doc_id": "2d6749269ba91d6cc8bb11090d9b179a3d66cc0119be5bbaf74fff811aeaa73e"
+    }
+  },
+  {
+    "content": "9 检验规则\n\n9.1 检查和验收\n\n钢材的检查和验收由供方质量检验部门进行。\n\n9.2 组批\n\n9.2.1 钢板和钢带应成批验收。每批应由同一牌号、同一炉号、同一规格、同一轧制制度及同一热处理制度的钢板或钢带组成,每批重量不大于60t。轧制卷重大于30t的钢带及剪切钢板可按两个轧制卷组批。\n\n9.2.2 对于厚度方向力学性能试验批量应符合 GB/T 5313 的规定。\n\n9.3 取样数量和取样方法\n\n每批钢板和钢带的取样数量和取样方法应符合表12的规定。\n\n9.4 复验与判定规则\n\n9.4.1 拉伸试验、冲击试验及弯曲试验的复验与判定应符合 GB/T17505 的规定。  \n9.4.2 Z向钢的厚度方向断面收缩率的复验与判定应符合GB/T5313的规定。\n\n9.5 数值修约\n\n钢板和钢带的力学性能和化学成分试验结果采用修约值比较法进行修约,修约规则按GB/T8170规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 15,
+      "page_start": 15,
+      "page_end": 15,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 31,
+      "content_sha256": "56b027cbb61a2896683ab88ffbb3e0eb81cc44b4fa414f3b4633666bcfb7f500",
+      "doc_id": "c7f5a704e8f02a0e4c74f4b85170d4a6d04ded607afb88a9f9c8c05b3b9f1504"
+    }
+  },
+  {
+    "content": "GB/T 714—2025\n\n10 包装、标志及质量证明书\n\n钢板和钢带的包装、标志及质量证明书应符合 GB/T 247 规定。\n\n1 其他类型桥梁钢的推荐订货标准\n\n其他类型桥梁钢的推荐订货标准参见附录D。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 16,
+      "page_start": 16,
+      "page_end": 16,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 32,
+      "content_sha256": "13d322412e808a0362540f551e53502347b0ab464bc82438280a0d1c0b14cd38",
+      "doc_id": "c448ba8f8ef8bd00795a3742a62257a1374e13624fa67757536eb1dea601dc41"
+    }
+  },
+  {
+    "content": "附 录 A\n\n(资料性)\n\n耐大气腐蚀钢可免涂装应用的桥址参考使用环境\n\nA.1 城乡大气环境\n\n城乡大气环境包括乡村大气和城市大气。\n\n) 乡村大气:远离城市的内陆乡村地区和没有明显腐蚀剂污染的小城镇的环境大气,空气清洁,基本上没有工业介质或盐雾污染。  \nb) 城市大气:没有聚集工业的人口稠密区及城市边沿地区存在少量污染的环境大气,轻微地被工业性介质所污染。\n\n城乡大气环境特征:年均 Cl- 沉积率不大于3 mg/(m2 ·d);年均 SO2 沉积率不大于24 mg/(m2·d);全年潮湿时间不超过5256h(温度大于0 ℃,且相对湿度大于80%的时间)。\n\nA.2 沿海大气环境\n\n沿海大气环境中的腐蚀因子若符合A.1的环境特征,耐大气腐蚀钢也可以免涂装使用。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 17,
+      "page_start": 17,
+      "page_end": 17,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 33,
+      "content_sha256": "88e176d66bd4b23aa954a8220aaa80a0bcc9d8ae3bc4e5ea9f14a22e81451d90",
+      "doc_id": "dade625290557d03fa12b3268e0a9cb3f909a78eed1da945b37e49a7d187f96e"
+    }
+  },
+  {
+    "content": "附 录 B  \n(资料性)  \n相关标准牌号对照表\n\n本文件与国外相关标准的牌号对照见表B.1。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 18,
+      "page_start": 18,
+      "page_end": 18,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 34,
+      "content_sha256": "ec253a1e2aeea5923540c71698f031dd7e9527ec88f4b19eef640f29917cc6c3",
+      "doc_id": "dade571465be86f1cc207990aa05f6fbc53677048779cfa143748b47ef03805e"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>本文件</td><td>ASTM A709-21</td><td>EN 10025-3:2019</td><td>EN 10025-4:2019</td><td>EN 10025-6:2019</td></tr><tr><td>Q345q</td><td>50[345] 50W[345W] HPS 50W[HPS 345W]</td><td>S355N、S355NL</td><td>S355M、S355ML</td><td></td></tr><tr><td>Q370q</td><td></td><td></td><td></td><td></td></tr><tr><td>Q390q</td><td></td><td></td><td></td><td></td></tr><tr><td>Q420q</td><td></td><td></td><td>S420M、S420ML</td><td></td></tr><tr><td>Q460q</td><td>HPS 70W[HPS 485W</td><td></td><td>S460M、S460ML</td><td>S460Q、S460QL、S460QL1</td></tr><tr><td>Q500q</td><td></td><td></td><td>S500M S500ML</td><td>S500Q、S500QL S500QL1</td></tr><tr><td>Q550q</td><td></td><td></td><td></td><td>S550Q、S550QL、S550QL1</td></tr><tr><td>Q620q</td><td></td><td></td><td></td><td>S620Q、S620QL、S620QL1</td></tr><tr><td>Q690q</td><td>HPS 100W[HPS 690W]</td><td></td><td></td><td>S690Q、S690QL S690QL1</td></tr><tr><td colspan=\"5\">注：表中“—”为不适用。</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 18,
+      "page_start": 18,
+      "page_end": 18,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 35,
+      "content_sha256": "6fc3b58e724ec74a50e4918265d24a4a1e254a43375476160fbb188b0435bad4",
+      "doc_id": "afe3e7eaebc2f7443968b2830f0d7e52f1ce51b5aba95157f96fdcd9854c0f48"
+    }
+  },
+  {
+    "content": "附 录 C(资料性)钢材的屈强比\n\n热机械轧制( )、热机械轧制( ) 回火钢,推荐的屈强比见表 。\n\n表C.1 钢材的推荐屈强比",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 19,
+      "page_start": 19,
+      "page_end": 19,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 36,
+      "content_sha256": "615c4d6f8b92bfc0606246298e20e2b1728f9a15ee7dd5d774c666db4f37398b",
+      "doc_id": "b54c915c31459ed323f94e51d10c3cd6c66840445692b0f2d2965b88166559ed"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td rowspan=\"3\">钢级</td><td colspan=\"2\">屈强比(ReLa/Rm)</td></tr><tr><td colspan=\"2\">公称厚度人 mm</td></tr><tr><td>≤12</td><td>>12</td></tr><tr><td>Q345q、Q345qNH</td><td>0.88</td><td>0.85</td></tr><tr><td>Q370q、Q370qNH</td><td>0.88</td><td>0.85</td></tr><tr><td>Q390q、Q390qNH</td><td>0.88</td><td>0.85</td></tr><tr><td>Q420q、Q420qNH</td><td>0.88</td><td>0.86</td></tr><tr><td>Q460q、Q460qNH</td><td>0.88</td><td>0.86</td></tr><tr><td>Q500q、Q500qNH</td><td>0.88</td><td>0.86</td></tr><tr><td colspan=\"3\">当屈服现象不明显时，可采用规定塑性延伸强度Rpo.2代替。</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 19,
+      "page_start": 19,
+      "page_end": 19,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 37,
+      "content_sha256": "dbaac04c0423c2a300b6337ce9a90366ca22ef53a54028310060f9e9779114c5",
+      "doc_id": "2da078482960b5c392e2b1f3d57a7cf53368d40cf65ac351fb0bb81681d76406"
+    }
+  },
+  {
+    "content": "附 录 D\n\n(资料性)\n\n其他类型桥梁钢的订货标准\n\n随着桥梁制造技术的不断发展,新型桥梁钢相继被开发出来,例如具有耐海洋大气腐蚀特性和纵向变厚度的桥梁钢逐渐开始在实际工程中得以应用,同时也制定了相关标准。因此供需双方根据实际工程的需求,建议参考T/CISA073和T/CISA217进行订货。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 20,
+      "page_start": 20,
+      "page_end": 20,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 38,
+      "content_sha256": "87cf9dd5d89cad2a59390c261dc14b0607167723228e81a586d2f66b2af686c1",
+      "doc_id": "aa8ba13c6e092a44676e4139454137f18d5a1fb75a8263800e880a7b4a98a392"
+    }
+  },
+  {
+    "content": "参 考 文 献\n\n[1] GB/T1497 热轧钢板表面质量的一般要求 [2] T/CISA 073 桥梁用耐海洋大气环境腐蚀钢板 [3] T/CISA 217 桥梁用热轧纵向变厚度钢板 [4] ASTM A709-21 Standard specification forstructural stelfor bridges [5] EN 1025-3:2019 Hotroled roducts of structural steels Part 3:Technical delivery con  \nditionsfornormalized/normalized roledweldable finegrain structural stels [6] EN 1025-4:2019 Hotroledproducts of structural stels— Part4:Technical delivery con  \nditions forthermomechanicalroledweldable finegrain structural stels [7] EN 1025-6:2019 Hotroled products ofstructuralstels— Part6:Technical deliverycon  \nditions for flatproducts ofhighyieldstrength structural stelsin thequenchedand tempered condition",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+714-2025.pdf",
+      "page": 21,
+      "page_start": 21,
+      "page_end": 21,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+714-2025.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 39,
+      "content_sha256": "864c151504326eb4ecf279d6162b7f77b836a163391a602a2d8b67dcdd90dbfd",
+      "doc_id": "52d3139e611ced95ca8872811ad4cd49520efa1e4351900afad18326c75cd162"
+    }
+  }
+]

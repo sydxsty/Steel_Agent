@@ -1,0 +1,170 @@
+/* === Markdown Content Styles (via v-html in AI messages) === */
+
+.message-content h1,
+.message-content h2,
+.message-content h3,
+.message-content h4 {
+  margin-top: 16px;
+  margin-bottom: 8px;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: 0;
+}
+.message-content h1 {
+  font-size: 22px;
+}
+.message-content h2 {
+  font-size: 18px;
+}
+.message-content h3 {
+  font-size: 16px;
+}
+.message-content h4 {
+  font-size: 14px;
+}
+
+.message-content p {
+  margin-bottom: 8px;
+  line-height: 1.7;
+}
+
+.message-content ul,
+.message-content ol {
+  padding-left: 20px;
+  margin-bottom: 10px;
+}
+.message-content li {
+  margin-bottom: 4px;
+  line-height: 1.6;
+}
+
+.message-content strong {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.message-content code {
+  background: #f0f0f5;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: #e11d48;
+}
+
+.message-content pre {
+  background: #1e1e2e;
+  border-radius: var(--radius-lg);
+  padding: 16px;
+  margin: 12px 0;
+  overflow-x: auto;
+}
+.message-content pre code {
+  background: transparent;
+  color: #cdd6f4;
+  padding: 0;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.message-content blockquote {
+  border-left: 3px solid var(--primary);
+  padding: 4px 0 4px 14px;
+  margin: 10px 0;
+  color: var(--text-secondary);
+  background: #f9fafb;
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+}
+
+.message-content a {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+.message-content hr {
+  border: none;
+  border-top: 1px solid var(--border-color);
+  margin: 16px 0;
+}
+
+/* === Markdown 表格 / Tables === */
+.markdown-table-scroll {
+  max-width: 100%;
+  margin: 12px 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  overscroll-behavior-x: contain;
+  -webkit-overflow-scrolling: touch;
+}
+.message-content table {
+  width: max-content;
+  min-width: 100%;
+  margin: 0;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+.message-content th,
+.message-content td {
+  border: 1px solid var(--border-color);
+  padding: 8px 12px;
+  text-align: center;
+  white-space: nowrap;
+}
+.message-content th {
+  background: #f5f5f7;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.message-content tr:nth-child(even) td {
+  background: #fafafc;
+}
+
+/* === Markdown 图片 / Images === */
+.message-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius-md);
+  margin: 8px 0;
+}
+
+/* 报告正文中的仿真图片统一按正文宽度的 80% 展示，并保持水平居中。 */
+.message-content img[src*="/generated-images/"] {
+  display: block;
+  width: 80%;
+  max-width: 80%;
+  margin: 8px auto;
+}
+
+/* 仿真图题与80%宽度图片使用同一内容区域，并保持水平居中。 */
+.message-content .report-figure-caption {
+  width: 80%;
+  max-width: 80%;
+  margin: 4px auto 12px;
+  text-align: center;
+  font-size: 13px;
+  line-height: 1.5;
+  letter-spacing: 0;
+}
+
+/* 报告表题与图题使用相同的80%内容区域并居中，不继承正文首行缩进。 */
+.message-content .report-table-caption {
+  display: block;
+  width: 80%;
+  max-width: 80%;
+  margin: 12px auto 6px;
+  text-align: center;
+  font-size: 13px;
+  line-height: 1.5;
+  letter-spacing: 0;
+  text-indent: 0;
+}
+
+/* 报告落款位于参考文献之后，软件名称与日期保持统一右对齐。 */
+.message-content .report-signature {
+  width: 100%;
+  margin: 24px 0 8px;
+  text-align: right;
+  line-height: 1.8;
+  letter-spacing: 0;
+  text-indent: 0;
+}

@@ -1,0 +1,43 @@
+# ============================================================
+# requirements.txt — Python 后端依赖清单
+# Python Backend Dependencies
+# ============================================================
+# 安装方式 / Install:
+#   pip install -r requirements.txt
+# ============================================================
+
+# Web 框架 / Web Framework
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+
+# 临时聊天附件解析（不参与知识库向量化）
+python-docx>=1.1.0
+openpyxl>=3.1.0
+pdfplumber>=0.11.0
+PyMuPDF>=1.24.0
+Pillow>=10.0.0
+pypdf>=4.0.0
+magic-pdf>=1.3.0
+
+# LLM 框架 / LangChain for LLM integration
+langchain>=0.3.0
+langchain-core>=0.3.0
+
+# 注意：以下依赖可能已在 langchain 中包含
+# Note: the following may already be included with langchain
+# - httpx (DeepSeek API 通信 / API communication)
+# - openai (部分 provider 使用 / used by some providers)
+
+# 环境变量管理 / Environment variable management
+python-dotenv>=1.0.0
+
+# Oracle 数据库连接 / Oracle database access
+oracledb>=2.0.0
+cx_Oracle>=8.3.0
+
+# C# DLL 调用 / .NET Framework DLL bridge
+pythonnet>=3.0.0
+
+# 异步支持 / Async support (Python 标准库已包含，此处仅作为文档)
+# asyncio, concurrent.futures — built into Python stdlib

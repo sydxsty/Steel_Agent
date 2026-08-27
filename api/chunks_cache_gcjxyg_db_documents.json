@@ -1,0 +1,434 @@
+[
+  {
+    "content": "中华人民共和国国家标准\n\nGB/T 24186- 2022   \n代替 GB/T 24186—2009\n\n工程机械用高强度耐磨钢板和钢带\n\nHigh strength abrasion resistant steel plate sheet and strip for construction machine\n\n国家市场监督管理总局国家标准化管理委员会\n\n发布",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 0,
+      "content_sha256": "f3a0eb9c60c226f644c847bd802fda40ec6a90ac5bba833ec37b786897d2e034",
+      "doc_id": "94d9973581807208550a91c64e4db9bbff800b4daab28206737e0282878d040e"
+    }
+  },
+  {
+    "content": "前言\n\n本文件按照GB/T1.1—2020《标准化工作导则 第1部分：标准化文件的结构和起草规则》的规定起草。\n\n本文件代替GB/T24186—2009《工程机械用高强度耐磨钢板》，与 GB/T24186- -2009 相比，除结构调整和编辑性改动外，主要技术变化如下：\n\na) 更改了牌号的分类和牌号的表示方法（见第4章，2009年版的第4章）；  \nb) 增加了不平度的要求（见6.3）；  \nc 更改了化学成分中Cr、Ni、Mo合金上限；对低温韧性有要求的钢中的碳含量上限、P和S含量上限、A1s含量的下限和碳当量要求（见7.1.1，2009年版的6.1)；  \nd）增加了截面中心硬度要求、弯曲性能要求（见7.4)；  \ne）增加了对低温韧性有要求的钢板和钢带冲击韧性的检验要求（见第8章）。  \n请注意本文件的某些内容可能涉及专利。本文件的发布机构不承担识别专利的责任。  \n本文件由中国钢铁工业协会提出。\n\n本文件由全国钢标准化技术委员会（SAC/TC 183)归口。\n\n本文件起草单位：山东钢铁集团日照有限公司、湖南华菱涟源钢铁有限公司、南京钢铁股份有限公司、冶金工业信息标准研究院、东北大学、安阳钢铁股份有限公司、湖南华菱湘潭钢铁有限公司、新余钢铁股份有限公司、河北普阳钢铁有限公司、首钢集团有限公司、河钢股份有限公司邯郸分公司、山东钢铁股份有限公司莱芜分公司、钢铁研究总院、江阴兴澄特种钢铁有限公司、中煤张家口煤矿机械有限责任公司。\n\n本文件主要起草人：侯东华、刘晓东、栾彩霞、汪净、靳建锋、孙梦寒、王昭东、黄重、杨建华、朱永宽、郑磊、刘锟、韩健、王中学、孙新军、周兰聚、梁亮、许峻峰、张维旭、邓想涛、陈尹泽、罗登、杨帆、关秀格、王凯凯、李玉谦、张佩、刘坤、彭明耀、梁小凯、刘俊、朱秀光。\n\n本文件于 2009 年首次发布，本次为第一次修订。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 1,
+      "content_sha256": "fc07eff7887ffb371f6a2e2047bf1e1f7c4f079ede9a8673cf78830bd132cb39",
+      "doc_id": "b61b870e18acbf728f718895292a19ea993654992804e0b97a59ad8d4513cc1f"
+    }
+  },
+  {
+    "content": "工程机械用高强度耐磨钢板和钢带\n\n范围\n\n本文件规定了工程机械用高强度耐磨钢板和钢带的牌号表示方法、订货内容、尺寸、外形、重量、技术要求、试验方法、检验规则、包装、标志及质量证明书。\n\n本文件适用于矿山、建筑、农业等工程机械耐磨损结构部件用厚度不大于120mm的单轧钢板和厚度不大于25.4mm的钢带及剪切钢板（以下简称“钢板和钢带”）。其他领域使用的耐磨钢板和钢带可参照使用。\n\n2 规范性引用文件\n\n下列文件的内容通过文中的规范性引用而构成本文件必不可少的条款。其中，注日期的引用文件，仅该日期对应的版本适用于本文件；不注日期的引用文件，其最新版本（包括所有的修改单）适用于本文件。\n\nGB/T222 钢的成品化学成分允许偏差  \nGB/T 223.3 钢铁及合金化学分析方法二安替比林甲烷磷钼酸重量法测定磷量  \nGB/T 223.9 钢铁及合金铝含量的测定铬天青S分光光度法  \nGB/T 223.11 钢铁及合金铬含量的测定 可视滴定或电位滴定法  \nGB/T 223.17 钢铁及合金化学分析方法二安替比林甲烷光度法测定钛量  \nGB/T 223.23 钢铁及合金镍含量的测定 丁二酮肟分光光度法  \nGB/T 223.26 钢铁及合金钼含量的测定硫氰酸盐分光光度法  \nGB/T 223.60 钢铁及合金化学分析方法高氯酸脱水重量法测定硅含量  \nGB/T223.63 钢铁及合金化学分析方法高碘酸钠（钾)光度法测定锰量  \nGB/T 223.68 钢铁及合金化学分析方法管式炉内燃烧后碘酸钾滴定法测定硫含量  \nGB/T 223.69 钢铁及合金碳含量的测定管式炉内燃烧后气体容量法  \nGB/T 223.78 钢铁及合金化学分析方法姜黄素直接光度法测定硼含量  \nGB/T 223.79 钢铁多元素含量的测定X-射线荧光光谱法(常规法)  \nGB/T 228.1 金属材料拉伸试验第1部分:室温试验方法  \nGB/T 229 金属材料 夏比摆锤冲击试验方法  \nGB/T 231.1 金属材料布氏硬度试验第1部分：试验方法  \nGB/T 232 金属材料弯曲试验方法  \nGB/T 247 钢板和钢带包装、标志及质量证明书的一般规定  \nGB/T709—2019热轧钢板和钢带的尺寸、外形、重量及允许偏差  \nGB/T 2975 钢及钢产品力学性能试验取样位置及试样制备  \nGB/T4336 碳素钢和中低合金钢多元素含量的测定 火花放电原子发射光谱法（常规法）  \nGB/T 8170 数值修约规则与极限数值的表示和判定  \nGB/T 14977 热轧钢板表面质量的一般要求  \nGB/T17505 钢及钢产品交货一般技术要求  \nGB/T 20066 钢和铁 化学成分测定用试样的取样和制样方法",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 2,
+      "content_sha256": "114e10220749b35304083e25e9310cb70f26025666062429551d4eeb30698a31",
+      "doc_id": "3a6f57703c78f4f30d82134a213594d4bdcf44ab90e59447f69c0f8c1ba8a12d"
+    }
+  },
+  {
+    "content": "GB/T 24186—2022\n\nGB/T20123 钢铁 总碳硫含量的测定 高频感应炉燃烧后红外吸收法（常规方法）GB/T20125 低合金钢 多元素的测定 电感耦合等离子体原子发射光谱法\n\n3 术语和定义\n\n本文件没有需要界定的术语和定义。\n\n牌号表示方法\n\n钢的牌号由“耐磨”的汉语拼音首字母“NM”、规定表面布氏硬度数值两部分组成，对有低温韧性要求的钢的牌号由“耐磨”的汉语拼音首字母“NM”、规定表面布氏硬度数值及质量等级符号（D、E）三部分组成。\n\n示例1：NM500NM—“耐磨”的汉语拼音首字母；500 —表面布氏硬度数值。\n\n示例2：NM500D  \nNM—“耐磨”的汉语拼音首字母；500 ——表面布氏硬度数值；  \nD 质量等级符号。\n\n5 订货内容\n\n按照本文件订货的合同或订单应包含下列内容：\n\na) 本文件编号；  \nb) 产品名称；  \nc) 牌号；  \nd) 尺寸及不平度精度；交货状态；重量；  \ng) 其他特殊要求。\n\n6 尺寸、外形、重量\n\n6.1 各牌号的厚度范围应符合表1的规定。\n\n表1 厚度范围\n\n单位为毫米",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 3,
+      "content_sha256": "e08daa97327e54fb1f8c954a21fd519dbad928470bc0f092320aabefc6a2721e",
+      "doc_id": "75ff063b7ca21e562dfafd2a448f844dc2156dcde4700934d254c2b3d71644c5"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>牌号</td><td>厚度范围</td></tr><tr><td>NM300 NM300D/E</td><td>≤120</td></tr><tr><td>NM360 NM360D/E</td><td>≤120</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 4,
+      "content_sha256": "bccae1e7bf3d3ece8b82eda1a6d5892647f2ac0dcca30ce35e0ebedd3031bb41",
+      "doc_id": "c993e8b8accc9882cbc153e05b36444e2740c4cd67a2f4272cba2ba37b2fdb31"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>牌号</td><td>厚度范围</td></tr><tr><td>NM400 NM400D/E</td><td>M120</td></tr><tr><td>NM450 NM450D/E</td><td>M120</td></tr><tr><td>NM500 NM500D/E</td><td>≤100</td></tr><tr><td>NM550 NM550D/E</td><td>≤100</td></tr><tr><td>NM600 NM600D/E</td><td>≤60</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 5,
+      "content_sha256": "5ae2df6659d8745684a32fa17efdd0dd031b1b7029e72dd7ec52ae3ec56e7520",
+      "doc_id": "0967a7f982e29097ab25bf16d3d8a8fbdfb77b4ec0705a24bb4a65860df9206f"
+    }
+  },
+  {
+    "content": "6.2 钢板和钢带的尺寸、外形、重量及允许偏差应符合 GB/T709—2019的规定。 连轧钢板的厚度公 差按GB/T709—2019表4的规定执行。\n\n6.3 单轧钢板的不平度可按GB/T709—2019的H类执行。 经供需双方协商并在合同中注明，单轧钢 板和连轧钢板的不平度也可按 GB/T709—2019的L类PF.A执行。\n\n7 技术要求\n\n7.1 牌号及化学成分\n\n7.1.1 钢的牌号和化学成分（熔炼分析)应符合表2或表3的规定。\n\n表2 钢的牌号及化学成分",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 6,
+      "content_sha256": "cedd13183e46fa5b3879e1493a655198cda5d1f731d76d0c62e9fe7d88ec0867",
+      "doc_id": "083de7bec2ce45642836411558971fe77f63b8ed53ac7c09265c808d1448fdcb"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">牌号</td><td colspan=\"11\">化学成分\"（质量分数） %</td></tr><tr><td></td><td>Si</td><td>Mn</td><td></td><td></td><td></td><td>Ni</td><td>Mo</td><td>Ti</td><td rowspan=\"2\"></td><td>酸溶铝 (Als)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>不大于</td><td></td><td></td><td></td><td>不小于</td></tr><tr><td>NM300</td><td>0.23</td><td>0.70</td><td>1.60</td><td>0.025</td><td>0.015</td><td>0.80</td><td>0.50</td><td>0.40</td><td>0.050</td><td>0.0005~0.0060</td><td>0.010</td></tr><tr><td>NM360</td><td>0.25</td><td>0.70</td><td>1.60</td><td>0.025</td><td>0.015</td><td>0.90</td><td>0.50</td><td>0.50</td><td>0.050</td><td>0.000 5~0.006 0</td><td>0.010</td></tr><tr><td>NM400</td><td>0.30</td><td>0.70</td><td>1.60</td><td>0.025</td><td>0.010</td><td>1.20</td><td>0.70</td><td>0.50</td><td>0.050</td><td>0.000 5~0.006 0</td><td>0.010</td></tr><tr><td>NM450</td><td>0.35</td><td>0.70</td><td>1.70</td><td>0.025</td><td>0.010</td><td>1.40</td><td>0.80</td><td>0.55</td><td>0.050</td><td>0.000 5~0.006 0</td><td>0.010</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 7,
+      "content_sha256": "dbbbeebcb3c548934481d013b26a63bc1ad80f95c15d81e9cb6ab18f1f66eab9",
+      "doc_id": "3e301c61261d39f3cc4dfbde90e1cca6d993b44848df81257540b43cf2ea7d25"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">牌号</td><td colspan=\"11\">化学成分\"（质量分数） %</td></tr><tr><td>NM500</td><td>0.38</td><td>0.70</td><td>1.70</td><td>0.020</td><td>0.010</td><td>1.50</td><td>1.00</td><td>0.65</td><td>0.050</td><td>0.000 5~0.0060</td><td>0.010</td></tr><tr><td>NM550</td><td>0.38</td><td>0.70</td><td>1.70</td><td>0.020</td><td>0.010</td><td>1.50</td><td>1.50</td><td>0.70</td><td>0.050</td><td>0.000 5~0.006 0</td><td>0.010</td></tr><tr><td>NM600</td><td>0.45</td><td>0.70</td><td>1.90</td><td>0.020</td><td>0.010</td><td>1.60</td><td>2.00</td><td>0.80</td><td>0.050</td><td>0.000 5~0.006 0</td><td>0.010</td></tr><tr><td colspan=\"16\">经供需双方协商 /1 Mr 含量可 分别提高至 2.00%和 2.50% 此时钢中的 B含量下限可不做要求</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 8,
+      "content_sha256": "3ff72b95c267b35c7e55afcbe42880b9a8295a400b29d12178dcd2ea22c36944",
+      "doc_id": "c275ab09fee86de508e2885f5a67c875a91f073e392016167ccd26753b322aa6"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">牌号</td><td colspan=\"11\">化学成分（质量分数） %</td></tr><tr><td></td><td>Si</td><td>Mn</td><td></td><td></td><td>Ni</td><td>Mo</td><td></td><td rowspan=\"2\"></td><td>Als</td><td colspan=\"2\">碳当量(CEV) 不大于</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td colspan=\"4\">不大于</td><td rowspan=\"2\"></td><td rowspan=\"2\">不小于</td><td rowspan=\"2\">公称厚度 ≤50</td><td rowspan=\"2\">公称厚度 mm >50</td></tr><tr><td></td><td>0.020</td><td>0.010</td><td>0.80</td></tr><tr><td>NM300D/E</td><td>0.23</td><td>0.70</td><td>1.60</td><td>0.020 0.010</td><td>0.80</td><td>0.60</td><td>0.40</td><td>0.050</td><td>0.000 5~0.006</td><td>0 0.015</td><td>0.45</td><td>0.57</td></tr><tr><td>NM360D/E</td><td>0.25</td><td>0.70</td><td>1.60</td><td>0.020 0.010</td><td>0.90</td><td>0.70</td><td>0.50</td><td>0.050</td><td>0.000 5~0.006</td><td>0 0.015</td><td>0.48</td><td>0.60</td></tr><tr><td>NM400D/ E</td><td>0.25</td><td>0.70</td><td>1.60</td><td>0.020 0.005</td><td>1.20</td><td>0.70</td><td>0.60</td><td>0.050</td><td>0.000 5~0.006</td><td>0 0.015</td><td>0.57</td><td>0.67</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 9,
+      "content_sha256": "5c511f8d3eb00b81619663dae5b40453386a7935bba9cd27f1a145787c75529a",
+      "doc_id": "aef4b8fe9ac7b4aeb8e66c538b3199b53be9ef7173258e61b48014da03af19fd"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">牌号</td><td colspan=\"11\">化学成分（质量分数） %</td></tr><tr><td>NM450D/E</td><td>0.30</td><td>0.70</td><td>1.70</td><td>0.020 0.005</td><td>1.40</td><td>1.00</td><td>0.60</td><td>0.050</td><td>0.000 5~0.006</td><td>0.015 O</td><td>0.59</td><td>0.74</td></tr><tr><td>NM500D/E</td><td>0.35</td><td>0.70</td><td>1.70</td><td>0.015 0.005</td><td>1.50</td><td>1.50</td><td>0.65</td><td>0.050</td><td>0.000 5~0.006</td><td>0 0.015</td><td>0.64</td><td>0.77</td></tr><tr><td>NM550D/E</td><td>0.38</td><td>0.70</td><td>1.70</td><td>0.015 0.005</td><td>1.50</td><td>1.50</td><td>0.70</td><td>0.050</td><td>0.000 5~0.006</td><td>0 0.015</td><td>0.72</td><td>0.82</td></tr><tr><td>NM600D/E</td><td>0.45</td><td>0.70</td><td>1.90</td><td>0.015 0.005</td><td>1.60</td><td>2.00</td><td>0.80</td><td>0.050</td><td>0.0005~0.006</td><td>0 0.015</td><td>0.84</td><td>0.94</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 10,
+      "content_sha256": "ac53763b7b866fc842bf8a4e6e22696518e97361b859dcb52311b944fb2d3808",
+      "doc_id": "e6e9d1fb2b24221cc669cdf0769c1201c60cde58654e722bfb852059c78aab2b"
+    }
+  },
+  {
+    "content": "7.1.2 在保证钢材性能的前提下，表2、表3中规定的Cr、Ni、Mo合金元素可单独或组合加入，也可添加表2、表3规定以外的其他合金元素，其合金元素及其含量应在质量证明书中注明。\n\n7.1.3 在钢中Cu作为残余元素时，其含量应不大于0.30%；As含量应不大于0.08%。 如供方能保证，可不做分析。\n\n7.1.4 对低温韧性有要求的钢的恢当量应符合表3的规定。恢当量计算见公式(1）：\n\nCEV = C + Mn/6 + (Cr + Mo + V)/5 + (Cu + Ni)/15 …………………(1)式中：CEV 碳当量，%；C、Mn、Cr、Mo、V、Cu、Ni —对低温韧性有要求的钢的化学成分的质量分数，%。\n\n7.1.5 当采用全铝（Alt)含量计算时，Alt含量应不小于0.015%，对低温韧性有要求的钢的Alt含量应不小于0.020％。7.1.6 经供需双方协商，并在合同中注明，TiC增强型钢的化学成分见附录A。7.1.7 当需方要求进行成品化学成分分析时，其成品化学成分允许偏差应符合GB/T222的规定。\n\n7.2 冶炼方法\n\n钢由转炉或电炉治炼，并进行炉外精炼。\n\n7.3 交货状态\n\n钢材以淬火、淬火十回火、TMCP十回火状态交货，或以热轧状态（热处理前热轧状态钢材)交货。\n\n7.4 力学及工艺性能\n\n7.4.1 硬度试验\n\n钢板和钢带的表面布氏硬度应符合表4的规定。 当需方对截面中心布氏硬度有要求时，经供需双方协商可参照表4的要求执行。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 11,
+      "content_sha256": "adf3c1021986bf8ffbaab3a48ab6a057b4ab9cc195e4007b16173515bf78d146",
+      "doc_id": "8aaa10c90482d3c3896e0a5dcb2fd873c67966ef5dd639ec2e12b35a13da056e"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>牌号</td><td>厚度 mm</td><td>表面布氏硬度(HBW)</td><td>截面中心布氏硬度(HBW)</td></tr><tr><td rowspan=\"2\">NM300 NM300D/E</td><td>≤80</td><td>270~330</td><td>240~330</td></tr><tr><td>>80~120</td><td>270~340</td><td></td></tr><tr><td rowspan=\"2\">NM360 NM360D/E</td><td>≤80</td><td>330~400</td><td>295~400</td></tr><tr><td>>80~120</td><td>330~400</td><td></td></tr><tr><td rowspan=\"2\">NM400 NM400D/E</td><td>≤80</td><td>370~430</td><td>330~430</td></tr><tr><td>>80~120</td><td>360~440</td><td></td></tr><tr><td rowspan=\"2\">NM450 NM450D/E</td><td>≤80</td><td>420~480</td><td>375~480</td></tr><tr><td>>80~120</td><td>410~480</td><td></td></tr><tr><td rowspan=\"2\">NM500 NM500D/E</td><td>≤70</td><td>470~540</td><td>420~540</td></tr><tr><td>>70~100</td><td>450~540</td><td></td></tr><tr><td rowspan=\"2\">NM550 NM550D/E</td><td>≤70</td><td>520~580</td><td>475~580</td></tr><tr><td>>70~100</td><td>500~580</td><td></td></tr><tr><td>NM600 NM600D/E</td><td>≤60</td><td>570~640</td><td>510~640</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 12,
+      "content_sha256": "8746fc2138d7c23cf81a58fb5864eeaffcbee94fcc92418878247ccc950dc311",
+      "doc_id": "6fcac352f5194aca8c5cc91890e62681abc308fb5f5f692eb0292429d0ec3bdb"
+    }
+  },
+  {
+    "content": "7.4.2 夏比（V型缺口）冲击试验\n\n7.4.2.1 对低温韧性有要求的钢板和钢带的夏比（V型缺口）冲击试验应符合表5的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 13,
+      "content_sha256": "73819aa2bc75b5e368e3af46babb3450ef09c75f6ac37bb23c574e2ea0642e0e",
+      "doc_id": "91014716f300264aa3b9e3c9ff5920be6cdaceb898de4332a62b1881a12e25b8"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>牌号</td><td>厚度 mm</td><td>纵向冲击吸收能量ab(KV2) J 不小于</td></tr><tr><td rowspan=\"2\">NM300D/E</td><td>≤80</td><td>24</td></tr><tr><td>>80~120</td><td>21</td></tr><tr><td rowspan=\"2\">NM360D/E</td><td>≤80</td><td>24</td></tr><tr><td>>80~120</td><td>21</td></tr><tr><td rowspan=\"2\">NM400D/E</td><td>≤80</td><td>24</td></tr><tr><td>>80~120</td><td>21</td></tr><tr><td rowspan=\"2\">NM450D/E</td><td>三80</td><td>24</td></tr><tr><td>>80~120</td><td>21</td></tr><tr><td rowspan=\"2\">NM500D/E</td><td>≤60</td><td>21</td></tr><tr><td>>60~100</td><td>18</td></tr><tr><td colspan=\"3\">NM550D/E和 NM600D/E的纵向冲击吸收能量可由供需双方协商确定。</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 14,
+      "content_sha256": "f76f297f0e7f5ccb8f1c031100e3a9d7d4af2d8e2480a7ce89c5106e4be2a94b",
+      "doc_id": "db97a2241f869f23ca40815d5daa7937f006a55a60e5c53ac8008f9d5e2d4d47"
+    }
+  },
+  {
+    "content": "7.4.2.2 夏比（V型缺口）冲击吸收能量按三个试样的算术平均值计算，允许其中一个试样值比表5中规定值低，但不应低于规定值的70％。  \n7.4.2.3 厚度小于6mm的钢板和钢带不做冲击试验。  \n7.4.2.4 冲击试样尺寸为10mm×10 mm×55 mm的标准试样，其纵向冲击吸收能量应符合表5的规定值；当钢板和钢带不足以制取标准试样时，应采用7.5mm×10 mm×55 mm 或5mm×10mmX55 mm的小尺寸试样，其纵向冲击吸收能量应不小于表5规定值的75％或50%，优先采用大尺寸试样。\n\n7.4.3 拉伸试验\n\n经供需双方协商，并在合同中注明，对厚度不大于80 mm 的钢板和钢带可进行横向拉伸试验，其试验结果可参考表6的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 15,
+      "content_sha256": "9792b1522be006f1ffc5d65eea462f9174ff1cd9182698c36b5519b01d3bd338",
+      "doc_id": "81579d6edc525b2817c0578b82546ab0c1417dc769a2254c03992f2b04fb7082"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>牌号</td><td>抗拉强度（Rm） MPa 不小于</td><td>断后伸长率(A50mm） % 不小于</td></tr><tr><td>NM300 NM300D/E</td><td>c:) 000</td><td>14</td></tr><tr><td>NM360 NM360D/E</td><td>1100</td><td>12</td></tr><tr><td>NM400 NM400D/E</td><td>1200</td><td>10</td></tr><tr><td>NM450 NM450D/E</td><td>1250</td><td>8</td></tr><tr><td>NM500 NM500D/E</td><td>1350</td><td>7</td></tr><tr><td colspan=\"3\">NM550、NM550D/E、NM600 和 NM600D/E的抗拉强度和断后伸长率可由供需双方协商确定。</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 16,
+      "content_sha256": "99f160ae92fded68e017943bbc28a44c1eb460e356d66a4092df785e413fd0f1",
+      "doc_id": "4f89ab6dd0ddc9f09cc2ba79572b56a7b56fecde4da382d26dd70897f1d01ab2"
+    }
+  },
+  {
+    "content": "7.4.4 弯曲试验\n\n经供需双方协商，并在合同中注明，对有折弯要求的钢板和钢带可进行弯曲试验，其试验结果应符合表7的规定。\n\n表7 弯曲试验\n\n单位为毫米",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 17,
+      "content_sha256": "e80b0fdfd42e8fd5aea1fff4c87808aa50d5680f26a10c7fdf6cee00074007b2",
+      "doc_id": "22a92edc018a29ff26d98575cec7ef497e7d53a6b7b46303cc73f24d1b2aa14f"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>试样方向</td><td>90°弯曲试验ab</td></tr><tr><td>对于公称宽度不小于600 mm 的钢板及钢带， 弯曲试验采取横向试样</td><td>D= 6a</td></tr><tr><td colspan=\"2\">弯曲试验不适用于不大于4mm 的钢板和钢带，也不适用于NM550、NM550D/E、NM600 和 NM600D/E钢板。 试样宽度(b)为20 mm,D 为弯曲压头直径，a 为试样厚度</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 18,
+      "content_sha256": "2ae54af7ed9e13a9d20ee6f8759a9ab886409c91fc0ec2450d7b3d80f0844032",
+      "doc_id": "54153dc4ef56a31e48c0bfd1129f9551df83e421f6f8c1ca3ac623ac730f078a"
+    }
+  },
+  {
+    "content": "7.4.5 TiC增强型钢板和钢带的力学及工艺性能可由供需双方协商确定。\n\n7.4.6 热轧状态交货的钢板和钢带，不进行力学性能试验，若需方有特殊要求，可双方协商。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 19,
+      "content_sha256": "2b5f8c0714aa12fb8574bdd2f02beb6e8164ed5782bc87fe46480a33e996e4e1",
+      "doc_id": "cd53dee8ade582da460af4fef2922d02c94cfc129a04c77afdaf1a8c9f204c6e"
+    }
+  },
+  {
+    "content": "7.5 表面质量\n\n7.5.1 钢板和钢带表面不应存在裂纹、气泡、结疤、折叠和夹杂等缺陷。不应有目视可见的分层。如有上述表面缺陷，允许清理，清理深度从钢板实际尺寸算起，不应超过钢板厚度公差之半，并应保证钢板的最小厚度。缺陷清理处应平滑无棱角。  \n7.5.2 钢板和钢带表面允许有不妨碍检查表面的薄层氧化铁皮、铁锈由于压入氧化铁皮脱落所引起的表面粗糙、划伤、压痕及其他局部缺欠，但其深度不应大于厚度公差之半，并应保证钢板的最小厚度。7.5.3 钢板和钢带不应焊补。  \n7.5.4 经供需双方协商，并在合同中注明，钢板和钢带的表面质量可符合GB/T14977的规定。\n\n7.6 无损检测\n\n经供需双方协商，并在合同中注明，可采用无损检测的方法检验钢板和钢带的内部质量，其检测标准和合格级别应在合同中注明。\n\n8 试验方法\n\n8.1 钢的化学成分试验方法按 GB/T 4336、GB/T 20123、GB/T 20125 或其他通用试验方法进行，仲裁时按GB/T 223.3、GB/T 223.9、GB/T223.11、GB/T 223.17、GB/T 223.23、GB/T 223.26、GB/T 223.60、GB/T 223.63、GB/T 223.68、GB/T 223.69、GB/T 223.78、GB/T223.79的规定。\n\n8.2 对表面布氏硬度试样应采用合理的方法去除脱碳层。\n\n8.3 钢板和钢带的检验项目、取样数量、取样方法及试验方法应符合表8的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 20,
+      "content_sha256": "c238c2b9c46ea94050dbacb4e524d7ae4235da81a512da1c97cbafeb9c0087c0",
+      "doc_id": "bc1b95800dc7a8fa729f63131f756137489e770eaed65dda0249f6eff46a4dc3"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>序号</td><td>检验项目</td><td>取样数量</td><td>取样方法</td><td>试验方法</td></tr><tr><td>1</td><td>化学成分</td><td>1个/炉</td><td>GB/T 20066</td><td>见8.1</td></tr><tr><td>2</td><td>硬度试验</td><td>1个/批</td><td>GB/T2975</td><td>GB/T 231.1</td></tr><tr><td>3</td><td>冲击试验</td><td>3个/批</td><td>GB/T2975</td><td>GB/T 229</td></tr><tr><td>4</td><td>拉伸试验</td><td>1个/批</td><td>GB/T2975</td><td>GB/T 228.1</td></tr><tr><td>5</td><td>弯曲试验</td><td>1个/批</td><td>GB/T 2975</td><td>GB/T 232</td></tr><tr><td>6</td><td>无损检验</td><td>逐张</td><td>协商</td><td>协商</td></tr><tr><td>7</td><td>外形尺寸</td><td>逐张或逐卷</td><td>协商</td><td>符合精度要求的量具</td></tr><tr><td>8</td><td>表面质量</td><td>逐张或逐卷</td><td>协商</td><td>目视</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 21,
+      "content_sha256": "c2ba48de048e990cd3d160f76a35aa6dbcb2a05ba5109057cb98643372dbabfe",
+      "doc_id": "973da95c3267621ae49875e566fbbcd326baa239fee40c24818af99fa6b2a8f2"
+    }
+  },
+  {
+    "content": "9 检验规则\n\n9.1 钢板和钢带应成批验收，每批由同一牌号、同一炉号、同一厚度、同一交货状态、同一热处理制度的  \n钢板和钢带组成，每批重量不大于60t。  \n9.2 钢板和钢带的取样数量和取样方法应符合表8的规定。  \n9.3 钢板和钢带检验项目的复验与判定规则应符合GB/T17505的规定。  \n9.4 化学成分和力学性能的检测结果按数值修约值比较法，修约规则应符合GB/T8170的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 22,
+      "content_sha256": "528415f8dfdc54d8919c8fe2f6a4406ff6c43595751fbe8ae067330451e61aa3",
+      "doc_id": "27745567f6f969b14b5fa78d346be614c1c6d4ed9a4b22ab4b6a0a854c593f23"
+    }
+  },
+  {
+    "content": "10 包装、标志及质量证明书\n\n钢板和钢带的包装、标志及质量证明书应符合GB/T 247 的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 23,
+      "content_sha256": "55ae7e986e9759f1f525ea245902760e39024c1b170e231e557771d18f1525c3",
+      "doc_id": "c28dabc39955a0f39cd37b55af6a707a5b0eba21a7c99cf7daf5982aca75b300"
+    }
+  },
+  {
+    "content": "附录A\n\n（资料性）\n\nTiC增强型钢的化学成分\n\nTiC增强型钢的化学成分见表A.1。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 24,
+      "content_sha256": "663ed5df8efc914310119a9e0411f6fed94906216d6384eef105eee2a5b39796",
+      "doc_id": "f63e3dc6c32916198dae80b171309d920ce007592bb534c7e58948d38b849295"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">牌号</td><td colspan=\"11\">化学成分（质量分数） %</td></tr><tr><td></td><td>Si</td><td>Mn</td><td></td><td></td><td></td><td></td><td>Mo</td><td></td><td>Als B</td><td></td><td>有效碳当量 (CEVeff. </td></tr><tr><td></td><td colspan=\"8\">不大于</td><td></td><td></td><td>不大于</td></tr><tr><td>NM300</td><td>0.30</td><td>0.70</td><td>1.60</td><td>0.015</td><td>0.005</td><td>1.50</td><td>2.00</td><td>0.80</td><td>0.35~0.65</td><td rowspan=\"4\">0.010~0.060</td><td rowspan=\"4\">0.0005~</td><td rowspan=\"2\">0.72</td></tr><tr><td>NM360</td><td>0.30</td><td>0.70</td><td>1.60</td><td>0.015</td><td>0.005</td><td>1.50</td><td>2.00</td><td>0.80</td><td>0.35~0.65</td></tr><tr><td>NM400</td><td>0.34</td><td>0.70</td><td>1.60</td><td>0.015</td><td>0.005</td><td>1.50</td><td>2.00</td><td>0.80</td><td>0.35~0.65</td><td>0.0060</td></tr><tr><td>NM450 NM500</td><td>0.38 0.40</td><td>0.70</td><td>1.60</td><td>0.015</td><td>0.005</td><td>1.50</td><td>2.00</td><td>0.80</td><td>0.35~0.65</td><td>0.76</td></tr><tr><td>注：CEVcf.是扣除</td><td>0.40</td><td>0.70</td><td>1.60</td><td>0.015</td><td>0.005</td><td>1.50</td><td>2.00</td><td>2.00 0.80</td><td>0.35~0.65</td><td colspan=\"2\"></td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 25,
+      "content_sha256": "3caae5ddcdb506fcc93d4291a710c5cef07a5c6dabb6c0dd06165ed595f6a098",
+      "doc_id": "b61f1bdb110318fd9ce402070d7228af76fcede85f7296eb03a987a5b2c5309e"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"3\">牌号</td><td colspan=\"11\">化学成分（质量分数） %</td></tr><tr><td colspan=\"17\">TiC所占用碳后的碳当量，计算公式如下：CEVef.（%）=C+Mn/6+（Cr+Mo+V)/5+（Cu+ Ni)/15 —Ti/4。</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT24186工程机械用高强度耐磨钢板和钢带.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 26,
+      "content_sha256": "e7621848eebd7db449bb6c2500158032abf154b8bc91067f3d7a5d424bd4e69f",
+      "doc_id": "a577dc1f5ba498686a19e76aeba09aa1e09db5eec0d0f27352570c67c5a69ace"
+    }
+  }
+]

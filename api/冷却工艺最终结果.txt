@@ -1,0 +1,798 @@
+﻿{
+  "isState": true,
+  "strCoil": "2610124902",
+  "strSteel": "X70-7",
+  "session_key": "1dd817cc-425e-4208-8450-e94011518449",
+  "arrBody": [
+    {
+      "SLAB_ID": "2610124902"
+    },
+    {
+      "HEAT_FURNACE_ID": "1"
+    },
+    {
+      "STEEL_SIGN": "X70-7"
+    },
+    {
+      "SLAB_THICK": "370.0"
+    },
+    {
+      "SLAB_WIDTH": "2540.0"
+    },
+    {
+      "SLAB_LEN": "3090.0"
+    },
+    {
+      "AIM_THICK": "25"
+    },
+    {
+      "AIM_WIDTH": "4175.0"
+    },
+    {
+      "WIDTH_ROLL_START_REMARK": "2"
+    },
+    {
+      "WIDTH_ROLL_END_REMARK": "6"
+    },
+    {
+      "C": "0.0650"
+    },
+    {
+      "Si": "0.2500"
+    },
+    {
+      "Mn": "1.5500"
+    },
+    {
+      "P": "0.0080"
+    },
+    {
+      "S": "0.0010"
+    },
+    {
+      "N": "0.0030"
+    },
+    {
+      "Nb": "0.0450"
+    },
+    {
+      "V": "0.0000"
+    },
+    {
+      "Ti": "0.0150"
+    },
+    {
+      "Alt": "0.0300"
+    },
+    {
+      "Als": "0.0250"
+    },
+    {
+      "Cu": "0.3000"
+    },
+    {
+      "Cr": "0.4000"
+    },
+    {
+      "Ni": "0.2000"
+    },
+    {
+      "Co": "0.0000"
+    },
+    {
+      "Mo": "0.1000"
+    },
+    {
+      "B": "0.0000"
+    },
+    {
+      "SLAB_FURNACE_ENT_TEMP": "57.0"
+    },
+    {
+      "PRE_HEAT_TEMP": "455.0"
+    },
+    {
+      "PRE_HEAT_TIME": "73.0"
+    },
+    {
+      "HEAT_TEMP1": "1070.0"
+    },
+    {
+      "HEAT_TIME1": "36.0"
+    },
+    {
+      "HEAT_TEMP2": "1080.0"
+    },
+    {
+      "HEAT_TIME2": "75.0"
+    },
+    {
+      "HEAT_TEMP3": "1090.0"
+    },
+    {
+      "HEAT_TIME3": "135.0"
+    },
+    {
+      "SOAK_TEMP": "1095.0"
+    },
+    {
+      "SOAK_TIME": "45.0"
+    },
+    {
+      "FURNACE_EXIT_TEMP": "1095.0"
+    },
+    {
+      "FURNACE_EXIT_TIME": "20260310072126"
+    },
+    {
+      "TEMP_ENTR": "760"
+    },
+    {
+      "TIME_ENTR": "20260310073323"
+    },
+    {
+      "COOL_TYPE": "2"
+    },
+    {
+      "SELF_TEMP": "350"
+    },
+    {
+      "SPEED": "1.05"
+    },
+    {
+      "R_PASS_ACT": "12"
+    },
+    {
+      "F_PASS_ACT": "5"
+    },
+    {
+      "FET": "835"
+    },
+    {
+      "FDT": "785"
+    },
+    {
+      "TS": "720"
+    },
+    {
+      "EL": "22.00"
+    },
+    {
+      "YS": "580"
+    },
+    {
+      "AKV": "150"
+    },
+    {
+      "N1_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N2_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N3_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N4_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N5_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N6_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N7_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N8_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N9_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N10_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N11_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N12_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N13_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N14_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N15_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N16_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N17_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N18_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N19_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N20_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N21_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N22_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N23_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N24_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N25_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N26_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N27_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N28_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N29_DESCALING_REMARK_A": "False"
+    },
+    {
+      "N30_DESCALING_REMARK_A": ""
+    },
+    {
+      "N1_DH_CAL": "340.00"
+    },
+    {
+      "N2_DH_CAL": "310.00"
+    },
+    {
+      "N3_DH_CAL": "280.00"
+    },
+    {
+      "N4_DH_CAL": "250.00"
+    },
+    {
+      "N5_DH_CAL": "220.00"
+    },
+    {
+      "N6_DH_CAL": "190.00"
+    },
+    {
+      "N7_DH_CAL": "160.00"
+    },
+    {
+      "N8_DH_CAL": "130.00"
+    },
+    {
+      "N9_DH_CAL": "105.00"
+    },
+    {
+      "N10_DH_CAL": "85.00"
+    },
+    {
+      "N11_DH_CAL": "68.00"
+    },
+    {
+      "N12_DH_CAL": "55.00"
+    },
+    {
+      "N13_DH_CAL": "44.00"
+    },
+    {
+      "N14_DH_CAL": "36.00"
+    },
+    {
+      "N15_DH_CAL": "30.00"
+    },
+    {
+      "N16_DH_CAL": "27.00"
+    },
+    {
+      "N17_DH_CAL": "25.00"
+    },
+    {
+      "N18_DH_CAL": "0"
+    },
+    {
+      "N19_DH_CAL": "0"
+    },
+    {
+      "N20_DH_CAL": "0"
+    },
+    {
+      "N21_DH_CAL": "0"
+    },
+    {
+      "N22_DH_CAL": "0"
+    },
+    {
+      "N23_DH_CAL": "0"
+    },
+    {
+      "N24_DH_CAL": "0"
+    },
+    {
+      "N25_DH_CAL": "0"
+    },
+    {
+      "N26_DH_CAL": "0"
+    },
+    {
+      "N27_DH_CAL": "0"
+    },
+    {
+      "N28_DH_CAL": "0"
+    },
+    {
+      "N29_DH_CAL": "0"
+    },
+    {
+      "N30_DH_CAL": "0"
+    },
+    {
+      "N1_DT_CAL": "1030"
+    },
+    {
+      "N2_DT_CAL": "1015"
+    },
+    {
+      "N3_DT_CAL": "1000"
+    },
+    {
+      "N4_DT_CAL": "985"
+    },
+    {
+      "N5_DT_CAL": "970"
+    },
+    {
+      "N6_DT_CAL": "955"
+    },
+    {
+      "N7_DT_CAL": "940"
+    },
+    {
+      "N8_DT_CAL": "925"
+    },
+    {
+      "N9_DT_CAL": "910"
+    },
+    {
+      "N10_DT_CAL": "895"
+    },
+    {
+      "N11_DT_CAL": "880"
+    },
+    {
+      "N12_DT_CAL": "865"
+    },
+    {
+      "N13_DT_CAL": "830"
+    },
+    {
+      "N14_DT_CAL": "815"
+    },
+    {
+      "N15_DT_CAL": "800"
+    },
+    {
+      "N16_DT_CAL": "792"
+    },
+    {
+      "N17_DT_CAL": "785"
+    },
+    {
+      "N18_DT_CAL": "0"
+    },
+    {
+      "N19_DT_CAL": "0"
+    },
+    {
+      "N20_DT_CAL": "0"
+    },
+    {
+      "N21_DT_CAL": "0"
+    },
+    {
+      "N22_DT_CAL": "0"
+    },
+    {
+      "N23_DT_CAL": "0"
+    },
+    {
+      "N24_DT_CAL": "0"
+    },
+    {
+      "N25_DT_CAL": "0"
+    },
+    {
+      "N26_DT_CAL": "0"
+    },
+    {
+      "N27_DT_CAL": "0"
+    },
+    {
+      "N28_DT_CAL": "0"
+    },
+    {
+      "N29_DT_CAL": "0"
+    },
+    {
+      "N30_DT_CAL": "0"
+    },
+    {
+      "N1_DW_CAL": "2580.00"
+    },
+    {
+      "N2_DW_CAL": "3350.00"
+    },
+    {
+      "N3_DW_CAL": "3350.00"
+    },
+    {
+      "N4_DW_CAL": "3350.00"
+    },
+    {
+      "N5_DW_CAL": "3350.00"
+    },
+    {
+      "N6_DW_CAL": "4175.00"
+    },
+    {
+      "N7_DW_CAL": "4175.00"
+    },
+    {
+      "N8_DW_CAL": "4175.00"
+    },
+    {
+      "N9_DW_CAL": "4175.00"
+    },
+    {
+      "N10_DW_CAL": "4175.00"
+    },
+    {
+      "N11_DW_CAL": "4175.00"
+    },
+    {
+      "N12_DW_CAL": "4175.00"
+    },
+    {
+      "N13_DW_CAL": "4175.00"
+    },
+    {
+      "N14_DW_CAL": "4175.00"
+    },
+    {
+      "N15_DW_CAL": "4175.00"
+    },
+    {
+      "N16_DW_CAL": "4175.00"
+    },
+    {
+      "N17_DW_CAL": "4175.00"
+    },
+    {
+      "N18_DW_CAL": "0"
+    },
+    {
+      "N19_DW_CAL": "0"
+    },
+    {
+      "N20_DW_CAL": "0"
+    },
+    {
+      "N21_DW_CAL": "0"
+    },
+    {
+      "N22_DW_CAL": "0"
+    },
+    {
+      "N23_DW_CAL": "0"
+    },
+    {
+      "N24_DW_CAL": "0"
+    },
+    {
+      "N25_DW_CAL": "0"
+    },
+    {
+      "N26_DW_CAL": "0"
+    },
+    {
+      "N27_DW_CAL": "0"
+    },
+    {
+      "N28_DW_CAL": "0"
+    },
+    {
+      "N29_DW_CAL": "0"
+    },
+    {
+      "N30_DW_CAL": "0"
+    },
+    {
+      "N1_FORCE": "42000"
+    },
+    {
+      "N2_FORCE": "56000"
+    },
+    {
+      "N3_FORCE": "57000"
+    },
+    {
+      "N4_FORCE": "58000"
+    },
+    {
+      "N5_FORCE": "57000"
+    },
+    {
+      "N6_FORCE": "62000"
+    },
+    {
+      "N7_FORCE": "60000"
+    },
+    {
+      "N8_FORCE": "58000"
+    },
+    {
+      "N9_FORCE": "56000"
+    },
+    {
+      "N10_FORCE": "55000"
+    },
+    {
+      "N11_FORCE": "54000"
+    },
+    {
+      "N12_FORCE": "53000"
+    },
+    {
+      "N13_FORCE": "74000"
+    },
+    {
+      "N14_FORCE": "72000"
+    },
+    {
+      "N15_FORCE": "69000"
+    },
+    {
+      "N16_FORCE": "61000"
+    },
+    {
+      "N17_FORCE": "53000"
+    },
+    {
+      "N18_FORCE": "0"
+    },
+    {
+      "N19_FORCE": "0"
+    },
+    {
+      "N20_FORCE": "0"
+    },
+    {
+      "N21_FORCE": "0"
+    },
+    {
+      "N22_FORCE": "0"
+    },
+    {
+      "N23_FORCE": "0"
+    },
+    {
+      "N24_FORCE": "0"
+    },
+    {
+      "N25_FORCE": "0"
+    },
+    {
+      "N26_FORCE": "0"
+    },
+    {
+      "N27_FORCE": "0"
+    },
+    {
+      "N28_FORCE": "0"
+    },
+    {
+      "N29_FORCE": "0"
+    },
+    {
+      "N30_FORCE": "0"
+    },
+    {
+      "N1_SPD": "60.00"
+    },
+    {
+      "N2_SPD": "88.80"
+    },
+    {
+      "N3_SPD": "88.80"
+    },
+    {
+      "N4_SPD": "88.80"
+    },
+    {
+      "N5_SPD": "88.80"
+    },
+    {
+      "N6_SPD": "90.00"
+    },
+    {
+      "N7_SPD": "90.00"
+    },
+    {
+      "N8_SPD": "105.00"
+    },
+    {
+      "N9_SPD": "105.00"
+    },
+    {
+      "N10_SPD": "120.00"
+    },
+    {
+      "N11_SPD": "150.00"
+    },
+    {
+      "N12_SPD": "180.00"
+    },
+    {
+      "N13_SPD": "210.00"
+    },
+    {
+      "N14_SPD": "210.00"
+    },
+    {
+      "N15_SPD": "240.00"
+    },
+    {
+      "N16_SPD": "280.00"
+    },
+    {
+      "N17_SPD": "310.00"
+    },
+    {
+      "N18_SPD": "0"
+    },
+    {
+      "N19_SPD": "0"
+    },
+    {
+      "N20_SPD": "0"
+    },
+    {
+      "N21_SPD": "0"
+    },
+    {
+      "N22_SPD": "0"
+    },
+    {
+      "N23_SPD": "0"
+    },
+    {
+      "N24_SPD": "0"
+    },
+    {
+      "N25_SPD": "0"
+    },
+    {
+      "N26_SPD": "0"
+    },
+    {
+      "N27_SPD": "0"
+    },
+    {
+      "N28_SPD": "0"
+    },
+    {
+      "N29_SPD": "0"
+    },
+    {
+      "N30_SPD": "0"
+    },
+    {
+      "N1_ENTR_DATE": "2026-03-10 07:22:52.000"
+    },
+    {
+      "N2_ENTR_DATE": "2026-03-10 07:23:35.100"
+    },
+    {
+      "N3_ENTR_DATE": "2026-03-10 07:23:43.300"
+    },
+    {
+      "N4_ENTR_DATE": "2026-03-10 07:23:51.000"
+    },
+    {
+      "N5_ENTR_DATE": "2026-03-10 07:23:59.350"
+    },
+    {
+      "N6_ENTR_DATE": "2026-03-10 07:24:08.400"
+    },
+    {
+      "N7_ENTR_DATE": "2026-03-10 07:24:17.000"
+    },
+    {
+      "N8_ENTR_DATE": "2026-03-10 07:24:26.350"
+    },
+    {
+      "N9_ENTR_DATE": "2026-03-10 07:24:35.250"
+    },
+    {
+      "N10_ENTR_DATE": "2026-03-10 07:24:44.350"
+    },
+    {
+      "N11_ENTR_DATE": "2026-03-10 07:24:53.000"
+    },
+    {
+      "N12_ENTR_DATE": "2026-03-10 07:25:02.000"
+    },
+    {
+      "N13_ENTR_DATE": "2026-03-10 07:31:42.200"
+    },
+    {
+      "N14_ENTR_DATE": "2026-03-10 07:31:53.100"
+    },
+    {
+      "N15_ENTR_DATE": "2026-03-10 07:32:04.300"
+    },
+    {
+      "N16_ENTR_DATE": "2026-03-10 07:32:14.300"
+    },
+    {
+      "N17_ENTR_DATE": "2026-03-10 07:32:23.400"
+    },
+    {
+      "N18_ENTR_DATE": ""
+    },
+    {
+      "N19_ENTR_DATE": ""
+    },
+    {
+      "N20_ENTR_DATE": ""
+    },
+    {
+      "N21_ENTR_DATE": ""
+    },
+    {
+      "N22_ENTR_DATE": ""
+    },
+    {
+      "N23_ENTR_DATE": ""
+    },
+    {
+      "N24_ENTR_DATE": ""
+    },
+    {
+      "N25_ENTR_DATE": ""
+    },
+    {
+      "N26_ENTR_DATE": ""
+    },
+    {
+      "N27_ENTR_DATE": ""
+    },
+    {
+      "N28_ENTR_DATE": ""
+    },
+    {
+      "N29_ENTR_DATE": ""
+    },
+    {
+      "N30_ENTR_DATE": ""
+    }
+  ],
+  "message": "已取得管线钢热轧实绩参考；成分和性能只用于规律判断，不得直接复用或高度仿照，最终以风电用钢标准和用户要求为准。"
+}

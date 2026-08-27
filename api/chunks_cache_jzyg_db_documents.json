@@ -1,0 +1,466 @@
+[
+  {
+    "content": "中华人民共和国国家标准\n\nGB/T 19879—2023   \n代替 GB/T 19879—2015\n\n建筑结构用钢板\n\nSteel Plate for building structure\n\n国家市场监督管理总局国家标准化管理委员会\n\n发布",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 0,
+      "content_sha256": "80a412212724a7a44a706473c14116d38507a3a5cd39b73a691f6f32672bad89",
+      "doc_id": "0f1d8c079195549199b9d6b54843b8c1332f1b64a80e12051abe6352b690ec46"
+    }
+  },
+  {
+    "content": "前言\n\n本文件按照GB/T1.1—2020《标准化工作导则 第1部分：标准化文件的结构和起草规则》的规定起草。\n\n本文件代替GB/T19879—2015《建筑结构用钢板》，与GB/T 19879—2015 相比，除结构调整和编辑性改动外，主要技术变化如下：\n\na) 更改了适用的建筑结构用钢的厚度范围（见第1章，2015年版的第1章）；  \nb) 更改了钢的牌号和化学成分要求（见7.1，2015年版的6.1）；  \nc) 更改了钢板的力学性能和工艺性能(见7.4，2015年版的6.4)d) 更改了对钢板焊补的要求（见7.5.3，2015 年版的6.5.3)；  \ne) 更改了对钢板超声检验的要求（见7.6，2015年版的6.6)；  \nf）增加了对拉伸试验试样的要求（见表7的脚注a）。\n\n请注意本文件的某些内容可能涉及专利。本文件的发布机构不承担识别专利的责任。\n\n本文件由中国钢铁工业协会提出。\n\n本文件由全国钢标准化技术委员会（SAC/TC 183)归口。\n\n本文件起草单位：舞阳钢铁有限责任公司、冶金工业信息标准研究院、张家港宏昌钢板有限公司、新余钢铁股份有限公司、湖南华菱湘潭钢铁有限公司、河北普阳钢铁有限公司、湖南华菱涟源钢铁有限公司、柳州钢铁股份有限公司、重庆钢铁股份有限公司、广东中南钢铁股份有限公司、首钢集团有限公司、中冶京诚工程技术有限公司、福建三钢闽光股份有限公司。\n\n本文件主要起草人：赵国昌、龙杰、孙梦寒、黄久贵、操瑞宏、刘喜锚、郭龙鑫、齐江华、吴铠、李宏伟、丘文生、师莉、余海群、周文波、韦明、张朋、张维旭、李冉、熊文名、张勇伟、郭潇、王东阳、程绘兵、袁勤攀、郭小龙、高旭辉、杨永达、董超、严晓敏。\n\n本文件于 2005 年首次发布，2015 年第一次修订，本次为第二次修订。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 1,
+      "content_sha256": "8e754af5822bce8eb0ea9da3bcd586a0b125a9bc05122811f25d1339d517a242",
+      "doc_id": "b056cae912d31f379aa6169a5caf1c825918a6b5089921d1efff66ce180d00de"
+    }
+  },
+  {
+    "content": "建筑结构用钢板\n\n范围\n\n本文件规定了建筑结构用钢板的牌号表示方法、订货内容、尺寸、外形、重量、技术要求、试验方法、检验规则、包装、标志及质量证明书。\n\n本文件适用于制造建筑结构、大跨度结构及其他钢结构用厚度 b mm\\~200 mm 高性能热轧钢板（以下简称钢板）。热轧钢带亦可参照本文件执行。\n\n2 规范性引用文件\n\n下列文件中的内容通过文中的规范性引用而构成本文件必不可少的条款。其中，注日期的引用文件，仅该日期对应的版本适用于本文件；不注日期的引用文件，其最新版本(包括所有的修改单)适用于本文件。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 2,
+      "content_sha256": "c8ff36b5a7c75010ce0a61652bd879aa45c7920a614f5966ace68bb43ec14ad7",
+      "doc_id": "be3543e3cf035be632f84fce30977a943d43a73124c3891a95fd2e9cc25e8d49"
+    }
+  },
+  {
+    "content": "GB/T222 钢的成品化学成分允许偏差  \nGB/T 223.5 钢铁酸溶硅和全硅含量的测定还原型硅钼酸盐分光光度法  \nGB/T 223.9 钢铁及合金铝含量的测定铬天青S分光光度法  \nGB/T 223.11 钢铁及合金铬含量的测定可视滴定或电位滴定法  \nGB/T 223.14 钢铁及合金化学分析方法钽试剂萃取光度法测定钒含量  \nGB/T 223.19 钢铁及合金化学分析方法新亚铜灵-三氯甲烷萃取光度法测定铜量  \nGB/T 223.23 钢铁及合金镍含量的测定丁二酮肟分光光度法  \nGB/T223.26 钢铁及合金钼含量的测定硫氰酸盐分光光度法  \nGB/T 223.40 钢铁及合金铌含量的测定氯磺酚S分光光度法  \nGB/T 223.58 钢铁及合金化学分析方法亚砷酸钠-亚硝酸钠滴定法测定锰量  \nGB/T223.62 钢铁及合金化学分析方法 乙酸丁酯萃取光度法测定磷量  \nGB/T223.78 钢铁及合金化学分析方法 姜黄素直接光度法测定硼含量  \nGB/T 223.79 钢铁多元素含量的测定X-射线荧光光谱法(常规法）  \nGB/T 223.81 钢铁及合金总铝和总硼含量的测定微波消解-电感耦合等离子体质谱法  \nGB/T 223.82 钢铁氢含量的测定惰性气体熔融-热导或红外法  \nGB/T 223.84 钢铁及合金钛含量的测定 二安替比林甲烷分光光度法  \nGB/T 223.85 钢铁及合金 硫含量的测定感应炉燃烧后红外吸收法  \nGB/T 223.86 钢铁及合金总碳含量的测定感应炉燃烧后红外吸收法  \nGB/T 228.1 金属材料拉伸试验第1部分：室温试验方法  \nGB/T 229 金属材料夏比摆锤冲击试验方法  \nGB/T 232 金属材料弯曲试验方法  \nGB/T 247 钢板和钢带包装、标志及质量证明书的一般规定  \nGB/T709—2019热轧钢板和钢带的尺寸、外形、重量及允许偏差  \nGB/T 2970 厚钢板超声检测方法  \nGB/T2975 钢及钢产品力学性能试验取样位置及试样制备  \nGB/T 4336 碳素钢和中低合金钢 多元素含量的测定火花放电原子发射光谱法（常规法  \nGB/T5313 厚度方向性能钢板  \nGB/T 8170 数值修约规则与极限数值的表示和判定  \nGB/T17505 钢及钢产品交货一般技术要求  \nGB/T20066 钢和铁 化学成分测定用试样的取样和制样方法  \nGB/T20123 钢铁总碳硫含量的测定高频感应炉燃烧后红外吸收法（常规方法）  \nGB/T20124 钢铁氮含量的测定惰性气体熔融热导法(常规方法）  \nGB/T20125 低合金钢 多元素的测定 电感耦合等离子体发射光谱法",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 3,
+      "content_sha256": "b904c5ed04a0f99114912bc78d6a6342c5bb178cdd7684efa8a8ad782019a188",
+      "doc_id": "6610bb294d1659a01065fd22ee19cc981fd472ec17f0011f1221328420d9d6f8"
+    }
+  },
+  {
+    "content": "3 术语和定义\n\n本文件没有需要界定的术语和定义。\n\n牌号表示方法\n\n钢的牌号由屈服强度中“屈”的汉语拼音首字母“Q”、规定的最小屈服强度数值、高性能建筑结构用钢中“高建”的汉语拼音首字母“GJ”及质量等级符号（B、C、D、E） 四部分组成。\n\n示例： Q355GJC\n\nQ —屈服强度中“屈”的汉语拼音首字母“Q”；  \n355——规定最小屈服强度数值；  \nGJ——高性能建筑结构用钢中“高建”的汉语拼音字母“GJ”；  \nC————质量等级符号。  \n对于厚度方向性能钢板，还应在牌号后加上厚度方向性能级别（Z15、Z25或Z35）。\n\n示例： Q355GJCZ25\n\nQ 屈服强度中“屈”的汉语拼音首字母“Q”；  \n355 规定最小屈服强度数值；  \nGJ 一高性能建筑结构用钢中“高建”的汉语拼音字母“GJ”；  \nC 质量等级符号；  \nZ25——厚度方向性能级别。\n\n5 订货内容\n\n按本文件订货的合同或订单包括但不限于下列内容：\n\na) 产品名称；  \nb) 本文件编号；  \n钢牌号；  \nd) 尺寸、外形；  \n1） 交货状态；  \nD 重量；  \ng) 其他要求。\n\n6 尺寸、外形、重量\n\n6.1 钢板的尺寸、外形及允许偏差应符合GB/T709—2019的规定。 厚度允许偏差应符合GB/T709—2019 中B类的规定。根据需方要求，经供需双方协议，可按GB/T709—2019 中规定的C类钢板供应。6.2 钢板按理论重量交货，理论计重采用的厚度为钢板允许的最大厚度和最小厚度的平均值。计算用钢板密度为7.85g/cm³。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 4,
+      "content_sha256": "fdb2494a59904bef7ec1dbd74867ee7f057766522d9b0d45ea43833975267ac9",
+      "doc_id": "528279002cddc6925477f1b84b000e54f51467aa73b13ae24c2f9a857de9b622"
+    }
+  },
+  {
+    "content": "7 技术要求\n\n7.1 牌号和化学成分\n\n7.1.1 钢的牌号和化学成分（熔炼分析）应符合表1的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 5,
+      "content_sha256": "ee87b1fe69fd2b3e96bf44ac1b239c58ec14c09559ac641523597d5cfe805928",
+      "doc_id": "fed71e484a0986fdebb3f63157b7beb28104a1517c41249ae8121ddb0ff6d572"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"4\">牌号</td><td rowspan=\"2\">质量 等级</td><td colspan=\"11\">化学成分（质量分数） %</td></tr><tr><td colspan=\"2\">Si</td><td rowspan=\"2\">Mn</td><td rowspan=\"2\"></td><td></td><td></td><td>Nba</td><td></td><td></td><td>Alsb</td><td>Cu</td><td>Ni</td><td>Mo</td></tr><tr><td>不大于</td><td></td><td colspan=\"4\">不大于</td><td>不小于</td><td></td><td colspan=\"3\">不大于</td></tr><tr><td rowspan=\"2\">Q235GJ</td><td>B、C</td><td>0.20</td><td rowspan=\"2\">0.35</td><td>0.60~ 1.50</td><td>0.025</td><td>0.015</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">0.015</td><td rowspan=\"2\">0.30</td><td rowspan=\"2\">0.30</td><td rowspan=\"2\">0.30</td><td rowspan=\"2\">0.08</td></tr><tr><td>D、E</td><td>0.18</td><td>0.020</td><td>0.010</td></tr><tr><td rowspan=\"2\">Q355GJ</td><td>B、C</td><td>0.20</td><td rowspan=\"2\">0.55</td><td rowspan=\"2\">三1.60</td><td>0.025</td><td>0.015</td><td rowspan=\"2\">0.150</td><td rowspan=\"2\">0.070</td><td rowspan=\"2\">0.035</td><td rowspan=\"2\">0.015</td><td rowspan=\"2\">0.30 0.30</td><td rowspan=\"2\">0.30</td><td rowspan=\"2\">0.20</td></tr><tr><td>D、E</td><td>0.18</td><td>0.020</td><td>0.010</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 6,
+      "content_sha256": "96500f796c8ed61d61957416d41a7a12a596cab164840a3975999228ed7bfaef",
+      "doc_id": "ab283c71bccbf95a117ba5ccf21456731c086913d1820f19039b167ab07f44f7"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"4\">牌号</td><td rowspan=\"2\">质量 等级</td><td colspan=\"11\">化学成分（质量分数） %</td></tr><tr><td rowspan=\"2\">Q390GJ</td><td>B、C</td><td>0.20</td><td rowspan=\"2\">0.55</td><td>≤1.70</td><td>0.025</td><td rowspan=\"2\">0.200</td><td rowspan=\"2\">0.070</td><td rowspan=\"2\">0.030</td><td rowspan=\"2\">0.015</td><td rowspan=\"2\">0.30</td><td rowspan=\"2\">0.30</td><td rowspan=\"2\">0.70</td><td rowspan=\"2\">0.50</td></tr><tr><td>D、E</td><td>0.18</td><td></td><td>0.015</td></tr><tr><td rowspan=\"2\">Q420GJ</td><td>B、C</td><td>0.20</td><td rowspan=\"2\">0.55</td><td rowspan=\"2\">≤1.70</td><td>0.020</td><td>0.010</td><td rowspan=\"2\"></td><td rowspan=\"2\">0.070</td><td rowspan=\"2\">0.030</td><td rowspan=\"2\">0.015</td><td rowspan=\"2\">0.80 0.30</td><td rowspan=\"2\">1.00</td><td rowspan=\"2\">0.50</td></tr><tr><td>D、E</td><td>0.18</td><td>0.025</td><td>0.015 0.200</td></tr><tr><td rowspan=\"2\">Q460GJ</td><td>B、C</td><td>0.20</td><td rowspan=\"2\">0.55</td><td rowspan=\"2\">≤1.70</td><td>0.020</td><td>0.010 0.015</td><td rowspan=\"2\"></td><td rowspan=\"2\">0.110</td><td rowspan=\"2\">0.030</td><td rowspan=\"2\">0.015</td><td rowspan=\"2\">1.20 0.50</td><td rowspan=\"2\">1.20</td><td rowspan=\"2\">0.50</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 7,
+      "content_sha256": "602111901083a15a06ec8a8934beb88e7f1a56694417760d2d6ede561233e659",
+      "doc_id": "eb63db1934e1b0c366599db3ab4b20702f673236eb37146d1f5371dd0c205a72"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"4\">牌号</td><td rowspan=\"2\">质量 等级</td><td colspan=\"11\">化学成分（质量分数） %</td></tr><tr><td>D、E</td><td>0.18</td><td>0.025</td><td>0.200</td></tr><tr><td rowspan=\"2\">Q500GJ</td><td></td><td>0.18</td><td rowspan=\"2\"></td><td rowspan=\"2\">≤1.80</td><td>0.020</td><td>0.010 0.015</td><td rowspan=\"2\"></td><td rowspan=\"2\">0.110</td><td rowspan=\"2\">0.030</td><td rowspan=\"2\">0.015</td><td rowspan=\"2\">1.20 0.50</td><td rowspan=\"2\">1.20</td><td rowspan=\"2\">0.60</td></tr><tr><td>C D、E</td><td>0.60</td><td>0.025</td><td>0.120</td></tr><tr><td rowspan=\"2\">Q550GJ°</td><td>)</td><td>0.18</td><td rowspan=\"2\"></td><td rowspan=\"2\">≤2.00</td><td>0.020</td><td>0.010 0.015</td><td rowspan=\"2\">0.120</td><td rowspan=\"2\">0.110</td><td rowspan=\"2\">0.030</td><td rowspan=\"2\">0.015</td><td rowspan=\"2\">1.20</td><td rowspan=\"2\">0.50 2.00</td><td rowspan=\"2\">0.60</td></tr><tr><td>D、E</td><td>0.60</td><td>0.025</td><td>0.010</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 8,
+      "content_sha256": "64897bc3870761dc75b30716e1dd3e19a6541e98727e794e943407c36f8575fd",
+      "doc_id": "4adf9f2b8992b2fc0a5a206f2f1060d33a472f895c59b5b3f2da409d2f512c0c"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"4\">牌号</td><td rowspan=\"2\">质量 等级</td><td colspan=\"11\">化学成分（质量分数） %</td></tr><tr><td rowspan=\"2\">Q620GJ</td><td></td><td>0.18</td><td rowspan=\"2\"></td><td rowspan=\"2\">≤2.00</td><td>0.020 0.025</td><td>0.015</td><td rowspan=\"2\">0.120</td><td rowspan=\"2\">0.110</td><td rowspan=\"2\">0.030</td><td rowspan=\"2\">0.015</td><td rowspan=\"2\">1.20</td><td rowspan=\"2\">0.50 2.00</td><td rowspan=\"2\">0.60</td></tr><tr><td>D、E</td><td>0.60</td><td>0.020</td><td>0.010</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 9,
+      "content_sha256": "8fd7f97f84fdddaee14f672baed5fa11e64e105cbc632c2da8caa3658fd096a1",
+      "doc_id": "f9f621b5d90c120492f11003179299888ec229d164887beb4ec9213767cf9427"
+    }
+  },
+  {
+    "content": "当V、Nb、Ti组合加入时，对于 Q235GJ、Q345GJ，(V+Nb+Ti)≤0.15%;对于 Q390GJ、Q420GJ、Q460GJ，(V+Nb+Ti)≤0.22%。允许用全铝含量（Alt)来代替酸溶铝含量（Als)，此时全铝含量（Alt)应不小于0.020%。如果钢中单独或组合加入Al、V、Nb或Ti元素时，应保证合金元素含量不低于0.015%，最小铝含量不适用。当添加硼(B)时， Q550GJ、Q620GJ、Q690GJ 及淬火加回火状态钢中的硼(B)不大于0.003%。\n\n7.1.2 对于厚度方向性能钢板，硫含量应符合 GB/T 5313 的规定。\n\n7.1.3 各牌号所有质量等级钢的碳当量（CEV)和焊接裂纹敏感性指数(Pcm)应符合表2的规定。应以碳当量交货。对于以热机械控制轧制交货的钢板，经供需双方协商并在合同中注明，钢的碳当量可用焊接裂纹敏感性指数替代。钢的碳当量或焊接裂纹敏感性指数应采用熔炼分析值并按式(1)或式（2）计算，应在质量证明书中注明用于计算碳当量（CEV)或焊接裂纹敏感性指数（Pcm)的化学成分。CEV=C+Mn/6+(Cr+Mo+V)/5+(Ni+Cu)/15 ……(1)",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 10,
+      "content_sha256": "7404deec93f8d56db24812a4b660dd257df4c669179cf7a8f82decddbb487137",
+      "doc_id": "289e9d7002c73fbe0c4fbd63992479ad5c279121f421f2c25c25c92dc6c9ebe8"
+    }
+  },
+  {
+    "content": "式中：\n\nCEV 碳当量，%；  \nC、Mn、Cr、Mo、V、Ni、Cu 化学成分（质量分数），%。Pcm=C+Si/30+Mn/20+Cu/20+Ni/60+Cr/20+Mo/15+V/10+5B\n\n…( 2）\n\n式中：\n\nPcm 焊接裂纹敏感性指数，%；  \nC、Si、Mn、Cu、Ni、Cr、Mo、V、B— 化学成分（质量分数），%。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 11,
+      "content_sha256": "b1fc8dc473f1540a7baaec57a889096511c1a69dff5d73cc17d43730202ab12c",
+      "doc_id": "8f99abb6724857b0d811595f2abaadbb5b6dce546d7f6211b9d27af5fa00bde6"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"2\">牌号</td><td rowspan=\"2\">交货状态</td><td colspan=\"4\">规定厚度的碳当量（CEV） %</td><td colspan=\"4\">规定厚度的焊接裂纹敏感性指数（Pcm） %</td></tr><tr><td>≤50b</td><td>>50~ 100</td><td>>100 150</td><td>>150~ 200</td><td>≤50b</td><td>>50~100</td><td>>100 150</td><td>>150～ 200</td></tr><tr><td></td><td></td><td colspan=\"4\">不大于</td><td colspan=\"4\">不大于</td></tr><tr><td rowspan=\"2\">Q235GJ Q355GJ</td><td>AR、CR、NR、N</td><td>0.34</td><td>0.36</td><td>0.38</td><td></td><td>0.24</td><td>0.26</td><td>0.27</td><td></td></tr><tr><td>AR,CR,NR、N</td><td>0.43</td><td>0.45</td><td>0.46</td><td>0.47</td><td>0.26</td><td>0.29</td><td>0.30</td><td>0.30</td></tr><tr><td rowspan=\"2\">Q390GJ</td><td>TMCP</td><td>0.38</td><td>0.40</td><td>协商</td><td></td><td>0.24</td><td>0.26</td><td></td><td></td></tr><tr><td>CR,NR、N,NT</td><td>0.45</td><td>0.47</td><td>0.49</td><td></td><td>0.28</td><td>0.30</td><td>0.31</td><td></td></tr><tr><td rowspan=\"3\">Q420GJ</td><td>TMCP、TMCP+T</td><td>0.40</td><td>0.43</td><td>协商</td><td></td><td>0.26</td><td>0.27</td><td></td><td></td></tr><tr><td>CR、NR、N、NT</td><td>0.48</td><td>0.50</td><td>0.52</td><td></td><td>0.30</td><td>0.33</td><td>0.34</td><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 12,
+      "content_sha256": "ebdbe87ff9ea2a4d54d73bbebc9d829d6f0cd4a779fed1a0fb53ae7f63f760fc",
+      "doc_id": "9b079804b3eda9df4565c1356810f49064317b731bc43feac2a7084ce74f1b7c"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"2\">牌号</td><td rowspan=\"2\">交货状态</td><td colspan=\"4\">规定厚度的碳当量（CEV） %</td><td colspan=\"4\">规定厚度的焊接裂纹敏感性指数（Pcm） %</td></tr><tr><td>QT</td><td>0.44</td><td>0.47</td><td>0.49</td><td></td><td>0.28</td><td>0.30</td><td>0.31</td><td></td></tr><tr><td rowspan=\"3\">Q460GJ</td><td>TMCP、TMCP+T</td><td>0.41</td><td>0.44</td><td>协商</td><td></td><td>0.26</td><td>协商</td><td></td><td></td></tr><tr><td>CR,NR、N,NT</td><td>0.52</td><td>0.54</td><td>0.56</td><td></td><td>0.32</td><td>0.34</td><td>0.35</td><td></td></tr><tr><td>QT</td><td>0.45</td><td>0.48</td><td>0.50</td><td></td><td>0.28</td><td>0.30</td><td>0.31</td><td></td></tr><tr><td rowspan=\"2\">Q500GJ</td><td>TMCP、TMCP+T</td><td>0.42</td><td>0.45</td><td>协商</td><td></td><td>0.27</td><td>协商</td><td></td><td></td></tr><tr><td>QT</td><td>0.52</td><td colspan=\"3\"></td><td>协商</td><td colspan=\"3\"></td></tr><tr><td rowspan=\"2\">Q550GJ</td><td>TMCP、TMCP+T</td><td>0.47</td><td colspan=\"3\"></td><td>0.28 协商</td><td colspan=\"3\"></td></tr><tr><td>QT</td><td>0.54</td><td colspan=\"3\"></td><td>0.29</td><td colspan=\"3\"></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 13,
+      "content_sha256": "26998f297e64750baeb5b665dd5ad034fa13ac2e37ba5f6a69706d3fab9782a7",
+      "doc_id": "61fd17c60f433f283612cae09a5f5454d9f58a3807aacbdb92c14332c5ec3923"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"2\">牌号</td><td rowspan=\"2\">交货状态</td><td colspan=\"4\">规定厚度的碳当量（CEV） %</td><td colspan=\"4\">规定厚度的焊接裂纹敏感性指数（Pcm） %</td></tr><tr><td rowspan=\"2\">Q620GJ</td><td>TMCP、TMCP+T</td><td>0.47</td><td colspan=\"3\"></td><td>0.29</td><td colspan=\"3\"></td></tr><tr><td>QT</td><td>0.58</td><td colspan=\"3\"></td><td>协商</td><td colspan=\"3\"></td></tr><tr><td rowspan=\"2\">Q690GJ</td><td>TMCP、TMCP+T</td><td>0.48</td><td colspan=\"3\"></td><td>0.30</td><td colspan=\"3\"></td></tr><tr><td>QT TMCP、TMCP+T</td><td>0.60 0.50</td><td colspan=\"3\"></td><td>协商 0.30°</td><td colspan=\"3\"></td></tr><tr><td colspan=\"10\">AR：热轧；CR：控制轧制；NR：正火轧制；N：正火；NT：正火十回火；TMCP：热机械控制轧制；TMCP+T：热机 械控制轧制十回火；QT：淬火(包括在线直接淬火)十回火。 Q500GJ、Q550GJ、 Q620GJ Q690GJ最大厚度为50 mm。 仅供参考。</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 14,
+      "content_sha256": "c0f54adfd917eba017e538c348595e6132d71c81a9087e5cb00a053696d8f307",
+      "doc_id": "00ea7d6687e76604a514838b15e80a3353ee4e5fdcd6ae4d76e09218e8ca4680"
+    }
+  },
+  {
+    "content": "7.1.4 成品钢板化学成分的允许偏差应符合 GB/T 222 的规定。\n\n7.2 冶炼方法\n\n钢由电炉或转炉冶炼，并进行炉外精炼。\n\n7.3 交货状态\n\n各牌号的交货状态应符合表2的规定，具体交货状态由供需双方商定，并在合同中注明。\n\n7.4 力学性能和工艺性能\n\n7.4.1 拉伸\n\n钢板的拉伸性能应符合表3、表4的规定。\n\n表 3 Q235GJ Q355GJ Q390GJ Q420GJ Q460GJ 钢板的拉伸性能",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 15,
+      "content_sha256": "e2ba2470de5366c47242a35118e142b63f88d7c16faced720a49638088535fac",
+      "doc_id": "df5090fc8cb01c94f45f66bf15af82594ad5340cd130b544ad7d4a367adfb91a"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"2\">牌号</td><td rowspan=\"2\">质量 等级</td><td colspan=\"4\">上屈服强度（ReH）a MPa</td><td colspan=\"3\">抗拉强度(Rm) MPa</td><td colspan=\"2\">屈强比（ReH/Rm)</td><td rowspan=\"2\">断后 伸长率 （A） %</td></tr><tr><td colspan=\"8\">钢板公称厚度 mm >16~</td></tr><tr><td></td><td></td><td>6~16</td><td>100 235~</td><td>>100~ 150 215~</td><td>150~ 200</td><td>≤100 400~</td><td>100 150 380~</td><td>>150~ 200</td><td>6~150</td><td>>150~ 200</td><td></td></tr><tr><td>Q235GJ</td><td>B、C、D、E B、C、D、E</td><td>≥235</td><td>345 355~</td><td>325 335~</td><td>325~</td><td>510 490~</td><td>510 470~</td><td>470~</td><td>≤0.80</td><td>≤0.83</td><td>≥23 ≥22</td></tr><tr><td>Q355GJ Q390GJ</td><td>B、C、D、E</td><td>≥355 ≥390</td><td>475 390~</td><td>455 370~</td><td>445</td><td>610 510~</td><td>600 490~</td><td>600</td><td>≤0.83 ≤0.83</td><td>≤0.83</td><td>≥20</td></tr><tr><td>Q420GJ</td><td>B、C、D、E</td><td>≥420</td><td>510 420~</td><td>490 400~</td><td></td><td>660 530~</td><td>640 510~</td><td></td><td>≤0.85</td><td></td><td>≥20</td></tr><tr><td>Q460GJ</td><td>B、C、D、E</td><td>≥420</td><td>540 460~</td><td>520 440~</td><td></td><td>680 570~</td><td>660 550~</td><td></td><td>≤0.85</td><td></td><td>≥20</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 16,
+      "content_sha256": "23bb927ed1f127ee9b58262245a51e64cd1028144c76ec856eea716a05fdbd7e",
+      "doc_id": "3bf7069db90fa0a3a37b354bdd53ed484ba0635bd913f52fa1b395ffdf7c553a"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"2\">牌号</td><td rowspan=\"2\">质量 等级</td><td colspan=\"4\">上屈服强度（ReH）a MPa</td><td colspan=\"3\">抗拉强度(Rm) MPa</td><td colspan=\"2\">屈强比（ReH/Rm)</td><td rowspan=\"2\">断后 伸长率 （A） %</td></tr><tr><td></td><td>如屈服现象不明显，屈服强度取规定塑性延伸强度（Rp0.2）。</td><td>≥460</td><td>590</td><td>570</td><td></td><td>720</td><td>700</td><td></td><td>≤0.85</td><td></td><td>≥18</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 17,
+      "content_sha256": "99324b5865d2e19e3e8475ee8e6137d3e75b350512e50e727c0c425058fc4e23",
+      "doc_id": "d99fecaed7fc626134f8fdf6de667af2436fbd7de1d399e883fde63648606d8f"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"4\">牌号</td><td rowspan=\"4\">质量 等级</td><td colspan=\"5\">拉伸试验</td><td colspan=\"2\"></td></tr><tr><td colspan=\"2\">上屈服强度（ReH）a MPa</td><td rowspan=\"2\">抗拉强度(Rm） MPa</td><td rowspan=\"2\"></td><td rowspan=\"2\">断后伸长率（A） % 不小于</td><td rowspan=\"2\">屈强比(ReH/Rm)</td></tr><tr><td>厚度 mm</td><td></td></tr><tr><td>12~20</td><td>>20~50</td><td>>20~50</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">Q500GJ</td><td>D</td><td rowspan=\"3\">≥500</td><td rowspan=\"3\">500~640</td><td rowspan=\"3\">610~770</td><td rowspan=\"3\"></td><td rowspan=\"3\">1</td><td rowspan=\"3\">协商</td></tr><tr><td>E</td></tr><tr><td></td></tr><tr><td rowspan=\"3\">Q550GJ</td><td></td><td rowspan=\"3\">≥550</td><td rowspan=\"3\">550~690</td><td rowspan=\"3\">670~830</td><td rowspan=\"3\"></td><td rowspan=\"3\">17</td><td rowspan=\"3\">协商</td></tr><tr><td>D</td></tr><tr><td>E C</td></tr><tr><td rowspan=\"3\">Q620GJ</td><td>D</td><td rowspan=\"3\">≥620</td><td rowspan=\"3\">620~770</td><td rowspan=\"3\"></td><td rowspan=\"3\">730~900</td><td rowspan=\"3\">17</td><td rowspan=\"3\">协商</td></tr><tr><td>E</td></tr><tr><td></td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 18,
+      "content_sha256": "e610a9a8ee047de71115ae847eee10c4ec8115f354b3df696c4ac11fa702ecc2",
+      "doc_id": "f3fd287db0649805ec6a99db28bd46a0855c2e3e89a00b8189956aeb20ffaa5c"
+    }
+  },
+  {
+    "content": "<table><tr><td rowspan=\"4\">牌号</td><td rowspan=\"4\">质量 等级</td><td colspan=\"5\">拉伸试验</td><td colspan=\"2\"></td></tr><tr><td rowspan=\"2\">Q690GJ</td><td colspan=\"2\" rowspan=\"2\">E</td><td rowspan=\"2\">≥690 690~860</td><td rowspan=\"2\">770~940</td><td rowspan=\"2\">14</td><td rowspan=\"2\"></td><td rowspan=\"2\">协商</td></tr><tr><td></td></tr><tr><td colspan=\"9\">注：伸长率按有关标准进行换算时，伸长率(A)等于17%与定标距是50 mm 的延伸率(A50 mm)等于20%相当。</td></tr><tr><td colspan=\"9\">如屈服现象不明显，屈服强度取规定塑性延伸强度（Rp0.2）。</td></tr></table>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 19,
+      "content_sha256": "26b0bdba720104ed1f1694f85fd1caffda3d86c65a6b745262e218781e20c144",
+      "doc_id": "4054ea85d8177db1c70224ec125a62ca954ee174eba4519deac5a947dbb28a79"
+    }
+  },
+  {
+    "content": "7.4.2 夏比（V型缺口）冲击试验\n\n7.4.2.1 各个质量等级钢板的夏比（V型缺口）冲击性能应符合表5的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 20,
+      "content_sha256": "68013a3114712e24f17d11abbd34401c0e214a75cfe7ba8b04598c3af128fcb3",
+      "doc_id": "ae7a8cb1f4029d1efe4891ed3dc895b1d4b065d0443c60cd29d8d3f195da1388"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td rowspan=\"2\">牌号</td><td rowspan=\"2\">质量等级</td><td colspan=\"3\">夏比（V型缺口）冲击试验</td></tr><tr><td>试验温度</td><td>试样方向</td><td>冲击吸收能量</td></tr><tr><td rowspan=\"4\">Q390GJ、Q420GJ、 Q460GJ</td><td>B</td><td>20</td><td></td><td rowspan=\"4\">≥47</td></tr><tr><td>C</td><td>0</td><td rowspan=\"3\">纵向</td></tr><tr><td>D</td><td>20</td></tr><tr><td>E</td><td>40</td></tr><tr><td rowspan=\"3\">Q500GJ 、Q550GJ、 Q620GJ Q690GJ</td><td>C</td><td>0</td><td rowspan=\"3\">纵向</td><td>≥55</td></tr><tr><td>D</td><td>-20</td><td>≥47</td></tr><tr><td>E</td><td>-40</td><td>≥47</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 21,
+      "content_sha256": "948124942e1e284d152312726c55a6eb38c9d5f05142bdab8797201d99307944",
+      "doc_id": "3cde6fc17a8cee0d22cfcc1659a6a7b7499477f0bfecf84eb39778654e47eae7"
+    }
+  },
+  {
+    "content": "7.4.2.2 钢板的夏比（V型缺口）冲击试验结果按一组3个试样的算术平均值计算，允许其中一个试样值低于规定值，但不应低于规定值的70％。如果试验结果不符合上述规定时，应从同一张钢板（或同一样坯上）再取3个试样进行试验，前后两组6个试样的算术平均值不应低于规定值，允许有2个试样小于规定值，但其中小于规定值70％的试样只允许有1个。\n\n7.4.2.3 公称厚度不小于6mm 或公称直径不小于12mm 的钢材应做冲击试验，冲击试样尺寸取  \n10 mmX10mmX55 mm 的标准试样；当钢材不足以制取标准试样时，应采用10mm×7.5 mmX  \n55 mm 或10 mm×5 mm×55 mm小尺寸试样，冲击吸收能量应分别为不小于表5规定值的75%或  \n50％，应优先采用较大尺寸试样。\n\n7.4.3 弯曲试验\n\n7.4.3.1 钢板的弯曲试验应符合表6的规定。  \n7.4.3.2 如供方能够保证弯曲试验合格，可不进行弯曲试验。\n\n表 6 弯曲试验",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 22,
+      "content_sha256": "4f0297a7937adb0432c24b839ee00460715150397132e5ca43f88ffbda2da84f",
+      "doc_id": "650fcc9fc188545c9ebdad7f36737e2205bd2ad457a14a4ada15be54291f51d2"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td colspan=\"3\">180°弯曲试验</td></tr><tr><td>钢板厚度</td><td>16 mm</td><td>>16 mm</td></tr><tr><td>试样宽度</td><td>2a</td><td>2a</td></tr><tr><td>弯曲直径</td><td>2a</td><td>3a</td></tr><tr><td colspan=\"3\">注：a为试样厚度。</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 23,
+      "content_sha256": "f44735a80be603ce45568e474395c22c34560d8f5b4f8494c243e1a24743fcf5",
+      "doc_id": "f3677ed7bce84120b47b85ab2fb74bf3276362ecd0272ac717ac8ae148f96ce9"
+    }
+  },
+  {
+    "content": "7.4.4 厚度方向性能\n\n对厚度不小于15mm 的钢板有厚度方向性能要求时，其厚度方向性能级别对应的断面收缩率应符合GB/T5313的规定。\n\n7.5 表面质量\n\n7.5.1 钢板表面不应存在裂纹、气泡、结疤、折叠、夹杂和压入的氧化铁皮。钢板不应有目视可见的分层。  \n7.5.2 钢板表面允许有不妨碍检查表面缺陷的薄层氧化铁皮、铁锈、由压入氧化铁皮脱落所引起的不显著的表面粗糙、划伤、压痕及其他局部缺陷，但其深度不应大于厚度公差之半，并应保证钢板的最小厚度。  \n7.5.3 钢板表面缺陷允许修磨清理，修磨清理处应平滑无棱角，且应保证钢板的最小厚度。钢板不准许焊补。\n\n7.6 超声检测\n\n厚度方向性能钢板应按GB/T2970逐张进行超声检测，合格级别为Ⅲ级；其他钢板根据需方要求，也可按GB/T2970的规定逐张进行超声检测，合格级别应在合同中注明。经双方协议，可采用其他文件进行超声检测，并在合同中注明检测文件和合格等级。\n\n7.7 其他要求\n\n根据需方要求，经双方协议，需方可对钢板提出其他要求，并在合同中注明。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 24,
+      "content_sha256": "bd79eed3a98301d9e48b62d22c5fe3d22ff62a8700358efab6200b9cb30889a7",
+      "doc_id": "11d0e7aae4d885b3b049972508566368b9b7436c3c2c7d5375360602f305d963"
+    }
+  },
+  {
+    "content": "8 试验方法\n\n8.1 每批钢板的检验项目、取样数量、试样方向、取样方法、试验方法应符合表7的规定。\n\n8.2 钢的化学成分试验一般按 GB/T 4336 、GB/T20123、GB/T20124、GB/T20125或通用的化学分析方法进行，仲裁时按 GB/T 223.5、GB/T 223.9、GB/T 223. 11、GB/T 223.14、GB/T 223.19、GB/T 223.23、GB/T 223.26、GB/T 223.40、GB/T 223.58、GB/T 223.62、GB/T 223.78、GB/T 223.79、GB/T 223.81、GB/T 223.82、GB/T 223.84、GB/T 223.85、GB/T223.86的规定进行。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 25,
+      "content_sha256": "7c6324332c176a38df9407ef3d03adecb0c919525161849f0501b3eebe0154a9",
+      "doc_id": "e835c1ac0be3b5a6e6b4adefd5ec2bd72484b391449509a39063983ec8e12e17"
+    }
+  },
+  {
+    "content": "<html><body><table><tr><td>序号</td><td>检验项目</td><td>取样 数量</td><td>试样 方向</td><td>取样方法</td><td>试验方法</td></tr><tr><td>1</td><td>化学成分(熔炼分析)</td><td>1个/炉</td><td></td><td>GB/T 20066</td><td>8.2</td></tr><tr><td>2</td><td>拉伸试验</td><td>1个/批</td><td>横向</td><td>GB/T 2975</td><td>GB/T 228.1</td></tr><tr><td>3</td><td>冲击试验b</td><td>3个/批</td><td>纵向</td><td>GB/T2975</td><td>GB/T 229</td></tr><tr><td>4</td><td>弯曲试验</td><td>1个/批</td><td>横向</td><td>GB/T 2975</td><td>GB/T 232</td></tr><tr><td>5</td><td>厚度方向性能试验</td><td>3个/批</td><td>垂直厚度 方向</td><td>GB/T5313</td><td>GB/T 5313</td></tr><tr><td>6</td><td>超声检测</td><td>逐张</td><td></td><td></td><td>GB/T 2970</td></tr><tr><td>7</td><td>表面</td><td>逐张</td><td></td><td></td><td>目视</td></tr><tr><td>8</td><td>尺寸、外形</td><td>逐张</td><td></td><td></td><td>符合精度要求的适宜量具</td></tr><tr><td colspan=\"6\">拉伸试验应采用全厚度矩形拉伸试样。 当试验机能力不足时，对于厚度大于25 mm 的钢板，可以采用圆形拉 伸试样，此时试样的轴线应接近钢板厚度1/4处。</td></tr></table></body></html>",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 26,
+      "content_sha256": "924e8623c0c82a02b6f427c7f5a1cad7040b5ef77935386503b4ed98b9fcc409",
+      "doc_id": "16c3be13e970c30ffd88cb6435708c9c38b926184a9afadf2bf083d41ab3214e"
+    }
+  },
+  {
+    "content": "9 检验规则\n\n9.1 检验和验收\n\n钢板的检验和验收由供方技术检验部门进行，需方有权进行验证。\n\n9.2 组批规则\n\n9.2.1 钢板应成批验收，每批钢板应由同一牌号、同一炉号、同一厚度、同一交货状态、同一热处理炉次的钢板组成，每批重量不大于60t。经供需双方协商并在合同中注明，钢板可以逐轧制张组批。9.2.2 对于厚度方向性能钢板，厚度方向性能的组批规则应符合GB/T5313的规定。\n\n9.3 复验与判定\n\n9.3.1 钢板的复验与判定应符合GB/T17505的规定。  \n9.3.2 允许供方对热处理交货复验不合格的钢板重新热处理后，作为新的一批提交验收。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 27,
+      "content_sha256": "e2c5415af9833bc662dc14ce6bdd0db9af40bc5ff7474d9227f350e160a3516c",
+      "doc_id": "b68f59d9a21ec4693745f02205b3ad07b70df5f8b2977fa390a99ab2eda2fa1c"
+    }
+  },
+  {
+    "content": "9.4 数值修约\n\n钢板的检验结果应采用修约值比较法进行修约，碳当量、焊接裂纹敏感性指数以及耐大气腐蚀指数应先按公式计算后修约，其修约规则应符合GB/T8170的规定。\n\n10 包装、标志及质量证明书\n\n钢板的包装、标志及质量证明书应符合GB/T 247 的规定。",
+    "metadata": {
+      "source": "E:\\Codex_Agent\\api\\docs\\GBT+19879-2023.pdf",
+      "page": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "type": "pdf_mineru",
+      "extractor": "mineru",
+      "source_name": "GBT+19879-2023.pdf",
+      "quality_score": 1.0,
+      "chunk_index": 28,
+      "content_sha256": "a38777f1968b803cd8d2e758d0f524de001f9f430712ae6bb7f2b2302d595e2e",
+      "doc_id": "d14a96e533f478c6894caea0a9d934c2154568ec929986337914d851192a9cc2"
+    }
+  }
+]
